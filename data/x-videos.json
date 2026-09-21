@@ -1,0 +1,59 @@
+{
+  "checked": "2026-09-21",
+  "videos": [
+    {
+      "id": "V001",
+      "title": "Cats at work · 猫咪清洁短片",
+      "author": "Atlas Remake",
+      "handle": "@atlas_remake",
+      "url": "https://x.com/atlas_remake/status/2101963044092088810",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2101961675931013120/img/n7vGLK9Y7KzMlNYi.jpg",
+      "published": "2026-09-21",
+      "checked": "2026-09-21",
+      "summary": "The author describes generating cat characters as still images before animating a house-cleaning scenario. / 作者说明先生成猫咪角色图，再制作清洁房间的短片。",
+      "image_model": "GPT Image 2.5",
+      "video_model": "Seedance 2.5",
+      "prompt_status": "Not published in the inspected post; no reconstructed prompt is attributed to the author.",
+      "related_prompt": "../prompts/07-stories-games.md#p038",
+      "related_label": "Character turnaround",
+      "rights": "Linked third-party media; excluded from MIT. No local redistribution.",
+      "verification": "Original post text, video element and poster inspected via CDP; full playback not audited."
+    },
+    {
+      "id": "V002",
+      "title": "Night-walk vlog · 深夜散步短片",
+      "author": "はすきー",
+      "handle": "@husky__create",
+      "url": "https://x.com/husky__create/status/2101970996513452133",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2101970947020619776/img/YX_4tO1UL4eJO8dd.jpg",
+      "published": "2026-09-21",
+      "checked": "2026-09-21",
+      "summary": "The author lists a storyboard-to-video workflow, with separate planning, still-image, motion, music and editing tools. / 作者列出从分镜到视频的流程，并分别标明策划、图片、视频、音乐和剪辑工具。",
+      "image_model": "GPT Image 2.5",
+      "video_model": "Gemini Omni 1.1 Flash",
+      "prompt_status": "Not published in the inspected post; no reconstructed prompt is attributed to the author.",
+      "related_prompt": "../prompts/14-sketch-to-story.md#p084",
+      "related_label": "Cinematic storyboard",
+      "rights": "Linked third-party media; excluded from MIT. No local redistribution.",
+      "verification": "Original post text, video element and poster inspected via CDP; full playback not audited."
+    },
+    {
+      "id": "V003",
+      "title": "Giant-scale scenes · 巨物场景短片",
+      "author": "Atlas Remake",
+      "handle": "@atlas_remake",
+      "url": "https://x.com/atlas_remake/status/2101961591386431550",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2101959035394326529/img/Vm0dX2biJqzcOJOd.jpg",
+      "published": "2026-09-21",
+      "checked": "2026-09-21",
+      "summary": "The author says five generated stills were turned into a motion sequence. / 作者说明把五张生成图片转成了视频。",
+      "image_model": "GPT Image 2.5",
+      "video_model": "Seedance 2.5",
+      "prompt_status": "Not published in the inspected post; no reconstructed prompt is attributed to the author.",
+      "related_prompt": "../prompts/08-spaces.md#p048",
+      "related_label": "Architectural scene",
+      "rights": "Linked third-party media; excluded from MIT. No local redistribution.",
+      "verification": "Original post text, video element and poster inspected via CDP; full playback not audited."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+name: Validate prompt library
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild and validate
+        run: |
+          python3 scripts/build_catalog.py
+          python3 scripts/build_gallery.py
+          python3 scripts/build_videos.py
+          python3 scripts/validate.py
+          git diff --exit-code
