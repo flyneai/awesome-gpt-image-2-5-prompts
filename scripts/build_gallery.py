@@ -9,21 +9,26 @@ def build():
     locales=json.loads((ROOT/'data/locales.json').read_text())
     latest={a['recipe_id']:a for a in assets if a.get('role') not in ('input','draft') and a['recipe_id']!='COVER'}
     lines=['# Visual prompt gallery', '', '[English README](../README.md) · [Prompt index](../prompts/README.md) · [Generation log](generation-log.md)', '',
-           f'Browse {len(latest)} illustrated recipes by use case. Choose a collection, then click a preview to open its complete prompt. Original PNGs remain linked on each collection page.', '',
+           f'Browse {len(latest)} illustrated recipes by use case. All recipes are displayed on this page. Jump to a category or scroll through the examples; click a preview for its complete prompt, or open the original PNG to inspect fine detail.', '',
            'These are original generated demonstrations. Follow-up suggestions are separate steps; only recorded outputs have been executed. Model IDs were not exposed by the generation tool. Examples can contain the limitations documented in their reviews.', '']
     packs=[(p['title']['en'],p['slug'],p['recipes']) for p in catalog['packs']]+[('Multilingual posters','11-multilingual',locales)]
     gallery_dir=ROOT/'docs/gallery'; gallery_dir.mkdir(exist_ok=True)
-    lines += ['| Collection | Recipes | Preview |', '| --- | --- | --- |']
+    packs=sorted(packs,key=lambda p:p[1])
+    lines += ['## Categories / 分类跳转', '', '| Collection | Recipes |', '| --- | --- |']
     for title,slug,recipes in packs:
-        a=latest[recipes[0]['id']]
-        preview='assets/previews/'+Path(a['path']).with_suffix('.jpg').name
-        lines.append(f'| [{title}](gallery/{slug}.md) | {len(recipes)} | [![{a["alt"]}](../{preview})](gallery/{slug}.md) |')
+        lines.append(f'| [{title}](#{slug}) | {len(recipes)} |')
+    lines += ['']
+    for title,slug,recipes in packs:
+        lines += [f'<a id="{slug}"></a>', '## '+title, '', f'[Open this collection separately](gallery/{slug}.md) · [Complete prompts](../prompts/{slug}.md)', '', '| | | |', '| --- | --- | --- |']
         page=['# '+title, '', '[All collections](../gallery.md) · [Complete prompts](../../prompts/'+slug+'.md)', '', '| | | |', '| --- | --- | --- |']
-        cells=[]
+        cells=[];all_cells=[]
         for r in recipes:
             a=latest[r['id']];name=r['title']['en'] if isinstance(r['title'],dict) else r['title'];link=f'../../prompts/{slug}.md#{r["id"].lower()}'
             preview='assets/previews/'+Path(a['path']).with_suffix('.jpg').name
             cells.append(f'[![{a["alt"]}](../../{preview})]({link})<br>**[{r["id"]} · {name}]({link})** · [Original PNG](../../{a["path"]})')
+            all_cells.append(cells[-1].replace('../../','../'))
+        for i in range(0,len(all_cells),3):lines.append('| '+' | '.join((all_cells[i:i+3]+['']*3)[:3])+' |')
+        lines += ['']
         for i in range(0,len(cells),3):page.append('| '+' | '.join((cells[i:i+3]+['']*3)[:3])+' |')
         (gallery_dir/f'{slug}.md').write_text('\n'.join(page)+'\n')
     (ROOT/'docs/gallery.md').write_text('\n'.join(lines).rstrip()+'\n')

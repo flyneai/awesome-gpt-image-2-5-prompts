@@ -1,5 +1,8 @@
 # 1.5.0-flyne.1 — 2026-09-21
 
+- Restored a single-page gallery of all 106 examples while keeping category pages.
+- Expanded English and Chinese homepages with three complete Flyne image briefs, three attributed video previews, a separately labeled untested motion workflow, and Chinese prompting tips.
+
 - Retained all 103 upstream recipes and 138 original example images; the Flyne edition contains 106 recipes with its three additions.
 - Added compressed previews and collection galleries while preserving original PNGs and exact generation records.
 - Preserved direct full-size PNG access from standalone previews in entry pages and case studies; clarified inherited-example labels.

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Generate navigation, counts and declared input compatibility; --check never writes."""
 import hashlib,json,re,sys
+from homepage_sections import sections
 from recipe_inputs import reference_count, TRANSPARENT_OUTPUT_IDS, LIMITS
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
@@ -53,6 +54,9 @@ def outputs():
                 start=text.index('|',text.index(heading));end=text.find('\n\n',start)
                 text=text[:start]+'<!-- BEGIN PACK TABLE -->\n'+body+'\n<!-- END PACK TABLE -->'+text[end:]
             else:text=block(text,'PACK TABLE',body)
+        if v['locale'] in ['en','zh-Hans']:
+            for name,body in sections('zh' if v['locale']=='zh-Hans' else 'en').items():
+                text=block(text,name,body)
         out[path]=text
     return out
 

@@ -72,6 +72,18 @@ def main():
         require(urlsplit(v['poster_url']).netloc=='pbs.twimg.com', 'Unexpected video preview host')
         require(v['image_model']=='GPT Image 2.5' and v['video_model']!='GPT Image 2.5', 'Missing still/video model distinction')
         require(bool(v['rights']) and bool(v['prompt_status']) and bool(v['verification']), 'Incomplete video provenance')
+    # Reader-facing coverage: a valid link alone is not a visible example.
+    gallery=(ROOT/'docs/gallery.md').read_text()
+    for r in recipes+locales:
+        require(f'**[{r["id"]} · ' in gallery, f'Full gallery omits visible recipe: {r["id"]}')
+    for filename,lang in [('README.md','en'),('README_zh.md','zh')]:
+        home=(ROOT/filename).read_text()
+        require('<details' not in home.lower(), f'Homepage examples must not be collapsed: {filename}')
+        for r in exported['core']:
+            if r['pack']=='16-flyne-x-discoveries':
+                require(r['prompt'][lang] in home and r['revision'][lang] in home, f'Homepage omits complete example: {filename} {r["id"]}')
+        for v in videos:
+            require(v['poster_url'] in home and v['url'] in home, f'Homepage omits visible video reference: {filename} {v["id"]}')
     for r in recipes:
         languages = r.get('languages', ['en','zh'])
         require(languages in [['en'], ['en','zh']], f'{r["id"]}: unsupported recipe languages')

@@ -30,7 +30,7 @@ One reference image; up to 2,000 characters. Check recipe input requirements bef
 | --- | --- | --- |
 | [![Bakery campaign](assets/previews/flyne-p092.jpg)](prompts/16-flyne-x-discoveries.md#p092) | [![Paper town](assets/previews/flyne-p093.jpg)](prompts/16-flyne-x-discoveries.md#p093) | [![Lagoon](assets/previews/flyne-p094.jpg)](prompts/16-flyne-x-discoveries.md#p094) |
 
-[Copy all three prompts](prompts/16-flyne-x-discoveries.md) · [Watch creator demos](docs/x-videos.md)
+[Copy complete prompts below](#homepage-examples) · [See the three video cases below](#homepage-videos)
 
 ## Why this prompt library exists
 
@@ -83,6 +83,144 @@ Keep the shade, pull tab, typography, background, camera and plinth unchanged.
 ```
 
 The [full recipe](prompts/01-product.md#p001) and [exact executed prompt](assets/generation/tideline-lamp.txt) offer more detail.
+
+<!-- BEGIN HOMEPAGE EXAMPLES -->
+<a id="homepage-examples"></a>
+
+## Three complete examples: inspect, copy, refine
+
+Each example below has a separately generated image. The built-in image tool did not expose its model ID; these are not verified Flyne platform or named-model tests. Start from text, then upload your approved result for the separate next edit.
+
+### P092 · Foreground bakery campaign
+
+A bakery campaign with room for final copy. Separate bread texture, hands and a blank strip instead of asking the image to invent an offer.
+
+[![Foreground bakery campaign](assets/previews/flyne-p092.jpg)](assets/images/flyne-p092.png)
+
+**Input and ratio:** no reference image, 3:4. Copy the complete prompt; replace the subject or setting to suit your brief.
+
+```text
+Asset: Foreground bakery campaign. Target aspect ratio: 3:4. Mode: generate.
+Create a vertical 3:4 editorial advertisement for a fictional neighborhood bakery. A baker in a plain cream apron holds a circular wooden board toward a camera positioned slightly above. The board is the dominant foreground object and holds exactly three distinct breads: a sourdough loaf, a small rye loaf and a braided roll. Show realistic crust, flour and natural hand anatomy with believable weight. A quiet dark olive background keeps attention on the bread. Leave an empty ivory strip at the bottom for later typesetting. No words, logos, seals or claims. Natural studio photography; no oversized hands or extra bread. This is a composition study.
+Constraints: Keep the scene coherent. Do not add text or unrelated logos.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+```
+
+**After approving the first image:** upload that version and run this edit separately.
+
+```text
+Change only the background to muted terracotta; preserve breads, board, hands and blank strip.
+```
+
+**Example review:** Three breads and blank strip are visible. Hands are partly occluded; check anatomy before commercial use.
+
+**Source and record:** inspired by [@ou_zhen599](https://x.com/ou_zhen599/status/2101964323094745493). The image above is this library’s independently generated adaptation, not the source author’s image. [Exact executed prompt](assets/generation/flyne-p092.txt) · [Recipe and adaptation notes](prompts/16-flyne-x-discoveries.md#p092).
+
+### P093 · Paper-window travel journal
+
+A travel-journal cover built around a paper window. The physical paper edge and the miniature scene need separate material descriptions.
+
+[![Paper-window travel journal](assets/previews/flyne-p093.jpg)](assets/images/flyne-p093.png)
+
+**Input and ratio:** no reference image, 3:4. Copy the complete prompt; replace the subject or setting to suit your brief.
+
+```text
+Asset: Paper-window travel journal. Target aspect ratio: 3:4. Mode: generate.
+Create a vertical 3:4 illustrated travel journal cover. A sheet of warm textured recycled paper fills the frame. An irregular oval cutout reveals an original fictional hillside town: pale houses, terracotta roofs, one winding stairway and a calm blue inlet. Layer delicate paper fibers and softly painted architectural shapes with believable shallow shadows. Keep the town coherent rather than a collage of famous landmarks. Reserve a broad blank margin above and below the opening. No words, flags, brand marks or people. Restrained ochre, ivory and blue palette. This is an editorial paper-art concept.
+Constraints: Keep the scene coherent. Do not add text or unrelated logos.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+```
+
+**After approving the first image:** upload that version and run this edit separately.
+
+```text
+Change only the time of day to a softly lit evening; preserve the paper, opening and town layout.
+```
+
+**Example review:** Paper fibers and town are visible. The opening is horizontally broad within a portrait frame; architecture is fictional.
+
+**Source and record:** inspired by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2101958048827027839). The image above is this library’s independently generated adaptation, not the source author’s image. [Exact executed prompt](assets/generation/flyne-p093.txt) · [Recipe and adaptation notes](prompts/16-flyne-x-discoveries.md#p093).
+
+### P094 · Spiral lagoon landscape
+
+A fictional aerial landscape for a mood board. Specify the spiral as shoreline geometry, then explain water-depth color without inventing a real location.
+
+[![Spiral lagoon landscape](assets/previews/flyne-p094.jpg)](assets/images/flyne-p094.png)
+
+**Input and ratio:** no reference image, 1:1. Copy the complete prompt; replace the subject or setting to suit your brief.
+
+```text
+Asset: Spiral lagoon landscape. Target aspect ratio: 1:1. Mode: generate.
+Create a square aerial photographic concept of a fictional coastal lagoon. Curved sandbars, teal shallows and a narrow band of white foam suggest a loose spiral when viewed from above. Make the pattern emerge naturally from the shoreline rather than a perfectly cut graphic symbol. Show irregular wet sand edges, changing water depth and small reef patches; soft morning light, realistic scale and one consistent sun direction. Keep the center open and calm. No boats, buildings, lettering or logos. This is fictional landscape artwork, not a real geographic location.
+Constraints: Keep the scene coherent. Do not add text or unrelated logos.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+```
+
+**After approving the first image:** upload that version and run this edit separately.
+
+```text
+Change only the morning light to overcast daylight; retain the spiral shoreline and water-depth pattern.
+```
+
+**Example review:** Lagoon and sandbar form a broad spiral; outer coast contains vegetation and reef detail. This is fictional terrain, not a geography reference.
+
+**Source and record:** inspired by [@ou_zhen599](https://x.com/ou_zhen599/status/2101959963384193293). The image above is this library’s independently generated adaptation, not the source author’s image. [Exact executed prompt](assets/generation/flyne-p094.txt) · [Recipe and adaptation notes](prompts/16-flyne-x-discoveries.md#p094).
+<!-- END HOMEPAGE EXAMPLES -->
+
+<!-- BEGIN HOMEPAGE VIDEOS -->
+<a id="homepage-videos"></a>
+
+## From stills to video: three creator references and a working brief
+
+Click each poster to watch the original on X. Model roles come from the authors: post text, player and poster were inspected; model identities were not independently verified, and full playback was not audited and complete prompts were not published. GPT Image 2.5 supplies stills; another tool supplies motion. External media is outside the repository’s MIT license; posts or previews may become unavailable.
+
+### V001 · Cats at work
+
+[![Cats at work](https://pbs.twimg.com/amplify_video_thumb/2101961675931013120/img/n7vGLK9Y7KzMlNYi.jpg)](https://x.com/atlas_remake/status/2101963044092088810)
+
+The author describes generating cat characters as still images before animating a house-cleaning scenario.
+
+**Creator and tools:** [Atlas Remake (@atlas_remake)](https://x.com/atlas_remake/status/2101963044092088810); stills: GPT Image 2.5; video: Seedance 2.5. Checked 2026-09-21.
+
+[Related still-image recipe](prompts/07-stories-games.md#p038): our suggested starting point, not the creator’s unpublished prompt.
+
+### V002 · Night-walk vlog
+
+[![Night-walk vlog](https://pbs.twimg.com/amplify_video_thumb/2101970947020619776/img/YX_4tO1UL4eJO8dd.jpg)](https://x.com/husky__create/status/2101970996513452133)
+
+The author lists a storyboard-to-video workflow, with separate planning, still-image, motion, music and editing tools.
+
+**Creator and tools:** [はすきー (@husky__create)](https://x.com/husky__create/status/2101970996513452133); stills: GPT Image 2.5; video: Gemini Omni 1.1 Flash. Checked 2026-09-21.
+
+[Related still-image recipe](prompts/14-sketch-to-story.md#p084): our suggested starting point, not the creator’s unpublished prompt.
+
+### V003 · Giant-scale scenes
+
+[![Giant-scale scenes](https://pbs.twimg.com/amplify_video_thumb/2101959035394326529/img/Vm0dX2biJqzcOJOd.jpg)](https://x.com/atlas_remake/status/2101961591386431550)
+
+The author says five generated stills were turned into a motion sequence.
+
+**Creator and tools:** [Atlas Remake (@atlas_remake)](https://x.com/atlas_remake/status/2101961591386431550); stills: GPT Image 2.5; video: Seedance 2.5. Checked 2026-09-21.
+
+[Related still-image recipe](prompts/08-spaces.md#p048): our suggested starting point, not the creator’s unpublished prompt.
+
+### Try the workflow: a subtle push-in on the P092 bakery image
+
+**Authored here; video output has not been tested.** This is not a reconstruction of any creator’s unpublished prompt.
+
+1. Generate the still with the complete P092 prompt on this page. Check the three breads, hands and blank strip; save your approved version.
+2. Upload it into a tool supporting image-to-video. Check price and available duration first; free image access does not establish free video access.
+3. If five seconds is supported, use the motion brief below. Otherwise change both the selected duration and prompt.
+4. Watch the entire output, including first and last frames. Check fingers, loaf count, warped lettering and flicker. Save the exact prompt, input, displayed model name and result; retry from the approved still if needed.
+
+```text
+Create a five-second shot from the supplied approved bakery image. Use a slow, subtle camera push-in. Preserve the number, shapes and positions of the loaves, the hands, clothing, lighting and all existing lettering. Keep the subject still; do not introduce a new person, prop, logo or text. No cuts, object morphing, hand movement or sudden camera motion. End with the same composition slightly closer.
+```
+
+**Control the change:** begin with camera motion alone. Do not simultaneously add hand movement, rotating bread and scene cuts. For exact typography, generate with blank space and add text in post-production so you can verify it separately.
+
+[Source and rights records](docs/x-videos.md) · [Workflow guide](docs/image-to-video-workflow.md)
+<!-- END HOMEPAGE VIDEOS -->
 
 ## Prompt library
 

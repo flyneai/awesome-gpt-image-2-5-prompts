@@ -57,3 +57,9 @@ python3 scripts/validate.py
 If original images change, first regenerate committed JPEG previews with `python3 scripts/build_previews.py` in an environment with Pillow 12.3.0. Originals and their generation records must remain intact. JPEG previews use a white background; inspect the original PNG when transparency matters. CI verifies source hashes, preview hashes, complete navigation and generated entry sections without needing Pillow.
 
 Edit localized entry text in `data/entry-copy.json`, not inside the generated README markers. Update the reference-count exceptions in `scripts/recipe_inputs.py` when adding recipes that require multiple inputs. `data/recipe-access.json` records declared input requirements; it must not be described as completed platform testing. Record platform attempts separately, including exact prompt, logged-in state and actual outcome.
+
+## Keep the homepage useful on its own
+
+English and Chinese homepages include complete Flyne example prompts, separate follow-up edits, visible video references and a clearly untested motion template. `scripts/homepage_sections.py` renders these from prompt exports, source records and the motion blocks in `docs/image-to-video-workflow.md`; `build_usability.py` refreshes the marked sections. Update those sources rather than editing only the generated sections.
+
+Keep the full gallery expanded on one page, with category links and lightweight previews. Separate category pages remain optional navigation. Do not replace complete homepage examples with links or collapsed blocks merely to shorten the page. Keep creator media attribution and the distinction between an observed still, an external video reference and an untested workflow beside the content readers see.
