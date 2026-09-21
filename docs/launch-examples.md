@@ -1,10 +1,10 @@
 # ChatGPT Images 2.5 launch examples: original before-and-after prompts
 
-Seven practical editing exercises by the [flaq.ai](https://flaq.ai) team, with **14 newly generated images**, English/Chinese prompts and visible review notes.
+Seven practical editing exercises by the [flaq.ai](https://flaq.ai) team, with **14 inherited example images**, English/Chinese prompts and visible review notes.
 
 Scenario inspiration: [Introducing ChatGPT Images 2.5 — OpenAI, September 8, 2026](https://openai.com/index/introducing-chatgpt-images-2-5/). We adapted the use cases into fictional subjects and new art direction. These are our prompts, not transcriptions of the official interactive demonstrations; none of the official example images were copied or used as inputs.
 
-七组场景均采用重新编写的提示词与本项目新生成输入图。官方文章是场景灵感来源；下方并非官方原图、原提示词或官方模型评测。
+七组场景均采用重新编写的提示词与源库生成的输入图。官方文章是场景灵感来源；下方并非官方原图、原提示词或官方模型评测。
 
 ## Use an example in three steps
 
@@ -34,7 +34,7 @@ The built-in image tool did not expose its model ID. These results demonstrate o
 
 | Original input | Edited output |
 | --- | --- |
-| ![Terrier cape makeover: before](../assets/previews/launch-dog-input.jpg) | ![Terrier cape makeover: after](../assets/previews/launch-dog-edit.jpg) |
+| [![Terrier cape makeover: before](../assets/previews/launch-dog-input.jpg)](../assets/images/launch-dog-input.png) | [![Terrier cape makeover: after](../assets/previews/launch-dog-edit.jpg)](../assets/images/launch-dog-edit.png) |
 
 [English + Chinese recipe](../prompts/12-launch-examples.md#p061) · [Create the input](../assets/generation/launch-dog-input.txt) · [Exact executed edit](../assets/generation/launch-dog-edit.txt)
 
@@ -48,7 +48,7 @@ The built-in image tool did not expose its model ID. These results demonstrate o
 
 | Original input | Edited output |
 | --- | --- |
-| ![Synthetic child portrait wardrobe edit: before](../assets/previews/launch-child-input.jpg) | ![Synthetic child portrait wardrobe edit: after](../assets/previews/launch-child-edit.jpg) |
+| [![Synthetic child portrait wardrobe edit: before](../assets/previews/launch-child-input.jpg)](../assets/images/launch-child-input.png) | [![Synthetic child portrait wardrobe edit: after](../assets/previews/launch-child-edit.jpg)](../assets/images/launch-child-edit.png) |
 
 [English + Chinese recipe](../prompts/12-launch-examples.md#p062) · [Create the input](../assets/generation/launch-child-input.txt) · [Exact executed edit](../assets/generation/launch-child-edit.txt)
 
@@ -62,7 +62,7 @@ The built-in image tool did not expose its model ID. These results demonstrate o
 
 | Original input | Edited output |
 | --- | --- |
-| ![Duvet pattern swap: before](../assets/previews/launch-bed-input.jpg) | ![Duvet pattern swap: after](../assets/previews/launch-bed-edit.jpg) |
+| [![Duvet pattern swap: before](../assets/previews/launch-bed-input.jpg)](../assets/images/launch-bed-input.png) | [![Duvet pattern swap: after](../assets/previews/launch-bed-edit.jpg)](../assets/images/launch-bed-edit.png) |
 
 [English + Chinese recipe](../prompts/12-launch-examples.md#p063) · [Create the input](../assets/generation/launch-bed-input.txt) · [Exact executed edit](../assets/generation/launch-bed-edit.txt)
 
@@ -76,7 +76,7 @@ The built-in image tool did not expose its model ID. These results demonstrate o
 
 | Original input | Edited output |
 | --- | --- |
-| ![Souvenir city-name replacement: before](../assets/previews/launch-ticket-input.jpg) | ![Souvenir city-name replacement: after](../assets/previews/launch-ticket-edit.jpg) |
+| [![Souvenir city-name replacement: before](../assets/previews/launch-ticket-input.jpg)](../assets/images/launch-ticket-input.png) | [![Souvenir city-name replacement: after](../assets/previews/launch-ticket-edit.jpg)](../assets/images/launch-ticket-edit.png) |
 
 [English + Chinese recipe](../prompts/12-launch-examples.md#p064) · [Create the input](../assets/generation/launch-ticket-input.txt) · [Exact executed edit](../assets/generation/launch-ticket-edit.txt)
 
@@ -90,7 +90,7 @@ The built-in image tool did not expose its model ID. These results demonstrate o
 
 | Original input | Edited output |
 | --- | --- |
-| ![Symbol-marked cube rotation: before](../assets/previews/launch-cube-input.jpg) | ![Symbol-marked cube rotation: after](../assets/previews/launch-cube-edit.jpg) |
+| [![Symbol-marked cube rotation: before](../assets/previews/launch-cube-input.jpg)](../assets/images/launch-cube-input.png) | [![Symbol-marked cube rotation: after](../assets/previews/launch-cube-edit.jpg)](../assets/images/launch-cube-edit.png) |
 
 [English + Chinese recipe](../prompts/12-launch-examples.md#p065) · [Create the input](../assets/generation/launch-cube-input.txt) · [Exact executed edit](../assets/generation/launch-cube-edit.txt)
 
@@ -104,7 +104,7 @@ The built-in image tool did not expose its model ID. These results demonstrate o
 
 | Original input | Edited output |
 | --- | --- |
-| ![One-column itinerary revision: before](../assets/previews/launch-travel-input.jpg) | ![One-column itinerary revision: after](../assets/previews/launch-travel-edit.jpg) |
+| [![One-column itinerary revision: before](../assets/previews/launch-travel-input.jpg)](../assets/images/launch-travel-input.png) | [![One-column itinerary revision: after](../assets/previews/launch-travel-edit.jpg)](../assets/images/launch-travel-edit.png) |
 
 [English + Chinese recipe](../prompts/12-launch-examples.md#p066) · [Create the input](../assets/generation/launch-travel-input.txt) · [Exact executed edit](../assets/generation/launch-travel-edit.txt)
 
@@ -118,7 +118,7 @@ The built-in image tool did not expose its model ID. These results demonstrate o
 
 | Original input | Edited output |
 | --- | --- |
-| ![Birthday candle count edit: before](../assets/previews/launch-cake-input.jpg) | ![Birthday candle count edit: after](../assets/previews/launch-cake-edit.jpg) |
+| [![Birthday candle count edit: before](../assets/previews/launch-cake-input.jpg)](../assets/images/launch-cake-input.png) | [![Birthday candle count edit: after](../assets/previews/launch-cake-edit.jpg)](../assets/images/launch-cake-edit.png) |
 
 [English + Chinese recipe](../prompts/12-launch-examples.md#p067) · [Create the input](../assets/generation/launch-cake-input.txt) · [Exact executed edit](../assets/generation/launch-cake-edit.txt)
 

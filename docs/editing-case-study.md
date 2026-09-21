@@ -1,10 +1,10 @@
 # Case study: one lamp campaign, two focused edits
 
-The goal: change a product color, then update the headline, while carrying the accepted color into the next image. All inputs are original images generated for this repository. This is a workflow demonstration, not a controlled model comparison.
+The goal: change a product color, then update the headline, while carrying the accepted color into the next image. The inputs and outputs are inherited original FLAQ examples. Click an image to inspect its full-size PNG. This is a workflow demonstration, not a controlled model comparison.
 
 ## Step 1 — Establish the campaign
 
-![Original navy lamp campaign](../assets/previews/tideline-lamp.jpg)
+[![Original navy lamp campaign](../assets/previews/tideline-lamp.jpg)](../assets/images/tideline-lamp.png)
 
 The brief specifies a navy lamp, ivory shade, orange pull tab, coral plinth and two exact text strings. [Exact generation prompt](../assets/generation/tideline-lamp.txt).
 
@@ -12,7 +12,7 @@ Approve the silhouette, composition and copy before continuing. The generated ap
 
 ## Step 2 — Change the base color
 
-![Jade-green version preserving the original headline](../assets/previews/tideline-lamp-jade.jpg)
+[![Jade-green version preserving the original headline](../assets/previews/tideline-lamp-jade.jpg)](../assets/images/tideline-lamp-jade.png)
 
 Input: [the blue campaign](../assets/images/tideline-lamp.png). [Exact edit prompt](../assets/generation/tideline-lamp-jade.txt).
 
@@ -20,7 +20,7 @@ The request targets the cylindrical base and locks the shade, pull tab, typograp
 
 ## Step 3 — Update the headline from the green version
 
-![Green lamp with YOUR EVENING, UPGRADED headline](../assets/previews/tideline-lamp-copy.jpg)
+[![Green lamp with YOUR EVENING, UPGRADED headline](../assets/previews/tideline-lamp-copy.jpg)](../assets/images/tideline-lamp-copy.png)
 
 Input: [the green version](../assets/images/tideline-lamp-jade.png), not the original blue campaign. [Exact edit prompt](../assets/generation/tideline-lamp-copy.txt).
 

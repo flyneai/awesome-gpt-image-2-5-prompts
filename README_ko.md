@@ -12,7 +12,7 @@ Flyne AI가 관리하는 오픈 소스 버전입니다. FLAQ 라이브러리를 
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · **한국어** · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI — GPT Image 2.5](assets/previews/cover.jpg)
+[![Flyne AI — GPT Image 2.5](assets/previews/cover.jpg)](assets/images/cover.png)
 
 
 **[106개 레시피 이미지 갤러리](docs/gallery.md)**

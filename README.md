@@ -16,7 +16,7 @@ One reference image; up to 2,000 characters. Check recipe input requirements bef
 
 **English** · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI GPT Image 2.5 prompt library: product imagery, illustration and storyboards](assets/previews/cover.jpg)
+[![Flyne AI GPT Image 2.5 prompt library: product imagery, illustration and storyboards](assets/previews/cover.jpg)](assets/images/cover.png)
 
 > Maintained by [Flyne AI](https://flyne.ai) for creators, designers and small brands. Adapted from our company’s [FLAQ open-source library](docs/upstream.md), with original credits preserved.
 
@@ -109,44 +109,46 @@ The [full recipe](prompts/01-product.md#p001) and [exact executed prompt](assets
 
 ## Featured examples
 
+Click an example below to inspect its original PNG at full size. JPEG previews use a white background; inspect the original when checking transparency.
+
 | Product campaign | Japanese bakery poster |
 | --- | --- |
-| ![Original portable lamp product campaign on coral and navy](assets/previews/tideline-lamp.jpg) | ![Japanese and English bakery poster with a croissant and readable headline](assets/previews/komorebi-bakery.jpg) |
+| [![Original portable lamp product campaign on coral and navy](assets/previews/tideline-lamp.jpg)](assets/images/tideline-lamp.png) | [![Japanese and English bakery poster with a croissant and readable headline](assets/previews/komorebi-bakery.jpg)](assets/images/komorebi-bakery.png) |
 | [P001 · Product brief](prompts/01-product.md#p001) | [L003 · Japanese brief](prompts/11-multilingual.md#l003) |
 
 | Wordless story | Architectural concept |
 | --- | --- |
-| ![Six-panel illustrated story of a robot repairing a paper moon](assets/previews/paper-moon-story.jpg) | ![Original reading-room interior with terracotta seating and steel windows](assets/previews/reading-room.jpg) |
+| [![Six-panel illustrated story of a robot repairing a paper moon](assets/previews/paper-moon-story.jpg)](assets/images/paper-moon-story.png) | [![Original reading-room interior with terracotta seating and steel windows](assets/previews/reading-room.jpg)](assets/images/reading-room.png) |
 | [P037 · Story brief](prompts/07-stories-games.md#p037) | [P043 · Interior brief](prompts/08-spaces.md#p043) |
 
-These images were generated for this repository using Codex’s built-in image tool. Its underlying model ID was not returned, so they are **not verified Flare or Sunburst benchmarks**. The story has a visible continuity issue in panel three; the room contains extra styling objects. Read the [honest review notes](docs/generation-log.md) before using an example as a production reference.
+These inherited images were generated for the original FLAQ library using Codex’s built-in image tool. Its underlying model ID was not returned, so they are **not verified Flare or Sunburst benchmarks**. The story has a visible continuity issue in panel three; the room contains extra styling objects. Read the [honest review notes](docs/generation-log.md) before using an example as a production reference.
 
-## New: from a Chinese walkthrough to English workflows
+## From a Chinese walkthrough to English workflows
 
 Twelve English recipes, **P074–P085**, cover sketch exploration, layout-guided interiors, character styles, a detailed tea editorial page, precise text edits, portrait continuity, logo and apparel concepts, and 9- or 16-panel storyboards.
 
-Each includes input requirements, a complete English prompt, a customization suggestion, a follow-up and review criteria. Each now includes a generated demonstration using new fictional copy and scenarios, with linked editing inputs where needed. The [source-to-recipe guide](docs/sketch-to-story.md) distinguishes explicit article prompts from workflows described only in prose.
+Each includes input requirements, a complete English prompt, a customization suggestion, a follow-up and review criteria. Each includes an inherited generated demonstration using fictional copy and scenarios, with linked editing inputs where needed. The [source-to-recipe guide](docs/sketch-to-story.md) distinguishes explicit article prompts from workflows described only in prose.
 
 **[Copy the 12 English workflow prompts →](prompts/14-sketch-to-story.md)**
 
-## New: customize a studio brief
+## Customize a studio brief
 
-Six new bilingual recipes, **P068–P073**, each include three adjustable details with defaults, alternatives and a preserve list. Use them for editorial portraits, coffee instructions, collectible packaging, handmade miniatures, greeting cards and a studio collage.
+Six inherited bilingual recipes, **P068–P073**, each include three adjustable details with defaults, alternatives and a preserve list. Use them for editorial portraits, coffee instructions, collectible packaging, handmade miniatures, greeting cards and a studio collage.
 
 | Miniature island | Collectible packaging |
 | --- | --- |
-| ![Handmade lighthouse island with two ochre boats](assets/previews/studio-lighthouse.jpg) | ![Original pocket tram collectible in clear packaging](assets/previews/studio-tram.jpg) |
+| [![Handmade lighthouse island with two ochre boats](assets/previews/studio-lighthouse.jpg)](assets/images/studio-lighthouse.png) | [![Original pocket tram collectible in clear packaging](assets/previews/studio-tram.jpg)](assets/images/studio-tram.png) |
 | [P071 · Edit one roof color](prompts/13-customizable-studio.md#p071) | [P070 · Customize colors and copy](prompts/13-customizable-studio.md#p070) |
 
 **[Browse the six customizable recipes](prompts/13-customizable-studio.md)** · [See the real roof-color edit and source notes](docs/customizable-studio.md)
 
-## New: seven launch-inspired before-and-after examples
+## Seven launch-inspired before-and-after examples
 
-Explore original adaptations of scenarios in [OpenAI’s Images 2.5 launch article](https://openai.com/index/introducing-chatgpt-images-2-5/), with bilingual recipes and 14 newly generated images.
+Explore original adaptations of scenarios in [OpenAI’s Images 2.5 launch article](https://openai.com/index/introducing-chatgpt-images-2-5/), with bilingual recipes and 14 inherited example images.
 
 | Before: three candles | After: five candles |
 | --- | --- |
-| ![Ivory birthday cake with three unlit orange candles](assets/previews/launch-cake-input.jpg) | ![The cake edited to show five unlit orange candles](assets/previews/launch-cake-edit.jpg) |
+| [![Ivory birthday cake with three unlit orange candles](assets/previews/launch-cake-input.jpg)](assets/images/launch-cake-input.png) | [![The cake edited to show five unlit orange candles](assets/previews/launch-cake-edit.jpg)](assets/images/launch-cake-edit.png) |
 
 Try pet styling, a synthetic child’s outfit change, a duvet pattern swap, city-name replacement, cube rotation or a single-column itinerary edit. Each pair includes exact prompts and an honest review. The cube result has a geometry defect; none of these outputs is a verified model benchmark.
 
@@ -156,7 +158,7 @@ Try pet styling, a synthetic child’s outfit change, a duvet pattern swap, city
 
 | 1 · Original | 2 · Change base color | 3 · Change headline |
 | --- | --- | --- |
-| ![Original navy lamp with LIGHT, UNPLUGGED headline](assets/previews/tideline-lamp.jpg) | ![Jade lamp with original headline retained](assets/previews/tideline-lamp-jade.jpg) | ![Jade lamp with revised YOUR EVENING, UPGRADED headline](assets/previews/tideline-lamp-copy.jpg) |
+| [![Original navy lamp with LIGHT, UNPLUGGED headline](assets/previews/tideline-lamp.jpg)](assets/images/tideline-lamp.png) | [![Jade lamp with original headline retained](assets/previews/tideline-lamp-jade.jpg)](assets/images/tideline-lamp-jade.png) | [![Jade lamp with revised YOUR EVENING, UPGRADED headline](assets/previews/tideline-lamp-copy.jpg)](assets/images/tideline-lamp-copy.png) |
 
 The second edit uses the **green output** as its input. The earlier color decision carries forward while the headline changes. Fine texture still drifts, and the stem changes with the base: this is a useful creative sequence, not a promise of pixel-perfect preservation. [Follow the complete case study](docs/editing-case-study.md).
 
@@ -164,7 +166,7 @@ The second edit uses the **green output** as its input. The earlier color decisi
 
 Explore six English adaptations, **P086–P091**, for ingredient lettering, fragrance storyboards, mobility posters, paper travel cards, architectural reveals and picnic announcements. Each includes a linked image from its X author, the original post, an explanation of the adaptation, customization options and a targeted follow-up.
 
-These are third-party reference previews, **not generated results of our rewritten prompts**. Our adapted prompts now have their own newly generated examples, separately labeled and documented among the 142 original image assets. X authors’ model claims are not independent benchmarks.
+These are third-party reference previews, **not generated results of our rewritten prompts**. These inherited adapted prompts have their own generated examples, separately labeled and documented among the 142 original image assets. X authors’ model claims are not independent benchmarks.
 
 **[Browse the six prompts and source images →](prompts/15-x-community.md)** · [Source and usage guide](docs/x-community.md)
 

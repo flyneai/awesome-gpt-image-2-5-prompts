@@ -28,7 +28,7 @@ These are prompt adjustments, not model fine-tuning or special API parameters. T
 
 | Default lighthouse roof | Edited lighthouse roof |
 | --- | --- |
-| ![Original handmade island with terracotta lighthouse roof](../assets/previews/studio-lighthouse.jpg) | ![Handmade island after the lighthouse roof color edit](../assets/previews/studio-lighthouse-edit.jpg) |
+| [![Original handmade island with terracotta lighthouse roof](../assets/previews/studio-lighthouse.jpg)](../assets/images/studio-lighthouse.png) | [![Handmade island after the lighthouse roof color edit](../assets/previews/studio-lighthouse-edit.jpg)](../assets/images/studio-lighthouse-edit.png) |
 
 [Default generation prompt](../assets/generation/studio-lighthouse.txt) · [Exact edit prompt](../assets/generation/studio-lighthouse-edit.txt)
 
@@ -60,7 +60,7 @@ This shortened teaching prompt is not the exact execution record. The separate t
 - **Greeting card:** check the repaired ear and verbatim copy at the intended print size.
 - **Collage:** count physical prints, not only depicted scenes; confirm that each image stays inside its own border.
 
-All seven new files were generated for this project using Codex’s built-in image tool. Its underlying model ID was not returned, so these are not verified Flare/Sunburst results. Actual observations are recorded in the [generation log](generation-log.md); the other parameter variants remain suggestions.
+All seven example files were generated for the original FLAQ library using Codex’s built-in image tool. Its underlying model ID was not returned, so these are not verified Flare/Sunburst results. Actual observations are recorded in the [generation log](generation-log.md); the other parameter variants remain suggestions.
 
 ## 中文使用说明
 

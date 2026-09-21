@@ -115,6 +115,7 @@ def main():
         require(content.count('```')%2==0,f'Unclosed code fence: {path}')
         # Remove fenced examples before checking document links.
         content=re.sub(r'```.*?```','',content,flags=re.S)
+        require(not re.search(r'(?<!\[)!\[[^\]]*\]\((?:\.\./)*assets/previews/[^)]+\)', content), f'Preview must link to original image, recipe or collection: {path.relative_to(ROOT)}')
         for match in re.finditer(r'!?\[[^\]]*\]\(([^\s)]+)(?:\s+"[^"]*")?\)',content):
             target=match.group(1).strip('<>')
             parsed=urlsplit(target)

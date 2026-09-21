@@ -12,7 +12,7 @@
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · **ไทย** · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI — GPT Image 2.5](assets/previews/cover.jpg)
+[![Flyne AI — GPT Image 2.5](assets/previews/cover.jpg)](assets/images/cover.png)
 
 
 **[แกลเลอรีภาพสำหรับพรอมป์ต์ทั้ง 106 ชุด](docs/gallery.md)**

@@ -12,7 +12,7 @@
 
 [English](README.md) · **简体中文** · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI GPT Image 2.5 提示词库封面](assets/previews/cover.jpg)
+[![Flyne AI GPT Image 2.5 提示词库封面](assets/previews/cover.jpg)](assets/images/cover.png)
 
 [直接选提示词](prompts/README.md) · [查看修图案例](docs/editing-case-study.md) · [提示词写法](docs/prompting-guide.md) · [API 使用](docs/api-guide.md) · [图片生成记录](docs/generation-log.md)
 
@@ -105,14 +105,16 @@ README现提供 **16个语言／地区版本**，默认英文。各语言入口�
 
 ## 收录的图像示例
 
+点击下方示例可打开完整 PNG，检查文字与细节。JPEG 预览使用白底；检查透明背景时请打开原始 PNG。
+
 | 商品广告 | 日英双语烘焙海报 |
 | --- | --- |
-| ![台灯产品广告：深蓝金属与珊瑚展台](assets/previews/tideline-lamp.jpg) | ![日英双语面包店海报：焼きたての朝](assets/previews/komorebi-bakery.jpg) |
+| [![台灯产品广告：深蓝金属与珊瑚展台](assets/previews/tideline-lamp.jpg)](assets/images/tideline-lamp.png) | [![日英双语面包店海报：焼きたての朝](assets/previews/komorebi-bakery.jpg)](assets/images/komorebi-bakery.png) |
 | [P001 提示词](prompts/01-product.md#p001) | [L003 提示词](prompts/11-multilingual.md#l003) |
 
 | 修补纸月亮故事 | 社区阅读室 |
 | --- | --- |
-| ![机器人修补纸月亮六格分镜](assets/previews/paper-moon-story.jpg) | ![旧工坊改造社区阅读室概念图](assets/previews/reading-room.jpg) |
+| [![机器人修补纸月亮六格分镜](assets/previews/paper-moon-story.jpg)](assets/images/paper-moon-story.png) | [![旧工坊改造社区阅读室概念图](assets/previews/reading-room.jpg)](assets/images/reading-room.png) |
 | [P037 提示词](prompts/07-stories-games.md#p037) | [P043 提示词](prompts/08-spaces.md#p043) |
 
 示例来自 Codex 内置生图工具，工具未返回底层模型ID，因此**不作为 Flare / Sunburst 的指定型号实测或横向评测**。六格故事第三格提前出现缝线；阅读室增加了杯子和花瓶。这些可见偏差均在[生成记录](docs/generation-log.md)中说明。
@@ -121,13 +123,13 @@ README现提供 **16个语言／地区版本**，默认英文。各语言入口�
 
 | 原稿 | 第一轮：底座换绿 | 第二轮：只换标题 |
 | --- | --- | --- |
-| ![原始蓝色台灯](assets/previews/tideline-lamp.jpg) | ![保留标题的绿色台灯](assets/previews/tideline-lamp-jade.jpg) | ![保留绿色并更换标题](assets/previews/tideline-lamp-copy.jpg) |
+| [![原始蓝色台灯](assets/previews/tideline-lamp.jpg)](assets/images/tideline-lamp.png) | [![保留标题的绿色台灯](assets/previews/tideline-lamp-jade.jpg)](assets/images/tideline-lamp-jade.png) | [![保留绿色并更换标题](assets/previews/tideline-lamp-copy.jpg)](assets/images/tideline-lamp-copy.png) |
 
 第二轮以第一轮绿色成图为输入，能直观看到确认稿如何继续修改。细微表面纹理仍有变化，灯杆也随底座变绿，不能理解为像素级不变。[查看完整过程与验收方法](docs/editing-case-study.md)。
 
 ## X 社区提示词与原图来源
 
-新增 **P086–P091 共6条英文配方**，覆盖食材文字、香水分镜、交通工具海报、纸艺旅行卡、建筑草图演变与野餐邀请。每条都附 X 作者、原帖、原图预览、改写说明、微调参数和验收要点。
+收录原库 **P086–P091 共6条英文配方**，覆盖食材文字、香水分镜、交通工具海报、纸艺旅行卡、建筑草图演变与野餐邀请。每条都附 X 作者、原帖、原图预览、改写说明、微调参数和验收要点。
 
 原图为第三方来源参考，不是改写提示词的生成结果，也不纳入本库 MIT 许可；本库改写后的6条X场景也已单独生成配图，计入142张原创图片资产。模型名称来自原帖作者说明，未经独立验证。
 
