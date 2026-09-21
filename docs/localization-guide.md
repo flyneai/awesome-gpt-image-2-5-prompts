@@ -1,6 +1,6 @@
 # Multilingual design · 多语言排版
 
-The core library has full English and Simplified Chinese prompts. The [language pack](../prompts/11-multilingual.md) adds 12 complete local-language briefs. Japanese, Spanish, French and Arabic READMEs are localized entry pages, not full-library translations. No native-review certification is claimed.
+Most core recipes have full English and Simplified Chinese prompts; English-only workflows are labeled separately. The [language pack](../prompts/11-multilingual.md) adds 12 complete local-language briefs. Japanese, Spanish, French and Arabic READMEs are localized entry pages, not full-library translations. No native-review certification is claimed.
 
 ## Separate instruction language from image copy
 
@@ -45,7 +45,7 @@ Do not use an image model to determine current prices, event details or translat
 
 The project has **16 README language and regional versions**. English is the default. English and Simplified Chinese contain the full project overview; the other versions are localized entry pages with a sample prompt, usage guidance, example limitations and Flyne AI links. Linked guides and recipes retain their own languages.
 
-README availability, recipe translation and on-image text quality are separate concerns. There are 73 bilingual recipes in English and Simplified Chinese, 18 English-only workflow recipes and 12 additional language-specific recipes. New Italian, Indonesian, Vietnamese and Traditional Chinese README examples adapt existing recipes; they do not increase the 103-recipe total and have not been rendered. Independent native-language editorial review has not been recorded.
+README availability, recipe translation and on-image text quality are separate concerns. There are 76 bilingual recipes in English and Simplified Chinese, 18 English-only workflow recipes and 12 additional language-specific recipes. New Italian, Indonesian, Vietnamese and Traditional Chinese README examples adapt existing recipes; they do not increase the 106-recipe total and have not been rendered. Independent native-language editorial review has not been recorded.
 
 | README | Locale | Scope |
 | --- | --- | --- |

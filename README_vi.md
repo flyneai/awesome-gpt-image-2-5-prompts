@@ -1,9 +1,9 @@
-# Prompt cho ChatGPT Images 2.5 — Flyne AI
+# Prompt cho GPT Image 2.5 — Flyne AI
 
 <!-- BEGIN FLYNE ENTRY -->
 **[Dùng GPT Image 2.5 miễn phí · Không cần đăng ký](https://flyne.ai/free-gpt-image-2-5/)**
 
-Một ảnh tham chiếu; tối đa 2.000 ký tự. Kiểm tra yêu cầu của từng công thức. [→](docs/flyne-access.md)
+Một ảnh tham chiếu; tối đa 2.000 ký tự. Kiểm tra yêu cầu của từng công thức. Miễn phí và không cần đăng ký là thông tin trang web công bố; chưa xác minh việc tạo ảnh khi chưa đăng nhập. [→](docs/flyne-access.md)
 
 106 công thức, 16 nhóm và 142 ảnh PNG gốc, gồm các ví dụ kế thừa từ FLAQ. Có 76 công thức Anh/Trung, 18 chỉ bằng tiếng Anh và 12 dành riêng cho từng ngôn ngữ. Trang này là phần giới thiệu.
 <!-- END FLYNE ENTRY -->
@@ -12,8 +12,7 @@ Phiên bản mã nguồn mở do Flyne AI duy trì, được phát triển từ 
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · **Tiếng Việt**
 
-![Flyne AI — ChatGPT Images 2.5](assets/previews/cover.jpg)
-
+![Flyne AI — GPT Image 2.5](assets/previews/cover.jpg)
 
 
 **[Thư viện ảnh cho 106 công thức](docs/gallery.md)**
@@ -27,7 +26,13 @@ Chọn công thức trong [mục lục](prompts/README.md). Khi chỉnh sửa, �
 [↗ L005](prompts/11-multilingual.md#l005)
 
 ```text
-Tạo áp phích dọc 2:3 cho một quán cà phê hư cấu. Trên nền giấy màu kem, đặt một tách gốm xanh chứa cà phê và một thìa nhỏ, với ánh sáng buổi sáng chiếu từ bên cạnh. Phía trên ghi chính xác "CÀ PHÊ, CHẲNG VỘI", bên dưới là "Dành một chút thời gian" và cuối áp phích là "CÀ PHÊ KHU PHỐ". Dùng chữ xanh đậm, lề rộng và thứ bậc chữ rõ ràng. Giữ đầy đủ dấu tiếng Việt và dấu phẩy; không thêm giá hoặc địa chỉ. Ở lần chỉnh sửa tiếp theo, chỉ đổi màu tách sang xanh ô liu, giữ nguyên chữ, bóng đổ và bố cục.
+Tạo áp phích dọc 2:3 cho một quán cà phê hư cấu. Trên nền giấy màu kem, đặt một tách gốm xanh chứa cà phê và một thìa nhỏ, với ánh sáng buổi sáng chiếu từ bên cạnh. Phía trên ghi chính xác "CÀ PHÊ, CHẲNG VỘI", bên dưới là "Dành một chút thời gian" và cuối áp phích là "CÀ PHÊ KHU PHỐ". Dùng chữ xanh đậm, lề rộng và thứ bậc chữ rõ ràng. Giữ đầy đủ dấu tiếng Việt và dấu phẩy; không thêm giá hoặc địa chỉ.
+```
+
+Kiểm tra và lưu ảnh đầu tiên. Đính kèm ảnh đó rồi thực hiện chỉnh sửa này trong yêu cầu riêng.
+
+```text
+Ở lần chỉnh sửa tiếp theo, chỉ đổi màu tách sang xanh ô liu, giữ nguyên chữ, bóng đổ và bố cục.
 ```
 
 Kiểm tra dấu thanh, dấu phụ, chữ PHỐ và khoảng cách dòng để dấu không bị cắt.
@@ -36,13 +41,17 @@ Kiểm tra dấu thanh, dấu phụ, chữ PHỐ và khoảng cách dòng để 
 
 **[Flyne AI · 100% Free · No Signup Required](https://flyne.ai/free-gpt-image-2-5/)**
 
+## Tính năng nâng cao: kiểm tra phí tín dụng trước khi tạo ảnh
+
 [GPT Image 2.5 — Flare / Sunburst](https://flyne.ai/model/gpt-image-2-5/)
 
-[2026-09-21: Free / advanced access](docs/flyne-access.md) · [Prompts](prompts/README.md)
+[Miễn phí và không cần đăng ký là thông tin trang web công bố; chưa xác minh việc tạo ảnh khi chưa đăng nhập.](docs/flyne-access.md)
 
 ## Tình trạng ví dụ
 
-Prompt dưới đây là bản điều chỉnh từ L005, không được tính là công thức mới và chưa có ảnh kết quả. Ảnh của dự án được tạo bằng công cụ tích hợp trong Codex, không trả về mã mô hình. Đây không phải phép so sánh đã xác minh giữa Flare và Sunburst. Hãy kiểm tra chữ, số lượng vật thể và hình dạng trước khi đăng.
+Trang này điều chỉnh L005 sang tiếng Việt. Bản tiếng Việt chưa được tạo ảnh riêng; ví dụ được liên kết thuộc công thức gốc tiếng Tây Ban Nha. [L005](prompts/11-multilingual.md#l005).
+
+Ảnh được tạo bằng công cụ Codex, không có mã mô hình; đây không phải thử nghiệm Flare / Sunburst đã xác minh.
 
 ## Về Flyne AI
 
@@ -58,4 +67,4 @@ Dự án không liên kết với OpenAI và không được OpenAI bảo trợ.
 
 [X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)
 
-[Flyne: 3 new bilingual prompts](prompts/16-flyne-x-discoveries.md) · [3 creator video demonstrations](docs/x-videos.md)
+[Prompt và video mới của Flyne](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)

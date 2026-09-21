@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Generate navigation, counts and declared input compatibility; --check never writes."""
 import hashlib,json,re,sys
+from recipe_inputs import reference_count, TRANSPARENT_OUTPUT_IDS
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 def read(p):return json.loads((ROOT/p).read_text())
@@ -13,13 +14,12 @@ def outputs():
     cat=read('data/catalog.json');exp=read('data/prompts.json');assets=read('assets/manifest.json')['assets'];loc=read('data/readme-locales.json')['versions']
     n=len(exp['core'])+len(exp['localized']);packs=len(cat['packs'])+1
     out={};access=[]
-    exceptions={'P015':2,'P023':2,'P058':3,'P082':2,'P085':2}
     for r in exp['core']+exp['localized']:
         prompts=r['prompt'] if isinstance(r['prompt'],dict) else {r['language']:r['prompt']}
-        refs=exceptions.get(r['id'],1 if r.get('mode')=='edit' else 0)
+        refs=reference_count(r)
         flags=[]
         if refs>1:flags.append('Multiple references / 多图输入')
-        if r['id'] in ['P024','P083']:flags.append('Verify transparent output / 需核对透明输出')
+        if r['id'] in TRANSPARENT_OUTPUT_IDS:flags.append('Verify transparent output / 需核对透明输出')
         lengths={k:len(v) for k,v in prompts.items()}
         for lang,size in lengths.items():
             if size>2000:flags.append(f'{lang}: {size} characters; exceeds 2000 / 超出字数限制')
@@ -35,12 +35,15 @@ def outputs():
     ctas=read('data/entry-copy.json')
     for v in loc:
         path=v['path'];text=(ROOT/path).read_text();copy=ctas[v['locale']]
-        body=f'**[{copy["cta"]}](https://flyne.ai/free-gpt-image-2-5/)**\n\n'+copy['limits']+' [→](docs/flyne-access.md)\n\n'+copy['stats'].format(total=n,packs=packs,images=len(assets),bilingual=sum('zh' in r['brief'] for r in exp['core']),english=sum('zh' not in r['brief'] for r in exp['core']),localized=len(exp['localized']))
+        body=f'**[{copy["cta"]}](https://flyne.ai/free-gpt-image-2-5/)**\n\n'+copy['limits']+' '+copy['verification_note']+' [→](docs/flyne-access.md)\n\n'+copy['stats'].format(total=n,packs=packs,images=len(assets),bilingual=sum('zh' in r['brief'] for r in exp['core']),english=sum('zh' not in r['brief'] for r in exp['core']),localized=len(exp['localized']))
         text=block(text,'FLYNE ENTRY',body)
         if v['locale'] in ['en','zh-Hans']:
-            zh=v['locale']=='zh-Hans';rows=['| 场景包 | 数量 |' if zh else '| Collection | Recipes |','| --- | --- |']
+            zh=v['locale']=='zh-Hans';rows=['| 场景包 | 可以制作什么 | 数量 |' if zh else '| Collection | What you can make | Recipes |','| --- | --- | --- |']
+            summaries=read('data/pack-summaries.json')
             allpacks=[(p['slug'],p['title']['zh' if zh else 'en'],len(p['recipes'])) for p in cat['packs']]+[('11-multilingual','多语言配方' if zh else 'Multilingual recipes',len(exp['localized']))]
-            for slug,title,count in sorted(allpacks):rows.append(f'| [{title}](prompts/{slug}.md) | {count} |')
+            for slug,title,count in sorted(allpacks):
+                summary=summaries[slug]['zh' if zh else 'en']
+                rows.append(f'| [{title}](prompts/{slug}.md) | {summary} | {count} |')
             body='\n'.join(rows)
             if '<!-- BEGIN PACK TABLE -->' not in text:
                 heading='## 按实际工作选场景' if zh else '## Prompt library'

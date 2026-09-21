@@ -1,0 +1,66 @@
+{
+  "01-product": {
+    "en": "Lamp ad, cup catalog, skincare still life, grinder cutaway, sneaker detail, gift box",
+    "zh": "台灯广告、陶瓷杯白底图、护肤静物、磨豆机结构、运动鞋特写、礼盒"
+  },
+  "02-social": {
+    "en": "Repair flyer, video thumbnail, travel carousel, lunch ad, podcast cover, market campaign",
+    "zh": "活动海报、视频封面、旅行轮播、午餐广告、播客封面、市集主视觉"
+  },
+  "03-people-pets": {
+    "en": "Natural headshot, pet portrait, jacket try-on, lifestyle photo, couple illustration, watercolor keepsake",
+    "zh": "职业头像、宠物探险照、外套试穿、生活抓拍、双人插画、宠物水彩"
+  },
+  "04-editing": {
+    "en": "Product recolor, removal, evening relight, text replacement, sketch-guided insertion, cutout",
+    "zh": "局部换色、去杂物、光照调整、定点换字、草图添加物件、透明抠图"
+  },
+  "05-information": {
+    "en": "Rain garden, tasting diagram, demo chart, illustrated map, plant cycle, workshop slide",
+    "zh": "雨水花园、风味图、示例数据图、街区地图、植物生长、流程演示"
+  },
+  "06-brand-ui": {
+    "en": "Wordmark, wayfinding, mobile app, landing-page concept, packaging family, dashboard",
+    "zh": "字标、导视、移动应用、落地页、包装系列、创作者看板"
+  },
+  "07-stories-games": {
+    "en": "Six-panel story, turnaround, expressions, icons, isometric rooftop, pixel harbor",
+    "zh": "六格故事、角色转面、表情表、物品图标、等距屋顶、像素海港"
+  },
+  "08-spaces": {
+    "en": "Reading room, apartment refresh, guest room, pop-up store, courtyard, pavilion",
+    "zh": "阅读室、公寓翻新、精品客房、快闪店、庭院、小亭效果图"
+  },
+  "09-publishing": {
+    "en": "Book cover, cookbook spread, annual review, editorial metaphor, ink print, zine",
+    "zh": "书封、食谱跨页、年度回顾、编辑隐喻、水墨画、独立刊物"
+  },
+  "10-production": {
+    "en": "Seasonal variants, aspect-ratio adaptation, localization, three-image composite, restoration, shot expansion",
+    "zh": "四季系列、横转竖、本地化、三图合成、老照修复、分镜扩展"
+  },
+  "11-multilingual": {
+    "en": "Script-aware posters in English, Chinese, Japanese, Korean, Spanish, French, German, Portuguese, Arabic, Hindi, Thai and Russian",
+    "zh": "中、英、日、韩、西、法、德、葡、阿拉伯、印地、泰、俄语"
+  },
+  "12-launch-examples": {
+    "en": "Pet costume, child wardrobe, duvet pattern, souvenir text, cube rotation, itinerary revision, candle count",
+    "zh": "宠物换装、儿童肖像、被套花色、城市文字、立方体、行程卡、蜡烛计数"
+  },
+  "13-customizable-studio": {
+    "en": "Workshop portrait, pour-over poster, toy packaging, lighthouse miniature, keepsake card, editorial collage",
+    "zh": "工坊人像、咖啡流程、收藏包装、灯塔微缩、纪念贺卡、陶艺拼贴"
+  },
+  "14-sketch-to-story": {
+    "en": "Sketch interpretation, dense English layout, portrait revisions, branded apparel, action sheets, MV and narrative boards",
+    "zh": "草图、密集排版、人像编辑、品牌周边、动作表、MV及剧情分镜"
+  },
+  "15-x-community": {
+    "en": "Food lettering, product storyboards, mobility posters, travel cards, architecture, event invitations",
+    "zh": "食材字形、产品分镜、出行海报、旅行卡片、建筑概念、活动邀请"
+  },
+  "16-flyne-x-discoveries": {
+    "en": "Bakery hero, paper-window travel cover, spiral lagoon",
+    "zh": "面包广告主图、纸艺旅行封面、螺旋潟湖"
+  }
+}

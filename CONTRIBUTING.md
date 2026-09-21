@@ -1,4 +1,4 @@
-# Contributing to the flaq.ai prompt library
+# Contributing to the Flyne AI prompt library
 
 We welcome original practical recipes, language corrections and honestly documented examples. Keep contributions useful to someone with a real creative task.
 
@@ -14,14 +14,7 @@ Include:
 - Explicit constraints, one follow-up edit and observable review criteria.
 - Accurate rendering status. A suggested prompt is not a tested example.
 
-Regenerate the Markdown and exported prompt data:
-
-```sh
-python3 scripts/build_catalog.py
-python3 scripts/validate.py
-```
-
-The scripts use Python’s standard library. Do not edit generated prompt Markdown as the only source of a change. Update counts and the changelog when adding entries; the checker verifies the documented totals.
+Run the complete [build and validation sequence](#rebuild-entry-pages-and-previews) below. Do not edit generated prompt Markdown as the only source of a change. Standard document builders and validators use Python’s standard library; preview generation additionally requires Pillow.
 
 ## Add an image
 
@@ -45,16 +38,7 @@ Edit `data/catalog.json` for recipes and `data/x-sources.json` for credited imag
 
 For video references, use `data/x-videos.json`: author, original post, date checked, preview URL, model roles and whether the exact prompt is available. Link to the author's player. Do not copy third-party media into the MIT-licensed assets without permission or label another model's video as native GPT Image output.
 
-Before a release:
-
-```sh
-python3 scripts/build_catalog.py
-python3 scripts/build_gallery.py
-python3 scripts/build_videos.py
-python3 scripts/validate.py
-```
-
-Update release counts in the READMEs, SEO metadata and validator together. Inspect every new image; verify sources on X and preserve the distinction between a source reference, an authored adaptation and a generated result. See [source history](docs/upstream.md) and [Flyne access](docs/flyne-access.md).
+Before a release, run the complete sequence below. Inspect every new image and source. Preserve the distinction between a source reference, an authored adaptation and a generated result. See [source history](docs/upstream.md) and [Flyne access](docs/flyne-access.md).
 
 ## Rebuild entry pages and previews
 
@@ -70,4 +54,4 @@ python3 scripts/validate.py
 
 If original images change, first regenerate committed JPEG previews with `python3 scripts/build_previews.py` in an environment with Pillow 12.3.0. Originals and their generation records must remain intact. JPEG previews use a white background; inspect the original PNG when transparency matters. CI verifies source hashes, preview hashes, complete navigation and generated entry sections without needing Pillow.
 
-Edit localized entry text in `data/entry-copy.json`, not inside the generated README markers. Update the reference-count exceptions in `scripts/build_usability.py` and `scripts/build_catalog.py` when adding recipes that require multiple inputs. `data/recipe-access.json` records declared input requirements; it must not be described as completed platform testing. Record platform attempts separately, including exact prompt, logged-in state and actual outcome.
+Edit localized entry text in `data/entry-copy.json`, not inside the generated README markers. Update the reference-count exceptions in `scripts/recipe_inputs.py` when adding recipes that require multiple inputs. `data/recipe-access.json` records declared input requirements; it must not be described as completed platform testing. Record platform attempts separately, including exact prompt, logged-in state and actual outcome.

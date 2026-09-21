@@ -1,9 +1,9 @@
-# Prompts de ChatGPT Images 2.5 — por Flyne AI
+# Prompts de GPT Image 2.5 — por Flyne AI
 
 <!-- BEGIN FLYNE ENTRY -->
 **[Usar GPT Image 2.5 gratis · Sin registro](https://flyne.ai/free-gpt-image-2-5/)**
 
-Una imagen de referencia; hasta 2.000 caracteres. Comprueba los requisitos de cada receta. [→](docs/flyne-access.md)
+Una imagen de referencia; hasta 2.000 caracteres. Comprueba los requisitos de cada receta. Gratis y sin registro es la oferta anunciada por la página; no hemos verificado la generación sin iniciar sesión. [→](docs/flyne-access.md)
 
 106 recetas, 16 colecciones y 142 PNG originales, incluidos los heredados de FLAQ. 76 recetas bilingües EN/ZH, 18 solo en inglés y 12 específicas por idioma. Esta página es una introducción.
 <!-- END FLYNE ENTRY -->
@@ -12,8 +12,7 @@ Edición de código abierto mantenida por Flyne AI y adaptada de la biblioteca F
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · **Español** · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI — ChatGPT Images 2.5](assets/previews/cover.jpg)
-
+![Flyne AI — GPT Image 2.5](assets/previews/cover.jpg)
 
 
 **[Galería visual de las 106 recetas](docs/gallery.md)**
@@ -25,7 +24,13 @@ Elige un caso en el [índice](prompts/README.md). Para editar, adjunta las imág
 ## Prueba este prompt en español
 
 ```text
-Crea un cartel vertical 2:3 para una cafetería ficticia. Sobre papel crema, muestra una taza de cerámica azul con café y una pequeña cucharilla, iluminadas por luz lateral de mañana. Coloca arriba el texto exacto "UN CAFÉ, SIN PRISA", debajo "Haz una pausa" y al pie "CAFÉ DE BARRIO". Usa tipografía azul oscuro, márgenes amplios y una jerarquía clara. Conserva las tildes y la coma; no añadas precios ni direcciones. En la siguiente edición, cambia únicamente el color de la taza a verde oliva y mantén el texto, las sombras y la composición.
+Crea un cartel vertical 2:3 para una cafetería ficticia. Sobre papel crema, muestra una taza de cerámica azul con café y una pequeña cucharilla, iluminadas por luz lateral de mañana. Coloca arriba el texto exacto "UN CAFÉ, SIN PRISA", debajo "Haz una pausa" y al pie "CAFÉ DE BARRIO". Usa tipografía azul oscuro, márgenes amplios y una jerarquía clara. Conserva las tildes y la coma; no añadas precios ni direcciones.
+```
+
+Revisa y guarda la primera imagen. Adjúntala y ejecuta esta edición por separado.
+
+```text
+En la siguiente edición, cambia únicamente el color de la taza a verde oliva y mantén el texto, las sombras y la composición.
 ```
 
 Revisa las tildes de CAFÉ, la coma y que no aparezcan palabras adicionales.
@@ -34,13 +39,17 @@ Revisa las tildes de CAFÉ, la coma y que no aparezcan palabras adicionales.
 
 **[Flyne AI · 100% Free · No Signup Required](https://flyne.ai/free-gpt-image-2-5/)**
 
+## Funciones avanzadas: comprueba el coste en créditos antes de generar
+
 [GPT Image 2.5 — Flare / Sunburst](https://flyne.ai/model/gpt-image-2-5/)
 
-[2026-09-21: Free / advanced access](docs/flyne-access.md) · [Prompts](prompts/README.md)
+[Gratis y sin registro es la oferta anunciada por la página; no hemos verificado la generación sin iniciar sesión.](docs/flyne-access.md)
 
 ## Estado de los ejemplos
 
-Las imágenes se generaron con la herramienta integrada de Codex, que no devolvió su identificador de modelo. No son pruebas verificadas de Flare o Sunburst. Las plantillas sin imagen se identifican como pendientes de generación. Revisa texto, proporciones y semejanza antes de publicar.
+La receta original tiene un ejemplo generado. Consulta la imagen y las observaciones en el enlace inferior; no verifican todas las modificaciones posteriores. [L005](prompts/11-multilingual.md#l005).
+
+Se usó la herramienta de imágenes de Codex sin ID de modelo disponible; no es una prueba verificada de Flare / Sunburst.
 
 ## Recursos
 
@@ -55,4 +64,4 @@ Edición de código abierto mantenida por Flyne AI y adaptada de la biblioteca F
 [Flyne AI](https://flyne.ai) · [GPT Image 2.5](https://flyne.ai/model/gpt-image-2-5/)
 
 
-[Flyne: 3 new bilingual prompts](prompts/16-flyne-x-discoveries.md) · [3 creator video demonstrations](docs/x-videos.md)
+[Nuevos prompts y vídeos de Flyne](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)

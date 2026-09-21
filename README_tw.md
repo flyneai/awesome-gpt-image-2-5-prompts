@@ -1,9 +1,9 @@
-# ChatGPT Images 2.5 原創提示詞庫 — Flyne AI
+# GPT Image 2.5 原創提示詞庫 — Flyne AI
 
 <!-- BEGIN FLYNE ENTRY -->
 **[免費使用 GPT Image 2.5 · 無需註冊](https://flyne.ai/free-gpt-image-2-5/)**
 
-最多一張參考圖、2,000 字元；使用前請核對配方的輸入要求。 [→](docs/flyne-access.md)
+最多一張參考圖、2,000 字元；使用前請核對配方的輸入要求。 免費、無需註冊為平台頁面標示；匿名生成尚未驗證。 [→](docs/flyne-access.md)
 
 106 條配方、16 個場景包、142 張原始 PNG；包含繼承的 FLAQ 圖片。76 條中英雙語、18 條英文、12 條語言專用配方。本頁為入門說明。
 <!-- END FLYNE ENTRY -->
@@ -12,8 +12,7 @@
 
 [English](README.md) · [简体中文](README_zh.md) · **繁體中文** · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI — ChatGPT Images 2.5](assets/previews/cover.jpg)
-
+![Flyne AI — GPT Image 2.5](assets/previews/cover.jpg)
 
 
 **[瀏覽全部106條圖文配方](docs/gallery.md)**
@@ -27,7 +26,13 @@
 [↗ L002](prompts/11-multilingual.md#l002)
 
 ```text
-製作一張2:3直式城市慢生活海報。使用奶油色紙張背景，下半部放置一把鈷藍色折疊椅，一枝橄欖枝斜伸入畫。午後自然光形成柔和長影，呈現真實布料紋理。上方大標題精確寫「把週末還給自己」，下方小字為「坐一會兒，也很好」，底部只寫「慢慢生活」。使用清晰的繁體中文字形、完整標點與寬鬆行距，不加英文、日期、地址或品牌。椅架結構須合理。後續編輯只把椅面改為鐵鏽色，保留文字、橄欖枝與光線。
+製作一張2:3直式城市慢生活海報。使用奶油色紙張背景，下半部放置一把鈷藍色折疊椅，一枝橄欖枝斜伸入畫。午後自然光形成柔和長影，呈現真實布料紋理。上方大標題精確寫「把週末還給自己」，下方小字為「坐一會兒，也很好」，底部只寫「慢慢生活」。使用清晰的繁體中文字形、完整標點與寬鬆行距，不加英文、日期、地址或品牌。椅架結構須合理。
+```
+
+確認首張圖後，上傳確認稿，再單獨執行以下修改。
+
+```text
+後續編輯只把椅面改為鐵鏽色，保留文字、橄欖枝與光線。
 ```
 
 逐字檢查繁體字、逗號與行距，確認椅架沒有變形。
@@ -36,13 +41,17 @@
 
 **[Flyne AI · 100% Free · No Signup Required](https://flyne.ai/free-gpt-image-2-5/)**
 
+## 進階入口：生成前查看積分費用
+
 [GPT Image 2.5 — Flare / Sunburst](https://flyne.ai/model/gpt-image-2-5/)
 
-[2026-09-21: Free / advanced access](docs/flyne-access.md) · [Prompts](prompts/README.md)
+[免費、無需註冊為平台頁面標示；匿名生成尚未驗證。](docs/flyne-access.md)
 
 ## 示例狀態
 
-下方是L002的繁體中文在地化示範，不另計為新配方，尚未生成此語言版本的圖片。本專案圖片由Codex內建工具生成，工具未提供底層模型ID，因此不作為Flare或Sunburst的已驗證評測。
+本頁為 L002 的繁體中文改寫，未另行生成此改寫版本。原始簡體中文配方已有示例，見下方連結；不要把它當成繁體中文的生成結果。 [L002](prompts/11-multilingual.md#l002).
+
+圖片由 Codex 內建工具生成，未提供底層模型編號，不代表 Flare 或 Sunburst 的已驗證效果。
 
 ## 關於 Flyne AI
 
@@ -58,4 +67,4 @@
 
 [X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)
 
-[Flyne: 3 new bilingual prompts](prompts/16-flyne-x-discoveries.md) · [3 creator video demonstrations](docs/x-videos.md)
+[Flyne 新增配方與影片](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)

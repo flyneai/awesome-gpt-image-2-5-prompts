@@ -3,7 +3,7 @@
 <!-- BEGIN FLYNE ENTRY -->
 **[Try GPT Image 2.5 · 100% Free · No Signup Required](https://flyne.ai/free-gpt-image-2-5/)**
 
-One reference image; up to 2,000 characters. Check recipe input requirements before use. [→](docs/flyne-access.md)
+One reference image; up to 2,000 characters. Check recipe input requirements before use. Free/no-signup is the page’s advertised offer; anonymous generation has not been verified. [→](docs/flyne-access.md)
 
 106 recipes · 16 packs · 142 original PNGs. 76 bilingual EN/ZH, 18 English-only and 12 language-specific recipes. Original assets include inherited FLAQ examples; see provenance.
 <!-- END FLYNE ENTRY -->
@@ -87,24 +87,24 @@ The [full recipe](prompts/01-product.md#p001) and [exact executed prompt](assets
 ## Prompt library
 
 <!-- BEGIN PACK TABLE -->
-| Collection | Recipes |
-| --- | --- |
-| [Product photography & e-commerce](prompts/01-product.md) | 6 |
-| [Ads, social posts & creator covers](prompts/02-social.md) | 6 |
-| [Portraits, fashion & pets](prompts/03-people-pets.md) | 6 |
-| [Precise edits & multi-turn workflows](prompts/04-editing.md) | 6 |
-| [Infographics, education & presentations](prompts/05-information.md) | 6 |
-| [Brand identity & interface concepts](prompts/06-brand-ui.md) | 6 |
-| [Comics, characters & game art](prompts/07-stories-games.md) | 6 |
-| [Architecture, interiors & hospitality](prompts/08-spaces.md) | 6 |
-| [Publishing, print & editorial illustration](prompts/09-publishing.md) | 6 |
-| [Series, localization & production handoff](prompts/10-production.md) | 6 |
-| [Multilingual recipes](prompts/11-multilingual.md) | 12 |
-| [Launch-inspired editing examples](prompts/12-launch-examples.md) | 7 |
-| [Customizable studio briefs](prompts/13-customizable-studio.md) | 6 |
-| [Sketch-to-story: English workflow prompts](prompts/14-sketch-to-story.md) | 12 |
-| [X community: practical visual briefs](prompts/15-x-community.md) | 6 |
-| [Flyne: fresh X-inspired image briefs](prompts/16-flyne-x-discoveries.md) | 3 |
+| Collection | What you can make | Recipes |
+| --- | --- | --- |
+| [Product photography & e-commerce](prompts/01-product.md) | Lamp ad, cup catalog, skincare still life, grinder cutaway, sneaker detail, gift box | 6 |
+| [Ads, social posts & creator covers](prompts/02-social.md) | Repair flyer, video thumbnail, travel carousel, lunch ad, podcast cover, market campaign | 6 |
+| [Portraits, fashion & pets](prompts/03-people-pets.md) | Natural headshot, pet portrait, jacket try-on, lifestyle photo, couple illustration, watercolor keepsake | 6 |
+| [Precise edits & multi-turn workflows](prompts/04-editing.md) | Product recolor, removal, evening relight, text replacement, sketch-guided insertion, cutout | 6 |
+| [Infographics, education & presentations](prompts/05-information.md) | Rain garden, tasting diagram, demo chart, illustrated map, plant cycle, workshop slide | 6 |
+| [Brand identity & interface concepts](prompts/06-brand-ui.md) | Wordmark, wayfinding, mobile app, landing-page concept, packaging family, dashboard | 6 |
+| [Comics, characters & game art](prompts/07-stories-games.md) | Six-panel story, turnaround, expressions, icons, isometric rooftop, pixel harbor | 6 |
+| [Architecture, interiors & hospitality](prompts/08-spaces.md) | Reading room, apartment refresh, guest room, pop-up store, courtyard, pavilion | 6 |
+| [Publishing, print & editorial illustration](prompts/09-publishing.md) | Book cover, cookbook spread, annual review, editorial metaphor, ink print, zine | 6 |
+| [Series, localization & production handoff](prompts/10-production.md) | Seasonal variants, aspect-ratio adaptation, localization, three-image composite, restoration, shot expansion | 6 |
+| [Multilingual recipes](prompts/11-multilingual.md) | Script-aware posters in English, Chinese, Japanese, Korean, Spanish, French, German, Portuguese, Arabic, Hindi, Thai and Russian | 12 |
+| [Launch-inspired editing examples](prompts/12-launch-examples.md) | Pet costume, child wardrobe, duvet pattern, souvenir text, cube rotation, itinerary revision, candle count | 7 |
+| [Customizable studio briefs](prompts/13-customizable-studio.md) | Workshop portrait, pour-over poster, toy packaging, lighthouse miniature, keepsake card, editorial collage | 6 |
+| [Sketch-to-story: English workflow prompts](prompts/14-sketch-to-story.md) | Sketch interpretation, dense English layout, portrait revisions, branded apparel, action sheets, MV and narrative boards | 12 |
+| [X community: practical visual briefs](prompts/15-x-community.md) | Food lettering, product storyboards, mobility posters, travel cards, architecture, event invitations | 6 |
+| [Flyne: fresh X-inspired image briefs](prompts/16-flyne-x-discoveries.md) | Bakery hero, paper-window travel cover, spiral lagoon | 3 |
 <!-- END PACK TABLE -->
 
 ## Featured examples

@@ -3,7 +3,7 @@
 <!-- BEGIN FLYNE ENTRY -->
 **[免费使用 GPT Image 2.5 · 无需注册](https://flyne.ai/free-gpt-image-2-5/)**
 
-最多一张参考图、2,000 字符；使用前请核对配方输入要求。 [→](docs/flyne-access.md)
+最多一张参考图、2,000 字符；使用前请核对配方输入要求。 免费、无需注册为平台页面标注；匿名生图尚未实测成功。 [→](docs/flyne-access.md)
 
 106 条配方 · 16 个场景包 · 142 张原始 PNG。含 76 条中英双语、18 条英文、12 条语言专用配方。图片包含继承的 FLAQ 示例，来源见生成记录。
 <!-- END FLYNE ENTRY -->
@@ -83,24 +83,24 @@ README现提供 **16个语言／地区版本**，默认英文。各语言入口�
 ## 按实际工作选场景
 
 <!-- BEGIN PACK TABLE -->
-| 场景包 | 数量 |
-| --- | --- |
-| [产品摄影与电商](prompts/01-product.md) | 6 |
-| [广告、社媒与创作者封面](prompts/02-social.md) | 6 |
-| [人像、时尚与宠物](prompts/03-people-pets.md) | 6 |
-| [精准修改与多轮工作流](prompts/04-editing.md) | 6 |
-| [信息图、教育与演示](prompts/05-information.md) | 6 |
-| [品牌识别与界面概念](prompts/06-brand-ui.md) | 6 |
-| [漫画、角色与游戏美术](prompts/07-stories-games.md) | 6 |
-| [建筑、室内与酒店空间](prompts/08-spaces.md) | 6 |
-| [出版、印刷与编辑插画](prompts/09-publishing.md) | 6 |
-| [系列、本地化与制作交付](prompts/10-production.md) | 6 |
-| [多语言配方](prompts/11-multilingual.md) | 12 |
-| [官方发布场景原创实践](prompts/12-launch-examples.md) | 7 |
-| [可微调创作配方](prompts/13-customizable-studio.md) | 6 |
-| [从草图到故事：英文工作流配方](prompts/14-sketch-to-story.md) | 12 |
-| [X 社区实用场景](prompts/15-x-community.md) | 6 |
-| [Flyne：新增 X 灵感图像配方](prompts/16-flyne-x-discoveries.md) | 3 |
+| 场景包 | 可以制作什么 | 数量 |
+| --- | --- | --- |
+| [产品摄影与电商](prompts/01-product.md) | 台灯广告、陶瓷杯白底图、护肤静物、磨豆机结构、运动鞋特写、礼盒 | 6 |
+| [广告、社媒与创作者封面](prompts/02-social.md) | 活动海报、视频封面、旅行轮播、午餐广告、播客封面、市集主视觉 | 6 |
+| [人像、时尚与宠物](prompts/03-people-pets.md) | 职业头像、宠物探险照、外套试穿、生活抓拍、双人插画、宠物水彩 | 6 |
+| [精准修改与多轮工作流](prompts/04-editing.md) | 局部换色、去杂物、光照调整、定点换字、草图添加物件、透明抠图 | 6 |
+| [信息图、教育与演示](prompts/05-information.md) | 雨水花园、风味图、示例数据图、街区地图、植物生长、流程演示 | 6 |
+| [品牌识别与界面概念](prompts/06-brand-ui.md) | 字标、导视、移动应用、落地页、包装系列、创作者看板 | 6 |
+| [漫画、角色与游戏美术](prompts/07-stories-games.md) | 六格故事、角色转面、表情表、物品图标、等距屋顶、像素海港 | 6 |
+| [建筑、室内与酒店空间](prompts/08-spaces.md) | 阅读室、公寓翻新、精品客房、快闪店、庭院、小亭效果图 | 6 |
+| [出版、印刷与编辑插画](prompts/09-publishing.md) | 书封、食谱跨页、年度回顾、编辑隐喻、水墨画、独立刊物 | 6 |
+| [系列、本地化与制作交付](prompts/10-production.md) | 四季系列、横转竖、本地化、三图合成、老照修复、分镜扩展 | 6 |
+| [多语言配方](prompts/11-multilingual.md) | 中、英、日、韩、西、法、德、葡、阿拉伯、印地、泰、俄语 | 12 |
+| [官方发布场景原创实践](prompts/12-launch-examples.md) | 宠物换装、儿童肖像、被套花色、城市文字、立方体、行程卡、蜡烛计数 | 7 |
+| [可微调创作配方](prompts/13-customizable-studio.md) | 工坊人像、咖啡流程、收藏包装、灯塔微缩、纪念贺卡、陶艺拼贴 | 6 |
+| [从草图到故事：英文工作流配方](prompts/14-sketch-to-story.md) | 草图、密集排版、人像编辑、品牌周边、动作表、MV及剧情分镜 | 12 |
+| [X 社区实用场景](prompts/15-x-community.md) | 食材字形、产品分镜、出行海报、旅行卡片、建筑概念、活动邀请 | 6 |
+| [Flyne：新增 X 灵感图像配方](prompts/16-flyne-x-discoveries.md) | 面包广告主图、纸艺旅行封面、螺旋潟湖 | 3 |
 <!-- END PACK TABLE -->
 
 ## 收录的图像示例

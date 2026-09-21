@@ -1,15 +1,15 @@
 # Originality and provenance
 
-This is an independent Flyne AI edition of the [FLAQ open-source collection](upstream.md). We organize familiar creative tasks into newly written briefs, using original fictional campaigns and newly generated visual examples.
+Flyne AI maintains this edition of the company’s [FLAQ open-source collection](upstream.md). The imported prompts, images and generation records retain their original credits; new Flyne contributions are identified separately.
 
-## How this release was made
+## How this edition was made
 
-- Scenario planning used general work categories such as product photography, posters, portraits, education and image editing.
-- Prompt wording, fictional briefs, composition decisions, copy and review criteria were composed for this repository. No third-party prompt corpus or image collection was imported.
-- 139 image assets were newly generated from the exact prompts saved under [assets/generation](../assets/generation). All edits use this project’s own preceding outputs. Launch-inspired exercises cite the official scenario source; their prompts and images are newly authored.
-- The [manifest](../assets/manifest.json) records each output’s input relationships, dimensions, hash and review notes. The generation tool did not expose the underlying model ID.
-- The [customizable studio pack](customizable-studio.md) records the referenced collection and the independently chosen direction for each new brief. No third-party prompt wording or source images were imported.
-- Official model documentation is linked for factual API claims. The project is neither affiliated with nor endorsed by OpenAI.
+- Imported 103 recipes and 138 example PNGs from FLAQ commit `0c74e035a713370217a1ecf29dd4a06edcc25fed`. The original FLAQ promotional cover was replaced, not counted as an inherited example.
+- Added three bilingual Flyne adaptations (P092–P094), three separately generated example images and one Flyne cover. The original-image manifest therefore contains 142 PNGs. Compressed JPEG previews are derivatives, not additional generated examples.
+- Preserved exact executed prompts, dates, input relationships and review notes under [assets/generation](../assets/generation) and in the [manifest](../assets/manifest.json). Model IDs were not exposed by the image tool and are not inferred. Inherited examples were not generated again on Flyne.
+- Original FLAQ briefs use fictional campaigns and independently authored creative directions. Article- and X-inspired entries retain their scenario sources and adaptation notes. New Flyne entries follow the same attribution standard.
+- External X previews and videos remain remotely linked, belong to their source authors and are outside the repository’s MIT license. The license does not grant rights to those third-party media.
+- Official model documentation is linked for factual API claims. This project is neither affiliated with nor endorsed by OpenAI.
 
 ## Contribution standard
 
@@ -25,7 +25,7 @@ Open an issue with the local recipe ID or image filename, the material in questi
 
 ## 中文
 
-本库从常见工作场景出发独立撰写，不导入第三方提示词和图片库，不以删署名、换同义词作为原创依据。本库自生成示例均为本次生成，并记录实际提示词与依赖关系。
+Flyne 版本继承公司 FLAQ 库的 103 条配方及 138 张示例图，保留原始署名与生成记录。本次另增 3 条配方、3 张示例图和 1 张 Flyne 封面，共 142 张原始 PNG。缩略图不增加生成图片数量；继承图片不冒充本次在 Flyne 平台生成。
 
 投稿如使用第三方内容，应说明来源并保留适用许可要求的说明；无法满足时请改为独立创作。虚构名称并不保证未被注册，生成图也可能出现意外相似；本库不承诺任何最终作品自动获得商业权利清算。
 
@@ -35,4 +35,4 @@ The [sketch-to-story guide](sketch-to-story.md) credits the Chinese article and 
 
 ## X community references
 
-The [X community pack](x-community.md) adds six attributed concept adaptations with remote third-party image previews. These previews are clearly labeled, are not outputs of the rewritten prompts, and are excluded from the MIT license and the original-image manifest. Original post URLs, authors, dates and adaptation notes are retained in [source metadata](../data/x-sources.json).
+The [X community pack](x-community.md) contains the six inherited FLAQ concept adaptations with remote third-party image previews. These previews are clearly labeled, are not outputs of the rewritten prompts, and are excluded from the MIT license and the original-image manifest. The [Flyne discoveries pack](../prompts/16-flyne-x-discoveries.md) adds three further credited adaptations. All nine original post URLs, authors, dates and adaptation notes are retained in [source metadata](../data/x-sources.json).
