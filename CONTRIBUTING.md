@@ -36,6 +36,8 @@ Contributions are submitted under the repository’s [MIT License](LICENSE), sub
 
 Edit `data/catalog.json` for recipes and `data/x-sources.json` for credited image sources. Use the next stable ID; do not count translations or follow-up edits as additional recipes. Record new generated examples in `assets/manifest.json`, with the exact prompt under `assets/generation/`, dimensions, SHA-256, input order and an honest review. Keep original FLAQ attribution for inherited material.
 
+For edition releases, update `version` and `updated` in `data/catalog.json`; keep `upstream_version` as the imported source version. The exported prompt data carries the Flyne edition version. The top-level `checked` date in `data/x-sources.json` is the latest individual source check, not evidence that all sources were rechecked. Preserve every source’s actual date. Update observed browser input limits in `data/flyne-input-limits.json` only after checking the rendered controls.
+
 For video references, use `data/x-videos.json`: author, original post, date checked, preview URL, model roles and whether the exact prompt is available. Link to the author's player. Do not copy third-party media into the MIT-licensed assets without permission or label another model's video as native GPT Image output.
 
 Before a release, run the complete sequence below. Inspect every new image and source. Preserve the distinction between a source reference, an authored adaptation and a generated result. See [source history](docs/upstream.md) and [Flyne access](docs/flyne-access.md).

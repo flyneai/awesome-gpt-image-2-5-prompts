@@ -1,3 +1,13 @@
+# 1.5.0-flyne.1 — 2026-09-21
+
+- Retained all 103 upstream recipes and 138 original example images; the Flyne edition contains 106 recipes with its three additions.
+- Added compressed previews and collection galleries while preserving original PNGs and exact generation records.
+- Restored concrete use-case descriptions to the English and Chinese indexes.
+- Separated free and advanced access in localized entry pages, corrected example-status statements and separated initial generation from follow-up edits.
+- Disclosed unsupported 4:5 ratios, multi-image requirements, long prompts and transparent-output checks at the recipe level.
+- Corrected provenance and language-coverage notes, unified maintenance instructions and added generated-entry, preview and edition-metadata checks.
+- Free-page generation remains unverified: the recorded signed-in submission had no observed output. No anonymous-access or completed video-test claim was added.
+
 # Flyne edition — 2026-09-21
 
 - Imported the credited FLAQ library at `0c74e035a713370217a1ecf29dd4a06edcc25fed`.

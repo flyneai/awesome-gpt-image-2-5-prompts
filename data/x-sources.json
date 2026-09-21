@@ -1,5 +1,5 @@
 {
-  "checked": "2026-09-14",
+  "checked": "2026-09-21",
   "discovery_queries": [
     "gpt image 2.5",
     "\"gpt image 2.5\" prompt filter:images",
@@ -141,5 +141,6 @@
       "image_role": "external-source-preview",
       "rights": "Third-party reference, linked remotely; excluded from this repository MIT license. Commercial reuse requires permission."
     }
-  ]
+  ],
+  "checked_scope": "Latest individual source check, not a recheck of all sources. Each source checked date is authoritative."
 }

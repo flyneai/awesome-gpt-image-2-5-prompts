@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Validate recipe records, local Markdown links, exact-prompt records and images."""
+from datetime import date
 import hashlib
 import json
 import re
@@ -43,7 +44,17 @@ def main():
     require(len(exported['core'])==len(recipes), 'Exported core count mismatch')
     require(exported['localized']==locales, 'Stale localized export: rebuild catalog')
     byid={r['id']:r for r in exported['core']}
-    sources=read_json('data/x-sources.json')['sources']
+    source_index=read_json('data/x-sources.json')
+    sources=source_index['sources']
+    require(exported.get('version')==catalog['version'] and exported.get('updated')==catalog['updated'], 'Stale exported edition metadata')
+    require(catalog['version']!=catalog.get('upstream_version'), 'Flyne edition must have a distinct version')
+    try:
+        latest=max(date.fromisoformat(source['checked']) for source in sources)
+        require(date.fromisoformat(source_index['checked'])==latest, 'Source index date must equal latest individual check')
+        require(date.fromisoformat(catalog['updated'])>=latest, 'Catalog update predates latest included source check')
+        require(bool(source_index.get('checked_scope')), 'Missing source date scope')
+    except (ValueError, KeyError) as exc:
+        require(False, f'Invalid source/catalog date metadata: {exc}')
     require(len({s['id'] for s in sources})==len(sources), 'Duplicate X source ID')
     source_recipes={r['id']:r for r in recipes if r.get('source_reference')}
     require(set(source_recipes)=={s['id'] for s in sources}, 'X source-to-recipe mismatch')

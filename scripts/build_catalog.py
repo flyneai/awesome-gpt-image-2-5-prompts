@@ -109,7 +109,7 @@ def build():
             localized += [f'[![{a["alt"]}](../{preview(a["path"])})](../{a["path"]})','',f'[Exact generation prompt / 实际生成提示词](../{a["prompt_path"]})','',f'**Observed review:** {a["review"]}','']
     (ROOT/'prompts/11-multilingual.md').write_text('\n'.join(line.rstrip() for line in localized).rstrip()+'\n')
     (ROOT/'prompts/README.md').write_text('\n'.join(line.rstrip() for line in index).rstrip()+'\n')
-    (ROOT/'data/prompts.json').write_text(json.dumps({'core':full,'localized':locales},ensure_ascii=False,indent=2)+'\n')
+    (ROOT/'data/prompts.json').write_text(json.dumps({'version':data['version'],'updated':data['updated'],'core':full,'localized':locales},ensure_ascii=False,indent=2)+'\n')
     print(f'Rendered {len(full)} core recipes and {len(locales)} localized recipes.')
 if __name__=='__main__':
     build()
