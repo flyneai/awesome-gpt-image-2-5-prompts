@@ -15,7 +15,7 @@ def sections(lang):
       '以下三例均有独立生成图片。示例来自内置图片工具，未返回底层模型编号，不作为 Flyne 平台或特定模型的效果实测。初次生成不用参考图；后续修改须上传自己确认的结果。' if zh else 'Each example below has a separately generated image. The built-in image tool did not expose its model ID; these are not verified Flyne platform or named-model tests. Start from text, then upload your approved result for the separate next edit.','']
     for rid in ['P092','P093','P094']:
         r=recipes[rid];a=assets[rid];source=r['source_reference'];preview='assets/previews/'+Path(a['path']).with_suffix('.jpg').name
-        lines += ['### '+rid+' · '+r['title'][lang],'',why[rid][int(zh)],'',f'[![{a["alt"]}]({preview})]({a["path"]})','',
+        lines += [f'<a id="homepage-{rid.lower()}"></a>', '', '### '+rid+' · '+r['title'][lang],'',why[rid][int(zh)],'',f'[![{a["alt"]}]({preview})]({a["path"]})','',
           (f'**输入与比例：** 无参考图，{r["ratio"]}。复制下面的完整提示词，替换自己的商品或场景。' if zh else f'**Input and ratio:** no reference image, {r["ratio"]}. Copy the complete prompt; replace the subject or setting to suit your brief.'),'','```text',r['prompt'][lang],'```','',
           '**确认第一张图后，再单独修改：** 上传确认稿，然后使用下方指令。' if zh else '**After approving the first image:** upload that version and run this edit separately.','','```text',r['revision'][lang],'```','',
           ('**检查示例：** '+reviews[rid] if zh else '**Example review:** '+r['review']['en']),'',

@@ -22,7 +22,7 @@
 
 | 面包广告 | 纸艺旅行封面 | 螺旋潟湖 |
 | --- | --- | --- |
-| [![面包广告](assets/previews/flyne-p092.jpg)](prompts/16-flyne-x-discoveries.md#p092) | [![纸艺旅行封面](assets/previews/flyne-p093.jpg)](prompts/16-flyne-x-discoveries.md#p093) | [![螺旋潟湖](assets/previews/flyne-p094.jpg)](prompts/16-flyne-x-discoveries.md#p094) |
+| [![面包广告](assets/previews/flyne-p092.jpg)](#homepage-p092) | [![纸艺旅行封面](assets/previews/flyne-p093.jpg)](#homepage-p093) | [![螺旋潟湖](assets/previews/flyne-p094.jpg)](#homepage-p094) |
 
 [在本页复制完整配方](#homepage-examples) · [在本页看三个视频案例](#homepage-videos)
 
@@ -91,6 +91,8 @@ README现提供 **16个语言／地区版本**，默认英文。各语言入口�
 
 以下三例均有独立生成图片。示例来自内置图片工具，未返回底层模型编号，不作为 Flyne 平台或特定模型的效果实测。初次生成不用参考图；后续修改须上传自己确认的结果。
 
+<a id="homepage-p092"></a>
+
 ### P092 · 前景面包广告
 
 适合面包店广告。把面包纹理、手部与留白分开说明，再用排版工具添加准确的活动文案。
@@ -116,6 +118,8 @@ README现提供 **16个语言／地区版本**，默认英文。各语言入口�
 
 **来源与记录：** 灵感来自 [@ou_zhen599](https://x.com/ou_zhen599/status/2101964323094745493)；上面的图片是本库改写后的独立示例，不是作者原图。[实际执行提示词](assets/generation/flyne-p092.txt) · [完整配方与改写说明](prompts/16-flyne-x-discoveries.md#p092)。
 
+<a id="homepage-p093"></a>
+
 ### P093 · 纸艺开窗旅行封面
 
 适合旅行手账封面。纸张开口和窗口里的微缩场景采用不同的材质描述，避免整幅图都变成平面插画。
@@ -140,6 +144,8 @@ README现提供 **16个语言／地区版本**，默认英文。各语言入口�
 **检查示例：** 可见纸张纤维和城镇；竖版画面中的开口偏宽，建筑为虚构，不代表真实目的地。
 
 **来源与记录：** 灵感来自 [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2101958048827027839)；上面的图片是本库改写后的独立示例，不是作者原图。[实际执行提示词](assets/generation/flyne-p093.txt) · [完整配方与改写说明](prompts/16-flyne-x-discoveries.md#p093)。
+
+<a id="homepage-p094"></a>
 
 ### P094 · 螺旋潟湖风景
 

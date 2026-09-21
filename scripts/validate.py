@@ -79,6 +79,8 @@ def main():
     for filename,lang in [('README.md','en'),('README_zh.md','zh')]:
         home=(ROOT/filename).read_text()
         require('<details' not in home.lower(), f'Homepage examples must not be collapsed: {filename}')
+        for rid in ['p092','p093','p094']:
+            require(f'(assets/previews/flyne-{rid}.jpg)](#homepage-{rid})' in home, f'Homepage teaser must lead to its on-page example: {filename} {rid}')
         for r in exported['core']:
             if r['pack']=='16-flyne-x-discoveries':
                 require(r['prompt'][lang] in home and r['revision'][lang] in home, f'Homepage omits complete example: {filename} {r["id"]}')

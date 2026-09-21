@@ -28,7 +28,7 @@ One reference image; up to 2,000 characters. Check recipe input requirements bef
 
 | Bakery campaign | Paper travel cover | Spiral lagoon |
 | --- | --- | --- |
-| [![Bakery campaign](assets/previews/flyne-p092.jpg)](prompts/16-flyne-x-discoveries.md#p092) | [![Paper town](assets/previews/flyne-p093.jpg)](prompts/16-flyne-x-discoveries.md#p093) | [![Lagoon](assets/previews/flyne-p094.jpg)](prompts/16-flyne-x-discoveries.md#p094) |
+| [![Bakery campaign](assets/previews/flyne-p092.jpg)](#homepage-p092) | [![Paper town](assets/previews/flyne-p093.jpg)](#homepage-p093) | [![Lagoon](assets/previews/flyne-p094.jpg)](#homepage-p094) |
 
 [Copy complete prompts below](#homepage-examples) · [See the three video cases below](#homepage-videos)
 
@@ -91,6 +91,8 @@ The [full recipe](prompts/01-product.md#p001) and [exact executed prompt](assets
 
 Each example below has a separately generated image. The built-in image tool did not expose its model ID; these are not verified Flyne platform or named-model tests. Start from text, then upload your approved result for the separate next edit.
 
+<a id="homepage-p092"></a>
+
 ### P092 · Foreground bakery campaign
 
 A bakery campaign with room for final copy. Separate bread texture, hands and a blank strip instead of asking the image to invent an offer.
@@ -116,6 +118,8 @@ Change only the background to muted terracotta; preserve breads, board, hands an
 
 **Source and record:** inspired by [@ou_zhen599](https://x.com/ou_zhen599/status/2101964323094745493). The image above is this library’s independently generated adaptation, not the source author’s image. [Exact executed prompt](assets/generation/flyne-p092.txt) · [Recipe and adaptation notes](prompts/16-flyne-x-discoveries.md#p092).
 
+<a id="homepage-p093"></a>
+
 ### P093 · Paper-window travel journal
 
 A travel-journal cover built around a paper window. The physical paper edge and the miniature scene need separate material descriptions.
@@ -140,6 +144,8 @@ Change only the time of day to a softly lit evening; preserve the paper, opening
 **Example review:** Paper fibers and town are visible. The opening is horizontally broad within a portrait frame; architecture is fictional.
 
 **Source and record:** inspired by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2101958048827027839). The image above is this library’s independently generated adaptation, not the source author’s image. [Exact executed prompt](assets/generation/flyne-p093.txt) · [Recipe and adaptation notes](prompts/16-flyne-x-discoveries.md#p093).
+
+<a id="homepage-p094"></a>
 
 ### P094 · Spiral lagoon landscape
 
