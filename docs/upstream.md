@@ -3,7 +3,8 @@
 This Flyne AI edition adapts the company’s [FLAQ library](https://github.com/flaqai/awesome-chatgpt-images-2-5-prompts) at commit `0c74e035a713370217a1ecf29dd4a06edcc25fed` (imported 2026-09-21).
 
 - Inherited: 103 recipes, their input/output relationships, 138 example PNGs, 16 language entry points and source records.
-- Replaced: the original promotional cover with a newly generated Flyne AI cover. The total remains 139 PNGs.
+- Replaced: the original promotional cover with a newly generated Flyne AI cover. After adding three Flyne examples, the current total is 142 PNGs.
+- Added: P092–P094, three bilingual adaptations with separately generated examples, plus three source-linked video demonstrations.
 - Adapted: reader introductions, free/advanced product links and repository metadata.
 - Preserved: Flaq AI copyright, original author credit, exact executed prompts, generation dates and review limitations. Imported content is not presented as newly generated on Flyne.
 - Third-party X media remains credited and outside the repository’s MIT license.
