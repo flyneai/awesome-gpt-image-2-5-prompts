@@ -20,6 +20,8 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** edit · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Personal keepsakes, professional portraits and styling concepts.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -32,7 +34,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 [Input 1 / 输入 1](../assets/images/adult-input.png)
 
-![Natural professional portrait — original generated example](../assets/images/example-p013.png)
+[![Natural professional portrait — original generated example](../assets/previews/example-p013.jpg)](../assets/images/example-p013.png)
 
 [Natural professional portrait — generated example: exact prompt / 实际提示词](../assets/generation/example-p013.txt)
 
@@ -76,6 +78,8 @@ Change only the background to a muted olive studio wall.
 
 **Mode:** edit · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Personal keepsakes, professional portraits and styling concepts.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -88,7 +92,7 @@ Change only the background to a muted olive studio wall.
 
 [Input 1 / 输入 1](../assets/images/pet-input.png)
 
-![Pet explorer portrait — original generated example](../assets/images/example-p014.png)
+[![Pet explorer portrait — original generated example](../assets/previews/example-p014.jpg)](../assets/images/example-p014.png)
 
 [Pet explorer portrait — generated example: exact prompt / 实际提示词](../assets/generation/example-p014.txt)
 
@@ -132,6 +136,8 @@ Change only the neckerchief to dusty blue, keeping knot size and fur boundary.
 
 **Mode:** edit · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 2 reference image(s) / 张参考图。Multiple references exceed the free entry limit / 多图输入超出免费入口限制。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Personal keepsakes, professional portraits and styling concepts.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -146,7 +152,7 @@ Change only the neckerchief to dusty blue, keeping knot size and fur boundary.
 
 [Input 2 / 输入 2](../assets/images/jacket-input.png)
 
-![Linen jacket virtual styling — original generated example](../assets/images/example-p015.png)
+[![Linen jacket virtual styling — original generated example](../assets/previews/example-p015.jpg)](../assets/images/example-p015.png)
 
 [Linen jacket virtual styling — generated example: exact prompt / 实际提示词](../assets/generation/example-p015.txt)
 
@@ -190,6 +196,8 @@ Roll only the jacket sleeves once, keeping wrist anatomy and jacket length.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Personal keepsakes, professional portraits and styling concepts.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -198,7 +206,7 @@ Roll only the jacket sleeves once, keeping wrist anatomy and jacket length.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Analog weekend portrait — original generated example](../assets/images/example-p016.png)
+[![Analog weekend portrait — original generated example](../assets/previews/example-p016.jpg)](../assets/images/example-p016.png)
 
 [Analog weekend portrait — generated example: exact prompt / 实际提示词](../assets/generation/example-p016.txt)
 
@@ -242,6 +250,8 @@ Warm only the white balance slightly, preserving faces and scene arrangement.
 
 **Mode:** edit · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Personal keepsakes, professional portraits and styling concepts.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -254,7 +264,7 @@ Warm only the white balance slightly, preserving faces and scene arrangement.
 
 [Input 1 / 输入 1](../assets/images/couple-input.png)
 
-![Couple illustration keepsake — original generated example](../assets/images/example-p017.png)
+[![Couple illustration keepsake — original generated example](../assets/previews/example-p017.jpg)](../assets/images/example-p017.png)
 
 [Couple illustration keepsake — generated example: exact prompt / 实际提示词](../assets/generation/example-p017.txt)
 
@@ -298,6 +308,8 @@ Add only a closed yellow umbrella beside the bench; keep both people untouched.
 
 **Mode:** edit · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Personal keepsakes, professional portraits and styling concepts.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -310,7 +322,7 @@ Add only a closed yellow umbrella beside the bench; keep both people untouched.
 
 [Input 1 / 输入 1](../assets/images/pet-input.png)
 
-![Pet remembrance watercolor — original generated example](../assets/images/example-p018.png)
+[![Pet remembrance watercolor — original generated example](../assets/previews/example-p018.jpg)](../assets/images/example-p018.png)
 
 [Pet remembrance watercolor — generated example: exact prompt / 实际提示词](../assets/generation/example-p018.txt)
 

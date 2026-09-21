@@ -28,7 +28,7 @@ These are prompt adjustments, not model fine-tuning or special API parameters. T
 
 | Default lighthouse roof | Edited lighthouse roof |
 | --- | --- |
-| ![Original handmade island with terracotta lighthouse roof](../assets/images/studio-lighthouse.png) | ![Handmade island after the lighthouse roof color edit](../assets/images/studio-lighthouse-edit.png) |
+| ![Original handmade island with terracotta lighthouse roof](../assets/previews/studio-lighthouse.jpg) | ![Handmade island after the lighthouse roof color edit](../assets/previews/studio-lighthouse-edit.jpg) |
 
 [Default generation prompt](../assets/generation/studio-lighthouse.txt) · [Exact edit prompt](../assets/generation/studio-lighthouse-edit.txt)
 

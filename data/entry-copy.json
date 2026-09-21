@@ -1,0 +1,82 @@
+{
+  "en": {
+    "cta": "Try GPT Image 2.5 · 100% Free · No Signup Required",
+    "limits": "One reference image; up to 2,000 characters. Check recipe input requirements before use.",
+    "stats": "{total} recipes · {packs} packs · {images} original PNGs. {bilingual} bilingual EN/ZH, {english} English-only and {localized} language-specific recipes. Original assets include inherited FLAQ examples; see provenance."
+  },
+  "zh-Hans": {
+    "cta": "免费使用 GPT Image 2.5 · 无需注册",
+    "limits": "最多一张参考图、2,000 字符；使用前请核对配方输入要求。",
+    "stats": "{total} 条配方 · {packs} 个场景包 · {images} 张原始 PNG。含 {bilingual} 条中英双语、{english} 条英文、{localized} 条语言专用配方。图片包含继承的 FLAQ 示例，来源见生成记录。"
+  },
+  "zh-Hant": {
+    "cta": "免費使用 GPT Image 2.5 · 無需註冊",
+    "limits": "最多一張參考圖、2,000 字元；使用前請核對配方的輸入要求。",
+    "stats": "{total} 條配方、{packs} 個場景包、{images} 張原始 PNG；包含繼承的 FLAQ 圖片。{bilingual} 條中英雙語、{english} 條英文、{localized} 條語言專用配方。本頁為入門說明。"
+  },
+  "ja": {
+    "cta": "GPT Image 2.5 を無料で使う · 登録不要",
+    "limits": "参照画像は1枚、プロンプトは2,000文字まで。各レシピの入力条件を確認してください。",
+    "stats": "{total} レシピ、{packs} 分類、{images} 枚の元画像。FLAQから引き継いだ画像を含みます。英中対応 {bilingual} 件、英語のみ {english} 件、言語別 {localized} 件。本ページは入門ガイドです。"
+  },
+  "ko": {
+    "cta": "GPT Image 2.5 무료 사용 · 가입 불필요",
+    "limits": "참조 이미지 1장, 프롬프트 최대 2,000자. 레시피별 입력 조건을 확인하세요.",
+    "stats": "레시피 {total}개, 분류 {packs}개, 원본 PNG {images}개. FLAQ에서 가져온 이미지가 포함됩니다. 영·중 이중 언어 {bilingual}개, 영어 전용 {english}개, 언어별 {localized}개. 이 페이지는 입문 안내입니다."
+  },
+  "es": {
+    "cta": "Usar GPT Image 2.5 gratis · Sin registro",
+    "limits": "Una imagen de referencia; hasta 2.000 caracteres. Comprueba los requisitos de cada receta.",
+    "stats": "{total} recetas, {packs} colecciones y {images} PNG originales, incluidos los heredados de FLAQ. {bilingual} recetas bilingües EN/ZH, {english} solo en inglés y {localized} específicas por idioma. Esta página es una introducción."
+  },
+  "fr": {
+    "cta": "Essayer GPT Image 2.5 gratuitement · Sans inscription",
+    "limits": "Une image de référence ; 2 000 caractères maximum. Vérifiez les besoins de chaque recette.",
+    "stats": "{total} recettes, {packs} collections et {images} PNG originaux, dont les exemples hérités de FLAQ. {bilingual} recettes bilingues EN/ZH, {english} en anglais et {localized} propres à une langue. Cette page est une introduction."
+  },
+  "de": {
+    "cta": "GPT Image 2.5 kostenlos nutzen · Ohne Anmeldung",
+    "limits": "Ein Referenzbild; maximal 2.000 Zeichen. Bitte die Eingabeanforderungen jedes Rezepts prüfen.",
+    "stats": "{total} Rezepte, {packs} Sammlungen und {images} Original-PNGs, einschließlich übernommener FLAQ-Beispiele. {bilingual} zweisprachige EN/ZH-Rezepte, {english} nur auf Englisch und {localized} sprachspezifische Rezepte. Diese Seite ist eine Einführung."
+  },
+  "pt-BR": {
+    "cta": "Usar GPT Image 2.5 grátis · Sem cadastro",
+    "limits": "Uma imagem de referência; até 2.000 caracteres. Confira os requisitos de cada receita.",
+    "stats": "{total} receitas, {packs} coleções e {images} PNGs originais, incluindo exemplos herdados da FLAQ. {bilingual} receitas bilíngues EN/ZH, {english} em inglês e {localized} específicas por idioma. Esta página é uma introdução."
+  },
+  "it": {
+    "cta": "Prova GPT Image 2.5 gratis · Senza registrazione",
+    "limits": "Una immagine di riferimento; massimo 2.000 caratteri. Controlla i requisiti di ogni ricetta.",
+    "stats": "{total} ricette, {packs} raccolte e {images} PNG originali, inclusi gli esempi ereditati da FLAQ. {bilingual} ricette bilingui EN/ZH, {english} in inglese e {localized} specifiche per lingua. Questa pagina è introduttiva."
+  },
+  "ru": {
+    "cta": "GPT Image 2.5 бесплатно · Без регистрации",
+    "limits": "Одно референсное изображение; до 2 000 символов. Проверьте требования каждого рецепта.",
+    "stats": "{total} рецептов, {packs} разделов и {images} исходных PNG, включая примеры из FLAQ. {bilingual} рецептов на английском и китайском, {english} только на английском и {localized} для отдельных языков. Эта страница — введение."
+  },
+  "ar": {
+    "cta": "جرّب GPT Image 2.5 مجاناً · دون تسجيل",
+    "limits": "صورة مرجعية واحدة وحتى 2,000 حرف. راجع متطلبات كل وصفة.",
+    "stats": "{total} وصفة ضمن {packs} مجموعة و{images} صورة PNG أصلية، تشمل أمثلة موروثة من FLAQ. منها {bilingual} بالإنجليزية والصينية، و{english} بالإنجليزية فقط، و{localized} خاصة بلغات محددة. هذه الصفحة مقدمة."
+  },
+  "hi": {
+    "cta": "GPT Image 2.5 मुफ़्त इस्तेमाल करें · पंजीकरण नहीं चाहिए",
+    "limits": "एक संदर्भ चित्र और अधिकतम 2,000 अक्षर। हर प्रॉम्प्ट की ज़रूरतें जाँचें।",
+    "stats": "{total} प्रॉम्प्ट, {packs} समूह और {images} मूल PNG चित्र, जिनमें FLAQ से लिए गए उदाहरण शामिल हैं। {bilingual} अंग्रेज़ी/चीनी, {english} केवल अंग्रेज़ी और {localized} भाषा-विशेष प्रॉम्प्ट। यह पृष्ठ परिचय है।"
+  },
+  "th": {
+    "cta": "ใช้ GPT Image 2.5 ฟรี · ไม่ต้องสมัคร",
+    "limits": "ภาพอ้างอิงหนึ่งภาพและข้อความสูงสุด 2,000 อักขระ ตรวจสอบข้อกำหนดของแต่ละพรอมป์ต์ก่อนใช้",
+    "stats": "{total} พรอมป์ต์ใน {packs} หมวด พร้อม PNG ต้นฉบับ {images} ภาพ รวมตัวอย่างที่สืบทอดจาก FLAQ มี {bilingual} พรอมป์ต์ภาษาอังกฤษ/จีน {english} พรอมป์ต์ภาษาอังกฤษเท่านั้น และ {localized} พรอมป์ต์เฉพาะภาษา หน้านี้เป็นบทนำ"
+  },
+  "id": {
+    "cta": "Gunakan GPT Image 2.5 gratis · Tanpa mendaftar",
+    "limits": "Satu gambar referensi; maksimal 2.000 karakter. Periksa kebutuhan setiap resep.",
+    "stats": "{total} resep, {packs} koleksi dan {images} PNG asli, termasuk contoh warisan FLAQ. {bilingual} resep dwibahasa EN/ZH, {english} hanya bahasa Inggris dan {localized} khusus bahasa. Halaman ini merupakan pengantar."
+  },
+  "vi": {
+    "cta": "Dùng GPT Image 2.5 miễn phí · Không cần đăng ký",
+    "limits": "Một ảnh tham chiếu; tối đa 2.000 ký tự. Kiểm tra yêu cầu của từng công thức.",
+    "stats": "{total} công thức, {packs} nhóm và {images} ảnh PNG gốc, gồm các ví dụ kế thừa từ FLAQ. Có {bilingual} công thức Anh/Trung, {english} chỉ bằng tiếng Anh và {localized} dành riêng cho từng ngôn ngữ. Trang này là phần giới thiệu."
+  }
+}

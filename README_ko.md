@@ -1,12 +1,19 @@
 # ChatGPT Images 2.5 프롬프트 모음 — Flyne AI
 
+<!-- BEGIN FLYNE ENTRY -->
+**[GPT Image 2.5 무료 사용 · 가입 불필요](https://flyne.ai/free-gpt-image-2-5/)**
+
+참조 이미지 1장, 프롬프트 최대 2,000자. 레시피별 입력 조건을 확인하세요. [→](docs/flyne-access.md)
+
+레시피 106개, 분류 16개, 원본 PNG 142개. FLAQ에서 가져온 이미지가 포함됩니다. 영·중 이중 언어 76개, 영어 전용 18개, 언어별 12개. 이 페이지는 입문 안내입니다.
+<!-- END FLYNE ENTRY -->
+
 Flyne AI가 관리하는 오픈 소스 버전입니다. FLAQ 라이브러리를 바탕으로 원저자 표시와 생성 기록을 보존합니다. [FLAQ → Flyne](docs/upstream.md)
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · **한국어** · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI — ChatGPT Images 2.5](assets/images/cover.png)
+![Flyne AI — ChatGPT Images 2.5](assets/previews/cover.jpg)
 
-총 106개 레시피와 16개 팩, 새로 생성한 이미지 142개를 제공합니다. 핵심 레시피 76개는 영어와 중국어 간체로 작성되었으며, 별도로 12개 언어별 레시피가 있습니다. README는 16개 언어·지역 버전으로 제공되지만 전체 프롬프트의 한국어 번역을 뜻하지는 않습니다. 영어로만 제공되는 새 작업 흐름 레시피 18개도 포함되어 있습니다.
 
 
 **[106개 레시피 이미지 갤러리](docs/gallery.md)**

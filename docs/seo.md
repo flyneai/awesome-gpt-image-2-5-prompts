@@ -21,7 +21,7 @@ ai-design, flyne-ai
 | Language | Title | Description |
 | --- | --- | --- |
 | English | ChatGPT Images 2.5 Prompts: 106 Prompt Recipes by Flyne AI | Explore original prompts for product photography, precise edits, ads, portraits and multilingual design, with examples and review notes. |
-| 简体中文 | ChatGPT Images 2.5 提示词：Flyne AI 103条场景配方 | 电商产品图、精准修图、人像宠物、广告海报和多语言设计提示词，附中英双语配方、新生成图片与验收记录。 |
+| 简体中文 | ChatGPT Images 2.5 提示词：Flyne AI 106条场景配方 | 电商产品图、精准修图、人像宠物、广告海报和多语言设计提示词，附中英双语配方、配图、来源与验收记录。 |
 | 日本語 | ChatGPT Images 2.5 プロンプト集 — Flyne AI | 商品画像、画像編集、ポスターや多言語デザインのためのオリジナルプロンプトと作例。 |
 | Español | Prompts de ChatGPT Images 2.5 — Flyne AI | Recetas originales para fotos de producto, edición de imágenes, carteles y diseño multilingüe con ejemplos. |
 | Français | Prompts ChatGPT Images 2.5 — Flyne AI | Des briefs originaux pour les images produit, les retouches, les affiches et le design multilingue. |

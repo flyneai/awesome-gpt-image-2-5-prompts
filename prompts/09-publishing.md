@@ -20,6 +20,8 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 2:3 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Book covers, editorial pages and print concept development.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -28,7 +30,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Quiet orchard book cover — original generated example](../assets/images/example-p049.png)
+[![Quiet orchard book cover — original generated example](../assets/previews/example-p049.jpg)](../assets/images/example-p049.png)
 
 [Quiet orchard book cover — generated example: exact prompt / 实际提示词](../assets/generation/example-p049.txt)
 
@@ -72,6 +74,8 @@ Increase only title contrast without moving the tree or changing typography.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Book covers, editorial pages and print concept development.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -80,7 +84,7 @@ Increase only title contrast without moving the tree or changing typography.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Recipe editorial spread — original generated example](../assets/images/example-p050.png)
+[![Recipe editorial spread — original generated example](../assets/previews/example-p050.jpg)](../assets/images/example-p050.png)
 
 [Recipe editorial spread — generated example: exact prompt / 实际提示词](../assets/generation/example-p050.txt)
 
@@ -124,6 +128,8 @@ Move only the small step illustrations closer to their labels, avoiding the gutt
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Book covers, editorial pages and print concept development.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -136,7 +142,7 @@ Move only the small step illustrations closer to their labels, avoiding the gutt
 
 [Input 1 / 输入 1](../assets/images/example-p051.png)
 
-![Annual review cover — original generated example](../assets/images/example-p051-v2.png)
+[![Annual review cover — original generated example](../assets/previews/example-p051-v2.jpg)](../assets/images/example-p051-v2.png)
 
 [Annual review cover — refined result: exact prompt / 实际提示词](../assets/generation/example-p051-v2.txt)
 
@@ -180,6 +186,8 @@ Change only the year to "2027 REVIEW", preserving every graphic element.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Book covers, editorial pages and print concept development.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -188,7 +196,7 @@ Change only the year to "2027 REVIEW", preserving every graphic element.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Editorial attention metaphor — original generated example](../assets/images/example-p052.png)
+[![Editorial attention metaphor — original generated example](../assets/previews/example-p052.jpg)](../assets/images/example-p052.png)
 
 [Editorial attention metaphor — generated example: exact prompt / 实际提示词](../assets/generation/example-p052.txt)
 
@@ -232,6 +240,8 @@ Reduce only the number of paper notifications by half.
 
 **Mode:** generate · **Target:** 2:3 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Book covers, editorial pages and print concept development.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -240,7 +250,7 @@ Reduce only the number of paper notifications by half.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Botanical ink print — original generated example](../assets/images/example-p053.png)
+[![Botanical ink print — original generated example](../assets/previews/example-p053.jpg)](../assets/images/example-p053.png)
 
 [Botanical ink print — generated example: exact prompt / 实际提示词](../assets/generation/example-p053.txt)
 
@@ -284,6 +294,8 @@ Make only the sun slightly smaller, preserving brushwork and empty space.
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Book covers, editorial pages and print concept development.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -292,7 +304,7 @@ Make only the sun slightly smaller, preserving brushwork and empty space.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Risograph neighborhood zine — original generated example](../assets/images/example-p054.png)
+[![Risograph neighborhood zine — original generated example](../assets/previews/example-p054.jpg)](../assets/images/example-p054.png)
 
 [Risograph neighborhood zine — generated example: exact prompt / 实际提示词](../assets/generation/example-p054.txt)
 

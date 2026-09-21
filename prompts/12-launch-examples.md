@@ -23,6 +23,8 @@ Scenario inspiration: [OpenAI launch article](https://openai.com/index/introduci
 
 **Mode:** edit · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Reference-led image-editing exercises.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -35,7 +37,7 @@ Scenario inspiration: [OpenAI launch article](https://openai.com/index/introduci
 
 [Input 1 / 输入 1](../assets/images/launch-dog-input.png)
 
-![Terrier cape makeover: original edit image by flaq.ai](../assets/images/launch-dog-edit.png)
+[![Terrier cape makeover: original edit image by flaq.ai](../assets/previews/launch-dog-edit.jpg)](../assets/images/launch-dog-edit.png)
 
 [Terrier cape makeover — edit: exact prompt / 实际提示词](../assets/generation/launch-dog-edit.txt)
 
@@ -79,6 +81,8 @@ Change only the cape fabric to burgundy. Keep the tie ochre and preserve the dog
 
 **Mode:** edit · **Target:** 2:3 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Reference-led image-editing exercises.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -91,7 +95,7 @@ Change only the cape fabric to burgundy. Keep the tie ochre and preserve the dog
 
 [Input 1 / 输入 1](../assets/images/launch-child-input.png)
 
-![Synthetic child portrait wardrobe edit: original edit image by flaq.ai](../assets/images/launch-child-edit.png)
+[![Synthetic child portrait wardrobe edit: original edit image by flaq.ai](../assets/previews/launch-child-edit.jpg)](../assets/images/launch-child-edit.png)
 
 [Synthetic child portrait wardrobe edit — edit: exact prompt / 实际提示词](../assets/generation/launch-child-edit.txt)
 
@@ -135,6 +139,8 @@ Change only the cardigan buttons to cream. Preserve the approved outfit and port
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Reference-led image-editing exercises.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -147,7 +153,7 @@ Change only the cardigan buttons to cream. Preserve the approved outfit and port
 
 [Input 1 / 输入 1](../assets/images/launch-bed-input.png)
 
-![Duvet pattern swap: original edit image by flaq.ai](../assets/images/launch-bed-edit.png)
+[![Duvet pattern swap: original edit image by flaq.ai](../assets/previews/launch-bed-edit.jpg)](../assets/images/launch-bed-edit.png)
 
 [Duvet pattern swap — edit: exact prompt / 实际提示词](../assets/generation/launch-bed-edit.txt)
 
@@ -191,6 +197,8 @@ Change only the stripe color from teal to rust; preserve stripe spacing and the 
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Reference-led image-editing exercises.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -203,7 +211,7 @@ Change only the stripe color from teal to rust; preserve stripe spacing and the 
 
 [Input 1 / 输入 1](../assets/images/launch-ticket-input.png)
 
-![Souvenir city-name replacement: original edit image by flaq.ai](../assets/images/launch-ticket-edit.png)
+[![Souvenir city-name replacement: original edit image by flaq.ai](../assets/previews/launch-ticket-edit.jpg)](../assets/images/launch-ticket-edit.png)
 
 [Souvenir city-name replacement — edit: exact prompt / 实际提示词](../assets/generation/launch-ticket-edit.txt)
 
@@ -247,6 +255,8 @@ Replace only LISBON with KYOTO. Keep all other wording and illustration unchange
 
 **Mode:** edit · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Reference-led image-editing exercises.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -259,7 +269,7 @@ Replace only LISBON with KYOTO. Keep all other wording and illustration unchange
 
 [Input 1 / 输入 1](../assets/images/launch-cube-input.png)
 
-![Symbol-marked cube rotation: original edit image by flaq.ai](../assets/images/launch-cube-edit.png)
+[![Symbol-marked cube rotation: original edit image by flaq.ai](../assets/previews/launch-cube-edit.jpg)](../assets/images/launch-cube-edit.png)
 
 [Symbol-marked cube rotation — edit: exact prompt / 实际提示词](../assets/generation/launch-cube-edit.txt)
 
@@ -303,6 +313,8 @@ Repair only the bent top outline into straight cube edges. Preserve each face co
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Reference-led image-editing exercises.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -315,7 +327,7 @@ Repair only the bent top outline into straight cube edges. Preserve each face co
 
 [Input 1 / 输入 1](../assets/images/launch-travel-input.png)
 
-![One-column itinerary revision: original edit image by flaq.ai](../assets/images/launch-travel-edit.png)
+[![One-column itinerary revision: original edit image by flaq.ai](../assets/previews/launch-travel-edit.jpg)](../assets/images/launch-travel-edit.png)
 
 [One-column itinerary revision — edit: exact prompt / 实际提示词](../assets/generation/launch-travel-edit.txt)
 
@@ -359,6 +371,8 @@ Change only STUDIO to POTTERY. Preserve 14:00, all three bowls and both outer co
 
 **Mode:** edit · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Reference-led image-editing exercises.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -371,7 +385,7 @@ Change only STUDIO to POTTERY. Preserve 14:00, all three bowls and both outer co
 
 [Input 1 / 输入 1](../assets/images/launch-cake-input.png)
 
-![Birthday candle count edit: original edit image by flaq.ai](../assets/images/launch-cake-edit.png)
+[![Birthday candle count edit: original edit image by flaq.ai](../assets/previews/launch-cake-edit.jpg)](../assets/images/launch-cake-edit.png)
 
 [Birthday candle count edit — edit: exact prompt / 实际提示词](../assets/generation/launch-cake-edit.txt)
 

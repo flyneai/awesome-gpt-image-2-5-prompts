@@ -1,0 +1,8 @@
+# Product photography & e-commerce
+
+[All collections](../gallery.md) · [Complete prompts](../../prompts/01-product.md)
+
+| | | |
+| --- | --- | --- |
+| [![Navy portable lamp on coral plinth with LIGHT, UNPLUGGED headline](../../assets/previews/tideline-lamp.jpg)](../../prompts/01-product.md#p001)<br>**[P001 · Portable lamp campaign](../../prompts/01-product.md#p001)** · [Original PNG](../../assets/images/tideline-lamp.png) | [![Ceramic cup catalog — original generated example](../../assets/previews/example-p002.jpg)](../../prompts/01-product.md#p002)<br>**[P002 · Ceramic cup catalog](../../prompts/01-product.md#p002)** · [Original PNG](../../assets/images/example-p002.png) | [![Skincare ingredient still life — original generated example](../../assets/previews/example-p003.jpg)](../../prompts/01-product.md#p003)<br>**[P003 · Skincare ingredient still life](../../prompts/01-product.md#p003)** · [Original PNG](../../assets/images/example-p003.png) |
+| [![Mechanical coffee grinder cutaway — original generated example](../../assets/previews/example-p004.jpg)](../../prompts/01-product.md#p004)<br>**[P004 · Mechanical coffee grinder cutaway](../../prompts/01-product.md#p004)** · [Original PNG](../../assets/images/example-p004.png) | [![Sneaker texture detail — original generated example](../../assets/previews/example-p005.jpg)](../../prompts/01-product.md#p005)<br>**[P005 · Sneaker texture detail](../../prompts/01-product.md#p005)** · [Original PNG](../../assets/images/example-p005.png) | [![Gift box unboxing flat lay — original generated example](../../assets/previews/example-p006.jpg)](../../prompts/01-product.md#p006)<br>**[P006 · Gift box unboxing flat lay](../../prompts/01-product.md#p006)** · [Original PNG](../../assets/images/example-p006.png) |

@@ -20,6 +20,8 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Teaching cards, explanatory slides and fictional-data presentations.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -28,7 +30,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Three-stage rain garden explainer — original generated example](../assets/images/example-p025.png)
+[![Three-stage rain garden explainer — original generated example](../assets/previews/example-p025.jpg)](../assets/images/example-p025.png)
 
 [Three-stage rain garden explainer — generated example: exact prompt / 实际提示词](../assets/generation/example-p025.txt)
 
@@ -72,6 +74,8 @@ Increase only the arrow contrast; keep all stages and wording.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Teaching cards, explanatory slides and fictional-data presentations.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -80,7 +84,7 @@ Increase only the arrow contrast; keep all stages and wording.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Coffee tasting wheel for beginners — original generated example](../assets/images/example-p026.png)
+[![Coffee tasting wheel for beginners — original generated example](../assets/previews/example-p026.jpg)](../assets/images/example-p026.png)
 
 [Coffee tasting wheel for beginners — generated example: exact prompt / 实际提示词](../assets/generation/example-p026.txt)
 
@@ -124,6 +128,8 @@ Change only the fruity-sector accent to muted pink.
 
 **Mode:** generate · **Target:** 16:9 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Teaching cards, explanatory slides and fictional-data presentations.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -136,7 +142,7 @@ Change only the fruity-sector accent to muted pink.
 
 [Input 1 / 输入 1](../assets/images/example-p027.png)
 
-![Transparent demo-data bar chart — original generated example](../assets/images/example-p027-v2.png)
+[![Transparent demo-data bar chart — original generated example](../assets/previews/example-p027-v2.jpg)](../assets/images/example-p027-v2.png)
 
 [Transparent demo-data bar chart — refined result: exact prompt / 实际提示词](../assets/generation/example-p027-v2.txt)
 
@@ -180,6 +186,8 @@ Highlight only June in orange, preserving values and bar geometry.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Teaching cards, explanatory slides and fictional-data presentations.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -188,7 +196,7 @@ Highlight only June in orange, preserving values and bar geometry.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Fictional neighborhood walking map — original generated example](../assets/images/example-p028.png)
+[![Fictional neighborhood walking map — original generated example](../assets/previews/example-p028.jpg)](../assets/images/example-p028.png)
 
 [Fictional neighborhood walking map — generated example: exact prompt / 实际提示词](../assets/generation/example-p028.txt)
 
@@ -232,6 +240,8 @@ Change only the route color to dark blue without moving its path.
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Teaching cards, explanatory slides and fictional-data presentations.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -240,7 +250,7 @@ Change only the route color to dark blue without moving its path.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Plant life-cycle classroom card — original generated example](../assets/images/example-p029.png)
+[![Plant life-cycle classroom card — original generated example](../assets/previews/example-p029.jpg)](../assets/images/example-p029.png)
 
 [Plant life-cycle classroom card — generated example: exact prompt / 实际提示词](../assets/generation/example-p029.txt)
 
@@ -284,6 +294,8 @@ Enlarge only the root illustration in the second panel while preserving labels.
 
 **Mode:** generate · **Target:** 16:9 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Teaching cards, explanatory slides and fictional-data presentations.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -292,7 +304,7 @@ Enlarge only the root illustration in the second panel while preserving labels.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Workshop process slide — original generated example](../assets/images/example-p030.png)
+[![Workshop process slide — original generated example](../assets/previews/example-p030.jpg)](../assets/images/example-p030.png)
 
 [Workshop process slide — generated example: exact prompt / 实际提示词](../assets/generation/example-p030.txt)
 

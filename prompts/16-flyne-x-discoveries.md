@@ -17,6 +17,8 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 3:4 · **Author:** Flyne AI team
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Foreground bakery campaign
 
 **Inputs:** Text only; no reference image was used for the generated example.
@@ -35,7 +37,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Foreground bakery campaign](../assets/images/flyne-p092.png)
+[![Foreground bakery campaign](../assets/previews/flyne-p092.jpg)](../assets/images/flyne-p092.png)
 
 [Flyne original adaptation: exact prompt / 实际提示词](../assets/generation/flyne-p092.txt)
 
@@ -79,6 +81,8 @@ Change only the background to muted terracotta; preserve breads, board, hands an
 
 **Mode:** generate · **Target:** 3:4 · **Author:** Flyne AI team
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Paper-window travel journal
 
 **Inputs:** Text only; no reference image was used for the generated example.
@@ -97,7 +101,7 @@ Change only the background to muted terracotta; preserve breads, board, hands an
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Paper-window travel journal](../assets/images/flyne-p093.png)
+[![Paper-window travel journal](../assets/previews/flyne-p093.jpg)](../assets/images/flyne-p093.png)
 
 [Flyne original adaptation: exact prompt / 实际提示词](../assets/generation/flyne-p093.txt)
 
@@ -141,6 +145,8 @@ Change only the time of day to a softly lit evening; preserve the paper, opening
 
 **Mode:** generate · **Target:** 1:1 · **Author:** Flyne AI team
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Spiral lagoon landscape
 
 **Inputs:** Text only; no reference image was used for the generated example.
@@ -159,7 +165,7 @@ Change only the time of day to a softly lit evening; preserve the paper, opening
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Spiral lagoon landscape](../assets/images/flyne-p094.png)
+[![Spiral lagoon landscape](../assets/previews/flyne-p094.jpg)](../assets/images/flyne-p094.png)
 
 [Flyne original adaptation: exact prompt / 实际提示词](../assets/generation/flyne-p094.txt)
 

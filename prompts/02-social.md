@@ -20,6 +20,8 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 2:3 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Social posts, event announcements and editorial covers.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -28,7 +30,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Repair café event poster — original generated example](../assets/images/example-p007.png)
+[![Repair café event poster — original generated example](../assets/previews/example-p007.jpg)](../assets/images/example-p007.png)
 
 [Repair café event poster — generated example: exact prompt / 实际提示词](../assets/generation/example-p007.txt)
 
@@ -72,6 +74,8 @@ Replace only the date with "SAT 21 NOV"; preserve hierarchy and line breaks.
 
 **Mode:** generate · **Target:** 16:9 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Social posts, event announcements and editorial covers.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -80,7 +84,7 @@ Replace only the date with "SAT 21 NOV"; preserve hierarchy and line breaks.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Creator thumbnail with one idea — original generated example](../assets/images/example-p008.png)
+[![Creator thumbnail with one idea — original generated example](../assets/previews/example-p008.jpg)](../assets/images/example-p008.png)
 
 [Creator thumbnail with one idea — generated example: exact prompt / 实际提示词](../assets/generation/example-p008.txt)
 
@@ -124,6 +128,8 @@ Enlarge only the title by 15%, leaving its left margin and subject position unch
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Social posts, event announcements and editorial covers.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -132,7 +138,7 @@ Enlarge only the title by 15%, leaving its left margin and subject position unch
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Carousel cover for slow travel — original generated example](../assets/images/example-p009.png)
+[![Carousel cover for slow travel — original generated example](../assets/previews/example-p009.jpg)](../assets/images/example-p009.png)
 
 [Carousel cover for slow travel — generated example: exact prompt / 实际提示词](../assets/generation/example-p009.txt)
 
@@ -176,6 +182,8 @@ Make a second cover by changing only the title to "PACK A LITTLE LESS" and page 
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Social posts, event announcements and editorial covers.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -184,7 +192,7 @@ Make a second cover by changing only the title to "PACK A LITTLE LESS" and page 
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Neighborhood lunch special — original generated example](../assets/images/example-p010.png)
+[![Neighborhood lunch special — original generated example](../assets/previews/example-p010.jpg)](../assets/images/example-p010.png)
 
 [Neighborhood lunch special — generated example: exact prompt / 实际提示词](../assets/generation/example-p010.txt)
 
@@ -228,6 +236,8 @@ Change only the coral square to cobalt blue; keep food and text unchanged.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Social posts, event announcements and editorial covers.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -236,7 +246,7 @@ Change only the coral square to cobalt blue; keep food and text unchanged.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Podcast editorial cover — original generated example](../assets/images/example-p011.png)
+[![Podcast editorial cover — original generated example](../assets/previews/example-p011.jpg)](../assets/images/example-p011.png)
 
 [Podcast editorial cover — generated example: exact prompt / 实际提示词](../assets/generation/example-p011.txt)
 
@@ -280,6 +290,8 @@ Shorten only the shadow by one third while keeping light direction consistent.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Social posts, event announcements and editorial covers.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -288,7 +300,7 @@ Shorten only the shadow by one third while keeping light direction consistent.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Seasonal market campaign — original generated example](../assets/images/example-p012.png)
+[![Seasonal market campaign — original generated example](../assets/previews/example-p012.jpg)](../assets/images/example-p012.png)
 
 [Seasonal market campaign — generated example: exact prompt / 实际提示词](../assets/generation/example-p012.txt)
 

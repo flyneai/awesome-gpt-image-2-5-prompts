@@ -1,12 +1,19 @@
 # พรอมป์ต์สำหรับ ChatGPT Images 2.5 — Flyne AI
 
+<!-- BEGIN FLYNE ENTRY -->
+**[ใช้ GPT Image 2.5 ฟรี · ไม่ต้องสมัคร](https://flyne.ai/free-gpt-image-2-5/)**
+
+ภาพอ้างอิงหนึ่งภาพและข้อความสูงสุด 2,000 อักขระ ตรวจสอบข้อกำหนดของแต่ละพรอมป์ต์ก่อนใช้ [→](docs/flyne-access.md)
+
+106 พรอมป์ต์ใน 16 หมวด พร้อม PNG ต้นฉบับ 142 ภาพ รวมตัวอย่างที่สืบทอดจาก FLAQ มี 76 พรอมป์ต์ภาษาอังกฤษ/จีน 18 พรอมป์ต์ภาษาอังกฤษเท่านั้น และ 12 พรอมป์ต์เฉพาะภาษา หน้านี้เป็นบทนำ
+<!-- END FLYNE ENTRY -->
+
 ฉบับโอเพนซอร์สที่ดูแลโดย Flyne AI ดัดแปลงจากคลัง FLAQ โดยคงเครดิตผู้สร้างและบันทึกการสร้างภาพเดิมไว้ [FLAQ → Flyne](docs/upstream.md)
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · **ไทย** · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI — ChatGPT Images 2.5](assets/images/cover.png)
+![Flyne AI — ChatGPT Images 2.5](assets/previews/cover.jpg)
 
-มีพรอมป์ต์ 106 ชุดใน 16 หมวด และภาพที่สร้างขึ้นใหม่ 142 ภาพ โดย 76 ชุดหลักมีทั้งภาษาอังกฤษและจีนตัวย่อ อีก 12 ชุดเขียนสำหรับแต่ละภาษา README มี 16 ฉบับตามภาษาและภูมิภาค หน้านี้เป็นบทนำภาษาไทย ไม่ใช่คำแปลพรอมป์ต์ทั้งหมด นอกจากนี้ยังมีพรอมป์ต์เวิร์กโฟลว์ใหม่อีก 18 ชุดที่เป็นภาษาอังกฤษเท่านั้น
 
 
 **[แกลเลอรีภาพสำหรับพรอมป์ต์ทั้ง 106 ชุด](docs/gallery.md)**

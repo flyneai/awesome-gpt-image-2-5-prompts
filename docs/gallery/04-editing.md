@@ -1,0 +1,8 @@
+# Precise edits & multi-turn workflows
+
+[All collections](../gallery.md) · [Complete prompts](../../prompts/04-editing.md)
+
+| | | |
+| --- | --- | --- |
+| [![Jade-green lamp with YOUR EVENING, UPGRADED headline](../../assets/previews/tideline-lamp-copy.jpg)](../../prompts/04-editing.md#p019)<br>**[P019 · Product colorway edit](../../prompts/04-editing.md#p019)** · [Original PNG](../../assets/images/tideline-lamp-copy.png) | [![Remove a tabletop distraction — original generated example](../../assets/previews/example-p020.jpg)](../../prompts/04-editing.md#p020)<br>**[P020 · Remove a tabletop distraction](../../prompts/04-editing.md#p020)** · [Original PNG](../../assets/images/example-p020.png) | [![Window-light evening relight — original generated example](../../assets/previews/example-p021.jpg)](../../prompts/04-editing.md#p021)<br>**[P021 · Window-light evening relight](../../prompts/04-editing.md#p021)** · [Original PNG](../../assets/images/example-p021.png) |
+| [![Poster text replacement — original generated example](../../assets/previews/example-p022.jpg)](../../prompts/04-editing.md#p022)<br>**[P022 · Poster text replacement](../../prompts/04-editing.md#p022)** · [Original PNG](../../assets/images/example-p022.png) | [![Sketch-guided planter placement — original generated example](../../assets/previews/example-p023.jpg)](../../prompts/04-editing.md#p023)<br>**[P023 · Sketch-guided planter placement](../../prompts/04-editing.md#p023)** · [Original PNG](../../assets/images/example-p023.png) | [![Clean product cutout — original generated example](../../assets/previews/example-p024.jpg)](../../prompts/04-editing.md#p024)<br>**[P024 · Clean product cutout](../../prompts/04-editing.md#p024)** · [Original PNG](../../assets/images/example-p024.png) |

@@ -20,6 +20,8 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Brand direction and interface presentation concepts.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -32,7 +34,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 [Input 1 / 输入 1](../assets/images/example-p031.png)
 
-![Independent ceramics wordmark — original generated example](../assets/images/example-p031-v2.png)
+[![Independent ceramics wordmark — original generated example](../assets/previews/example-p031-v2.jpg)](../assets/images/example-p031-v2.png)
 
 [Independent ceramics wordmark — refined result: exact prompt / 实际提示词](../assets/generation/example-p031-v2.txt)
 
@@ -76,6 +78,8 @@ Adjust only the spacing between F and T, preserving every letterform.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Brand direction and interface presentation concepts.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -84,7 +88,7 @@ Adjust only the spacing between F and T, preserving every letterform.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Museum wayfinding family — original generated example](../assets/images/example-p032.png)
+[![Museum wayfinding family — original generated example](../assets/previews/example-p032.jpg)](../assets/images/example-p032.png)
 
 [Museum wayfinding family — generated example: exact prompt / 实际提示词](../assets/generation/example-p032.txt)
 
@@ -128,6 +132,8 @@ Change only sign material to painted wood while retaining navy and ivory colors.
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Brand direction and interface presentation concepts.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -136,7 +142,7 @@ Change only sign material to painted wood while retaining navy and ivory colors.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Book-club mobile app concept — original generated example](../assets/images/example-p033.png)
+[![Book-club mobile app concept — original generated example](../assets/previews/example-p033.jpg)](../assets/images/example-p033.png)
 
 [Book-club mobile app concept — generated example: exact prompt / 实际提示词](../assets/generation/example-p033.txt)
 
@@ -180,6 +186,8 @@ Change only the primary button to dark green; keep layout and wording.
 
 **Mode:** generate · **Target:** 16:9 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Brand direction and interface presentation concepts.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -188,7 +196,7 @@ Change only the primary button to dark green; keep layout and wording.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Workshop booking landing page — original generated example](../assets/images/example-p034.png)
+[![Workshop booking landing page — original generated example](../assets/previews/example-p034.jpg)](../assets/images/example-p034.png)
 
 [Workshop booking landing page — generated example: exact prompt / 实际提示词](../assets/generation/example-p034.txt)
 
@@ -232,6 +240,8 @@ Replace only the hero photo with a hand-planed wooden bowl scene, preserving the
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Brand direction and interface presentation concepts.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -240,7 +250,7 @@ Replace only the hero photo with a hand-planed wooden bowl scene, preserving the
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Tea packaging family — original generated example](../assets/images/example-p035.png)
+[![Tea packaging family — original generated example](../assets/previews/example-p035.jpg)](../assets/images/example-p035.png)
 
 [Tea packaging family — generated example: exact prompt / 实际提示词](../assets/generation/example-p035.txt)
 
@@ -284,6 +294,8 @@ Change only the OOLONG side-panel blue to deeper navy.
 
 **Mode:** generate · **Target:** 16:9 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Brand direction and interface presentation concepts.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -292,7 +304,7 @@ Change only the OOLONG side-panel blue to deeper navy.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Creator dashboard concept — original generated example](../assets/images/example-p036.png)
+[![Creator dashboard concept — original generated example](../assets/previews/example-p036.jpg)](../assets/images/example-p036.png)
 
 [Creator dashboard concept — generated example: exact prompt / 实际提示词](../assets/generation/example-p036.txt)
 

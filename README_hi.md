@@ -1,12 +1,19 @@
 # ChatGPT Images 2.5 के लिए प्रॉम्प्ट — Flyne AI
 
+<!-- BEGIN FLYNE ENTRY -->
+**[GPT Image 2.5 मुफ़्त इस्तेमाल करें · पंजीकरण नहीं चाहिए](https://flyne.ai/free-gpt-image-2-5/)**
+
+एक संदर्भ चित्र और अधिकतम 2,000 अक्षर। हर प्रॉम्प्ट की ज़रूरतें जाँचें। [→](docs/flyne-access.md)
+
+106 प्रॉम्प्ट, 16 समूह और 142 मूल PNG चित्र, जिनमें FLAQ से लिए गए उदाहरण शामिल हैं। 76 अंग्रेज़ी/चीनी, 18 केवल अंग्रेज़ी और 12 भाषा-विशेष प्रॉम्प्ट। यह पृष्ठ परिचय है।
+<!-- END FLYNE ENTRY -->
+
 Flyne AI द्वारा संचालित यह ओपन-सोर्स संस्करण FLAQ की लाइब्रेरी पर आधारित है। मूल लेखकों का श्रेय और चित्र बनाने के रिकॉर्ड सुरक्षित रखे गए हैं। [FLAQ → Flyne](docs/upstream.md)
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · **हिन्दी** · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI — ChatGPT Images 2.5](assets/images/cover.png)
+![Flyne AI — ChatGPT Images 2.5](assets/previews/cover.jpg)
 
-इस संग्रह में 16 श्रेणियों में 106 प्रॉम्प्ट और 142 नई बनाई गई छवियाँ हैं। 76 मुख्य प्रॉम्प्ट अंग्रेज़ी और सरलीकृत चीनी में हैं; 12 अन्य प्रॉम्प्ट अलग-अलग भाषाओं के लिए हैं। README के 16 भाषा और क्षेत्रीय संस्करण हैं। यह पृष्ठ हिन्दी परिचय है, पूरे संग्रह का अनुवाद नहीं। इसके अलावा, 18 नए कार्यप्रवाह प्रॉम्प्ट केवल अंग्रेज़ी में उपलब्ध हैं।
 
 
 **[106 प्रॉम्प्ट की चित्र गैलरी](docs/gallery.md)**

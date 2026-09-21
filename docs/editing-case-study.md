@@ -4,7 +4,7 @@ The goal: change a product color, then update the headline, while carrying the a
 
 ## Step 1 — Establish the campaign
 
-![Original navy lamp campaign](../assets/images/tideline-lamp.png)
+![Original navy lamp campaign](../assets/previews/tideline-lamp.jpg)
 
 The brief specifies a navy lamp, ivory shade, orange pull tab, coral plinth and two exact text strings. [Exact generation prompt](../assets/generation/tideline-lamp.txt).
 
@@ -12,7 +12,7 @@ Approve the silhouette, composition and copy before continuing. The generated ap
 
 ## Step 2 — Change the base color
 
-![Jade-green version preserving the original headline](../assets/images/tideline-lamp-jade.png)
+![Jade-green version preserving the original headline](../assets/previews/tideline-lamp-jade.jpg)
 
 Input: [the blue campaign](../assets/images/tideline-lamp.png). [Exact edit prompt](../assets/generation/tideline-lamp-jade.txt).
 
@@ -20,7 +20,7 @@ The request targets the cylindrical base and locks the shade, pull tab, typograp
 
 ## Step 3 — Update the headline from the green version
 
-![Green lamp with YOUR EVENING, UPGRADED headline](../assets/images/tideline-lamp-copy.png)
+![Green lamp with YOUR EVENING, UPGRADED headline](../assets/previews/tideline-lamp-copy.jpg)
 
 Input: [the green version](../assets/images/tideline-lamp-jade.png), not the original blue campaign. [Exact edit prompt](../assets/generation/tideline-lamp-copy.txt).
 

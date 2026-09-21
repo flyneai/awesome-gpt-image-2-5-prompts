@@ -1,12 +1,19 @@
 # Prompt per ChatGPT Images 2.5 — Flyne AI
 
+<!-- BEGIN FLYNE ENTRY -->
+**[Prova GPT Image 2.5 gratis · Senza registrazione](https://flyne.ai/free-gpt-image-2-5/)**
+
+Una immagine di riferimento; massimo 2.000 caratteri. Controlla i requisiti di ogni ricetta. [→](docs/flyne-access.md)
+
+106 ricette, 16 raccolte e 142 PNG originali, inclusi gli esempi ereditati da FLAQ. 76 ricette bilingui EN/ZH, 18 in inglese e 12 specifiche per lingua. Questa pagina è introduttiva.
+<!-- END FLYNE ENTRY -->
+
 Edizione open source curata da Flyne AI, basata sulla raccolta FLAQ. Crediti e registri di generazione originali sono conservati. [FLAQ → Flyne](docs/upstream.md)
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · **Italiano** · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI — ChatGPT Images 2.5](assets/images/cover.png)
+![Flyne AI — ChatGPT Images 2.5](assets/previews/cover.jpg)
 
-La raccolta comprende 106 ricette in 16 sezioni e 142 nuove immagini: 76 ricette complete in inglese e cinese semplificato, più 12 ricette dedicate a singole lingue. Il README è disponibile in 16 versioni linguistiche e regionali. Questa pagina introduce la raccolta in italiano, senza tradurre tutti i prompt. Si aggiungono 18 nuove ricette di workflow disponibili solo in inglese.
 
 
 **[Galleria delle 106 ricette illustrate](docs/gallery.md)**

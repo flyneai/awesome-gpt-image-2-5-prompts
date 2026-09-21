@@ -1,0 +1,8 @@
+# Ads, social posts & creator covers
+
+[All collections](../gallery.md) · [Complete prompts](../../prompts/02-social.md)
+
+| | | |
+| --- | --- | --- |
+| [![Repair café event poster — original generated example](../../assets/previews/example-p007.jpg)](../../prompts/02-social.md#p007)<br>**[P007 · Repair café event poster](../../prompts/02-social.md#p007)** · [Original PNG](../../assets/images/example-p007.png) | [![Creator thumbnail with one idea — original generated example](../../assets/previews/example-p008.jpg)](../../prompts/02-social.md#p008)<br>**[P008 · Creator thumbnail with one idea](../../prompts/02-social.md#p008)** · [Original PNG](../../assets/images/example-p008.png) | [![Carousel cover for slow travel — original generated example](../../assets/previews/example-p009.jpg)](../../prompts/02-social.md#p009)<br>**[P009 · Carousel cover for slow travel](../../prompts/02-social.md#p009)** · [Original PNG](../../assets/images/example-p009.png) |
+| [![Neighborhood lunch special — original generated example](../../assets/previews/example-p010.jpg)](../../prompts/02-social.md#p010)<br>**[P010 · Neighborhood lunch special](../../prompts/02-social.md#p010)** · [Original PNG](../../assets/images/example-p010.png) | [![Podcast editorial cover — original generated example](../../assets/previews/example-p011.jpg)](../../prompts/02-social.md#p011)<br>**[P011 · Podcast editorial cover](../../prompts/02-social.md#p011)** · [Original PNG](../../assets/images/example-p011.png) | [![Seasonal market campaign — original generated example](../../assets/previews/example-p012.jpg)](../../prompts/02-social.md#p012)<br>**[P012 · Seasonal market campaign](../../prompts/02-social.md#p012)** · [Original PNG](../../assets/images/example-p012.png) |

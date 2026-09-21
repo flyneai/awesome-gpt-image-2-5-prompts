@@ -20,6 +20,8 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Catalog pages and product campaign pitches.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -28,7 +30,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Navy portable lamp on coral plinth with LIGHT, UNPLUGGED headline](../assets/images/tideline-lamp.png)
+[![Navy portable lamp on coral plinth with LIGHT, UNPLUGGED headline](../assets/previews/tideline-lamp.jpg)](../assets/images/tideline-lamp.png)
 
 [Original campaign: exact prompt / 实际提示词](../assets/generation/tideline-lamp.txt)
 
@@ -72,6 +74,8 @@ Change only the base finish to muted jade; preserve shade, pull tab, framing and
 
 **Mode:** edit · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Catalog pages and product campaign pitches.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -84,7 +88,7 @@ Change only the base finish to muted jade; preserve shade, pull tab, framing and
 
 [Input 1 / 输入 1](../assets/images/cup-input.png)
 
-![Ceramic cup catalog — original generated example](../assets/images/example-p002.png)
+[![Ceramic cup catalog — original generated example](../assets/previews/example-p002.jpg)](../assets/images/example-p002.png)
 
 [Ceramic cup catalog — generated example: exact prompt / 实际提示词](../assets/generation/example-p002.txt)
 
@@ -128,6 +132,8 @@ Soften only the floor shadow; keep all cup pixels as close to the source as poss
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Catalog pages and product campaign pitches.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -136,7 +142,7 @@ Soften only the floor shadow; keep all cup pixels as close to the source as poss
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Skincare ingredient still life — original generated example](../assets/images/example-p003.png)
+[![Skincare ingredient still life — original generated example](../assets/previews/example-p003.jpg)](../assets/images/example-p003.png)
 
 [Skincare ingredient still life — generated example: exact prompt / 实际提示词](../assets/generation/example-p003.txt)
 
@@ -180,6 +186,8 @@ Replace only the linen with a pale sage cotton cloth, keeping folds similarly po
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Catalog pages and product campaign pitches.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -188,7 +196,7 @@ Replace only the linen with a pale sage cotton cloth, keeping folds similarly po
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Mechanical coffee grinder cutaway — original generated example](../assets/images/example-p004.png)
+[![Mechanical coffee grinder cutaway — original generated example](../assets/previews/example-p004.jpg)](../assets/images/example-p004.png)
 
 [Mechanical coffee grinder cutaway — generated example: exact prompt / 实际提示词](../assets/generation/example-p004.txt)
 
@@ -232,6 +240,8 @@ Increase only the gap between burr and cup; preserve labels and component count.
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Catalog pages and product campaign pitches.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -244,7 +254,7 @@ Increase only the gap between burr and cup; preserve labels and component count.
 
 [Input 1 / 输入 1](../assets/images/shoe-input.png)
 
-![Sneaker texture detail — original generated example](../assets/images/example-p005.png)
+[![Sneaker texture detail — original generated example](../assets/previews/example-p005.jpg)](../assets/images/example-p005.png)
 
 [Sneaker texture detail — generated example: exact prompt / 实际提示词](../assets/generation/example-p005.txt)
 
@@ -288,6 +298,8 @@ Reduce only the highlight strength on the rubber, retaining visible grain.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Catalog pages and product campaign pitches.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -296,7 +308,7 @@ Reduce only the highlight strength on the rubber, retaining visible grain.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Gift box unboxing flat lay — original generated example](../assets/images/example-p006.png)
+[![Gift box unboxing flat lay — original generated example](../assets/previews/example-p006.jpg)](../assets/images/example-p006.png)
 
 [Gift box unboxing flat lay — generated example: exact prompt / 实际提示词](../assets/generation/example-p006.txt)
 

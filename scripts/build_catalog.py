@@ -3,6 +3,8 @@
 import json
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
+def preview(path):
+    return 'assets/previews/'+Path(path).with_suffix('.jpg').name
 def build():
     data = json.loads((ROOT/'data/catalog.json').read_text())
     manifest = json.loads((ROOT/'assets/manifest.json').read_text())
@@ -34,6 +36,11 @@ def build():
             index.append(f'| {r["id"]} | [{r["title"]["en"]}]({pack["slug"]}.md#{r["id"].lower()}) | {r["title"].get("zh", "English workflow")} | {r["mode"]} | {r["ratio"]} |')
             lines += ['', f'<a id="{r["id"].lower()}"></a>', f'## {r["id"]} · {r["title"]["en"]}{translated_title}', '',
                       f'**Mode:** {r["mode"]} · **Target:** {r["ratio"]} · **Author:** {r.get("author", "FLAQ team (original); Flyne AI edition")}', '']
+            refs={'P015':2,'P023':2,'P058':3,'P082':2,'P085':2}.get(r['id'], 1 if r['mode']=='edit' else 0)
+            caution = 'Multiple references exceed the free entry limit / 多图输入超出免费入口限制。' if refs>1 else 'Check prompt length and output requirements / 核对提示词长度与输出要求。'
+            if r['id']=='P077': caution += ' Full English prompt exceeds 2,000 characters / 完整英文提示词超过 2,000 字符。'
+            if r['id'] in ['P024','P083']: caution += ' Transparent output needs verification / 透明输出需要另行核实。'
+            lines += [f'**Flyne input guide / 输入说明:** {refs} reference image(s) / 张参考图。{caution} [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。', '']
             if languages == ['en']:
                 lines += ['**Language:** English. Expanded adaptation; see the result status and source information below.', '']
             if r.get('usage'):
@@ -56,7 +63,7 @@ def build():
                         lines += ['**Example inputs, in order / 示例输入顺序：**', '']
                         for n, source_path in enumerate(a['input_images'], 1):
                             lines += [f'[Input {n} / 输入 {n}](../{source_path})', '']
-                    lines += [f'![{a["alt"]}](../{a["path"]})', '', f'[{a["label"]}: exact prompt / 实际提示词](../{a["prompt_path"]})', '', f'**Observed review:** {a["review"]}', '']
+                    lines += [f'[![{a["alt"]}](../{preview(a["path"])})](../{a["path"]})', '', f'[{a["label"]}: exact prompt / 实际提示词](../{a["prompt_path"]})', '', f'**Observed review:** {a["review"]}', '']
             else:
                 lines += ['**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。', '']
             if r.get('adjustments'):
@@ -97,7 +104,7 @@ def build():
         if r.get('revision'):
             localized += ['### Next edit / 后续修改', '', 'Run this only after reviewing the first result / 首次结果审查后再单独执行。', '', '```text', r['revision'], '```', '']
         for a in examples.get(r['id'],[]):
-            localized += [f'![{a["alt"]}](../{a["path"]})','',f'[Exact generation prompt / 实际生成提示词](../{a["prompt_path"]})','',f'**Observed review:** {a["review"]}','']
+            localized += [f'[![{a["alt"]}](../{preview(a["path"])})](../{a["path"]})','',f'[Exact generation prompt / 实际生成提示词](../{a["prompt_path"]})','',f'**Observed review:** {a["review"]}','']
     (ROOT/'prompts/11-multilingual.md').write_text('\n'.join(line.rstrip() for line in localized).rstrip()+'\n')
     (ROOT/'prompts/README.md').write_text('\n'.join(line.rstrip() for line in index).rstrip()+'\n')
     (ROOT/'data/prompts.json').write_text(json.dumps({'core':full,'localized':locales},ensure_ascii=False,indent=2)+'\n')

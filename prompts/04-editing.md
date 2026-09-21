@@ -20,6 +20,8 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Controlled revisions to an already selected image.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -32,7 +34,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 [Input 1 / 输入 1](../assets/images/tideline-lamp.png)
 
-![Jade-green lamp base with original campaign typography](../assets/images/tideline-lamp-jade.png)
+[![Jade-green lamp base with original campaign typography](../assets/previews/tideline-lamp-jade.jpg)](../assets/images/tideline-lamp-jade.png)
 
 [Edit 1: base color: exact prompt / 实际提示词](../assets/generation/tideline-lamp-jade.txt)
 
@@ -42,7 +44,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 [Input 1 / 输入 1](../assets/images/tideline-lamp-jade.png)
 
-![Jade-green lamp with YOUR EVENING, UPGRADED headline](../assets/images/tideline-lamp-copy.png)
+[![Jade-green lamp with YOUR EVENING, UPGRADED headline](../assets/previews/tideline-lamp-copy.jpg)](../assets/images/tideline-lamp-copy.png)
 
 [Edit 2: headline: exact prompt / 实际提示词](../assets/generation/tideline-lamp-copy.txt)
 
@@ -86,6 +88,8 @@ On this approved green version, change only "LIGHT, UNPLUGGED." to "YOUR EVENING
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Controlled revisions to an already selected image.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -98,7 +102,7 @@ On this approved green version, change only "LIGHT, UNPLUGGED." to "YOUR EVENING
 
 [Input 1 / 输入 1](../assets/images/room-input.png)
 
-![Remove a tabletop distraction — original generated example](../assets/images/example-p020.png)
+[![Remove a tabletop distraction — original generated example](../assets/previews/example-p020.jpg)](../assets/images/example-p020.png)
 
 [Remove a tabletop distraction — generated example: exact prompt / 实际提示词](../assets/generation/example-p020.txt)
 
@@ -142,6 +146,8 @@ Correct only any remaining bottle-shaped reflection, keeping the repaired wood g
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Controlled revisions to an already selected image.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -154,7 +160,7 @@ Correct only any remaining bottle-shaped reflection, keeping the repaired wood g
 
 [Input 1 / 输入 1](../assets/images/room-input.png)
 
-![Window-light evening relight — original generated example](../assets/images/example-p021.png)
+[![Window-light evening relight — original generated example](../assets/previews/example-p021.jpg)](../assets/images/example-p021.png)
 
 [Window-light evening relight — generated example: exact prompt / 实际提示词](../assets/generation/example-p021.txt)
 
@@ -198,6 +204,8 @@ Lower only the lamp brightness slightly while preserving the cooler window light
 
 **Mode:** edit · **Target:** 2:3 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Controlled revisions to an already selected image.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -210,7 +218,7 @@ Lower only the lamp brightness slightly while preserving the cooler window light
 
 [Input 1 / 输入 1](../assets/images/example-p007.png)
 
-![Poster text replacement — original generated example](../assets/images/example-p022.png)
+[![Poster text replacement — original generated example](../assets/previews/example-p022.jpg)](../assets/images/example-p022.png)
 
 [Poster text replacement — generated example: exact prompt / 实际提示词](../assets/generation/example-p022.txt)
 
@@ -254,6 +262,8 @@ Fix only a misspelled headline character; repeat the exact approved headline.
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 2 reference image(s) / 张参考图。Multiple references exceed the free entry limit / 多图输入超出免费入口限制。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Controlled revisions to an already selected image.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -268,7 +278,7 @@ Fix only a misspelled headline character; repeat the exact approved headline.
 
 [Input 2 / 输入 2](../assets/images/planter-sketch.png)
 
-![Sketch-guided planter placement — original generated example](../assets/images/example-p023.png)
+[![Sketch-guided planter placement — original generated example](../assets/previews/example-p023.jpg)](../assets/images/example-p023.png)
 
 [Sketch-guided planter placement — generated example: exact prompt / 实际提示词](../assets/generation/example-p023.txt)
 
@@ -312,6 +322,8 @@ Shorten only the planter width by 10%, keeping its left edge anchored.
 
 **Mode:** edit · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 Transparent output needs verification / 透明输出需要另行核实。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Controlled revisions to an already selected image.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -324,7 +336,7 @@ Shorten only the planter width by 10%, keeping its left edge anchored.
 
 [Input 1 / 输入 1](../assets/images/cup-input.png)
 
-![Clean product cutout — original generated example](../assets/images/example-p024.png)
+[![Clean product cutout — original generated example](../assets/previews/example-p024.jpg)](../assets/images/example-p024.png)
 
 [Clean product cutout — generated example: exact prompt / 实际提示词](../assets/generation/example-p024.txt)
 

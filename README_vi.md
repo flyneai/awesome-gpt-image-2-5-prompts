@@ -1,12 +1,19 @@
 # Prompt cho ChatGPT Images 2.5 — Flyne AI
 
+<!-- BEGIN FLYNE ENTRY -->
+**[Dùng GPT Image 2.5 miễn phí · Không cần đăng ký](https://flyne.ai/free-gpt-image-2-5/)**
+
+Một ảnh tham chiếu; tối đa 2.000 ký tự. Kiểm tra yêu cầu của từng công thức. [→](docs/flyne-access.md)
+
+106 công thức, 16 nhóm và 142 ảnh PNG gốc, gồm các ví dụ kế thừa từ FLAQ. Có 76 công thức Anh/Trung, 18 chỉ bằng tiếng Anh và 12 dành riêng cho từng ngôn ngữ. Trang này là phần giới thiệu.
+<!-- END FLYNE ENTRY -->
+
 Phiên bản mã nguồn mở do Flyne AI duy trì, được phát triển từ thư viện FLAQ. Thông tin tác giả và nhật ký tạo ảnh gốc được giữ nguyên. [FLAQ → Flyne](docs/upstream.md)
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · **Tiếng Việt**
 
-![Flyne AI — ChatGPT Images 2.5](assets/images/cover.png)
+![Flyne AI — ChatGPT Images 2.5](assets/previews/cover.jpg)
 
-Thư viện có 106 công thức trong 16 nhóm và 142 ảnh mới: 76 công thức đầy đủ bằng tiếng Anh và tiếng Trung giản thể, cùng 12 công thức riêng theo ngôn ngữ. README có 16 phiên bản ngôn ngữ và khu vực. Trang này là phần giới thiệu bằng tiếng Việt, không phải bản dịch toàn bộ thư viện. Ngoài ra còn có 18 công thức quy trình mới chỉ bằng tiếng Anh.
 
 
 **[Thư viện ảnh cho 106 công thức](docs/gallery.md)**

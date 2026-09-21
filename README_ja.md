@@ -1,12 +1,19 @@
 # ChatGPT Images 2.5 オリジナルプロンプト集 — Flyne AI
 
+<!-- BEGIN FLYNE ENTRY -->
+**[GPT Image 2.5 を無料で使う · 登録不要](https://flyne.ai/free-gpt-image-2-5/)**
+
+参照画像は1枚、プロンプトは2,000文字まで。各レシピの入力条件を確認してください。 [→](docs/flyne-access.md)
+
+106 レシピ、16 分類、142 枚の元画像。FLAQから引き継いだ画像を含みます。英中対応 76 件、英語のみ 18 件、言語別 12 件。本ページは入門ガイドです。
+<!-- END FLYNE ENTRY -->
+
 Flyne AI が維持するオープンソース版です。FLAQ のライブラリを基に、元のクレジットと生成記録を保持しています。 [FLAQ → Flyne](docs/upstream.md)
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · **日本語** · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI — ChatGPT Images 2.5](assets/images/cover.png)
+![Flyne AI — ChatGPT Images 2.5](assets/previews/cover.jpg)
 
-全106レシピ：英語・簡体字中国語の完全なプロンプト76件と、12言語の専用レシピ。新規生成画像は142枚です。このページは日本語の入口であり、全レシピの日本語訳ではありません。 さらに、英語のみの新しいワークフローレシピ18件を含みます。
 
 
 **[全106レシピの画像ギャラリー](docs/gallery.md)**

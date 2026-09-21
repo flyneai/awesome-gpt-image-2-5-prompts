@@ -20,6 +20,8 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Interior, retail and landscape concept presentations.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -28,7 +30,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Reading room with terracotta bench, birch table, steel windows and bookshelves](../assets/images/reading-room.png)
+[![Reading room with terracotta bench, birch table, steel windows and bookshelves](../assets/previews/reading-room.jpg)](../assets/images/reading-room.png)
 
 [Reading-room concept: exact prompt / 实际提示词](../assets/generation/reading-room.txt)
 
@@ -72,6 +74,8 @@ Change only bench upholstery to deep teal; keep architecture and furniture place
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Interior, retail and landscape concept presentations.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -84,7 +88,7 @@ Change only bench upholstery to deep teal; keep architecture and furniture place
 
 [Input 1 / 输入 1](../assets/images/room-input.png)
 
-![Small apartment material refresh — original generated example](../assets/images/example-p044.png)
+[![Small apartment material refresh — original generated example](../assets/previews/example-p044.jpg)](../assets/images/example-p044.png)
 
 [Small apartment material refresh — generated example: exact prompt / 实际提示词](../assets/generation/example-p044.txt)
 
@@ -128,6 +132,8 @@ Darken only the oak veneer slightly while keeping its grain direction.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Interior, retail and landscape concept presentations.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -136,7 +142,7 @@ Darken only the oak veneer slightly while keeping its grain direction.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Boutique guest-room styling — original generated example](../assets/images/example-p045.png)
+[![Boutique guest-room styling — original generated example](../assets/previews/example-p045.jpg)](../assets/images/example-p045.png)
 
 [Boutique guest-room styling — generated example: exact prompt / 实际提示词](../assets/generation/example-p045.txt)
 
@@ -180,6 +186,8 @@ Change only cushion fabric to moss-green wool.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Interior, retail and landscape concept presentations.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -188,7 +196,7 @@ Change only cushion fabric to moss-green wool.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Pop-up refill store — original generated example](../assets/images/example-p046.png)
+[![Pop-up refill store — original generated example](../assets/previews/example-p046.jpg)](../assets/images/example-p046.png)
 
 [Pop-up refill store — generated example: exact prompt / 实际提示词](../assets/generation/example-p046.txt)
 
@@ -232,6 +240,8 @@ Change only the fabric canopy to muted apricot.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Interior, retail and landscape concept presentations.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -240,7 +250,7 @@ Change only the fabric canopy to muted apricot.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Courtyard planting concept — original generated example](../assets/images/example-p047.png)
+[![Courtyard planting concept — original generated example](../assets/previews/example-p047.jpg)](../assets/images/example-p047.png)
 
 [Courtyard planting concept — generated example: exact prompt / 实际提示词](../assets/generation/example-p047.txt)
 
@@ -284,6 +294,8 @@ Widen only the path slightly without moving tree or bench.
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Interior, retail and landscape concept presentations.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -296,7 +308,7 @@ Widen only the path slightly without moving tree or bench.
 
 [Input 1 / 输入 1](../assets/images/pavilion-sketch.png)
 
-![Sketch to small pavilion — original generated example](../assets/images/example-p048.png)
+[![Sketch to small pavilion — original generated example](../assets/previews/example-p048.jpg)](../assets/images/example-p048.png)
 
 [Sketch to small pavilion — generated example: exact prompt / 实际提示词](../assets/generation/example-p048.txt)
 

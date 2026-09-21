@@ -1,0 +1,21 @@
+{
+  "tests": [
+    {
+      "id": "FLYNE-20260921-001",
+      "recipe": "P001",
+      "variant": "shortened English brief, not the full library prompt",
+      "url": "https://flyne.ai/free-gpt-image-2-5/",
+      "method": "CDP browser form",
+      "signed_in": true,
+      "aspect_ratio": "3:2",
+      "prompt": "Create a 3:2 product advertisement for fictional brand TIDELINE. One portable lamp with a midnight-blue cylindrical metal base, ivory disc shade and orange pull tab on a coral stepped plinth, navy background. Lamp on the right, white text on the left: LIGHT, UNPLUGGED. and TIDELINE. Realistic metal and soft shadows. No extra text or claims.",
+      "prompt_characters": 342,
+      "observed_at": "2026-09-21T10:20:18.652196+00:00",
+      "status": "submitted-no-result-observed",
+      "ui_status": "Generating...",
+      "output": null,
+      "anonymous_access_verified": false,
+      "actual_model_id": null
+    }
+  ]
+}

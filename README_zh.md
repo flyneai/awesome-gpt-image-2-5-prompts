@@ -1,10 +1,18 @@
 # Awesome GPT Image 2.5 Prompts — Flyne AI 提示词库
 
+<!-- BEGIN FLYNE ENTRY -->
+**[免费使用 GPT Image 2.5 · 无需注册](https://flyne.ai/free-gpt-image-2-5/)**
+
+最多一张参考图、2,000 字符；使用前请核对配方输入要求。 [→](docs/flyne-access.md)
+
+106 条配方 · 16 个场景包 · 142 张原始 PNG。含 76 条中英双语、18 条英文、12 条语言专用配方。图片包含继承的 FLAQ 示例，来源见生成记录。
+<!-- END FLYNE ENTRY -->
+
 **面向电商产品图、精准修图、人物宠物、广告海报、故事分镜与多语言设计的实用提示词。由 [Flyne AI](https://flyne.ai) 团队维护，基于公司 FLAQ 开源库改编，保留原始署名与生成记录。**
 
 [English](README.md) · **简体中文** · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI GPT Image 2.5 提示词库封面](assets/images/cover.png)
+![Flyne AI GPT Image 2.5 提示词库封面](assets/previews/cover.jpg)
 
 [直接选提示词](prompts/README.md) · [查看修图案例](docs/editing-case-study.md) · [提示词写法](docs/prompting-guide.md) · [API 使用](docs/api-guide.md) · [图片生成记录](docs/generation-log.md)
 
@@ -14,21 +22,21 @@
 
 [查看新增配方](prompts/16-flyne-x-discoveries.md) · [查看演示视频](docs/x-videos.md)
 
-## 新增：官方发布场景原创实践
+## 原库案例：官方发布场景原创实践
 
-参照 [OpenAI 发布文章](https://openai.com/index/introducing-chatgpt-images-2-5/) 的实用场景，新增7条中英双语配方、14张原创图片：宠物披风、虚构儿童换装、被套花色、纪念卡文字、立方体旋转、行程单栏修改与蜡烛计数。每组附输入图、编辑图、实际提示词和检查结果；立方体存在几何偏差，已如实标明。
+参照 [OpenAI 发布文章](https://openai.com/index/introducing-chatgpt-images-2-5/) 的实用场景，收录原库7条中英双语配方、14张原创图片：宠物披风、虚构儿童换装、被套花色、纪念卡文字、立方体旋转、行程单栏修改与蜡烛计数。每组附输入图、编辑图、实际提示词和检查结果；立方体存在几何偏差，已如实标明。
 
 [查看7组前后对照](docs/launch-examples.md) · [复制P061–P067提示词](prompts/12-launch-examples.md)
 
-## 新增：中文文章转化的英文工作流
+## 原库案例：中文文章转化的英文工作流
 
-根据文章提取并扩展P074–P085共12条英文配方，覆盖草图、复杂英文排版、局部修图、连续编辑、品牌周边和分镜。配方、图内文案与使用指南均以英文编写，使用新虚构品牌和故事；现已全部配有新生成示例，编辑类同时提供输入图和实际效果说明。
+根据文章提取并扩展P074–P085共12条英文配方，覆盖草图、复杂英文排版、局部修图、连续编辑、品牌周边和分镜。配方、图内文案与使用指南均以英文编写，使用新虚构品牌和故事；全部保留原库生成示例，编辑类同时提供输入图和实际效果说明。
 
 [复制12条英文提示词](prompts/14-sketch-to-story.md) · [查看来源与场景对应](docs/sketch-to-story.md)
 
-## 新增：可微调创作配方
+## 原库案例：可微调创作配方
 
-新增P068–P073共6条中英双语提示词，每条有3组可调整项与保留条件，覆盖工坊纪实照、手冲流程、玩具包装、灯塔微缩、纪念贺卡和陶艺拼贴。附7张新图，包括一次真实屋顶换色编辑。
+收录原库P068–P073共6条中英双语提示词，每条有3组可调整项与保留条件，覆盖工坊纪实照、手冲流程、玩具包装、灯塔微缩、纪念贺卡和陶艺拼贴。附原库7张配图，包括一次真实屋顶换色编辑。
 
 [复制可微调提示词](prompts/13-customizable-studio.md) · [查看微调示例与来源说明](docs/customizable-studio.md)
 
@@ -74,33 +82,37 @@ README现提供 **16个语言／地区版本**，默认英文。各语言入口�
 
 ## 按实际工作选场景
 
-| 场景包 | 包含内容 | 数量 |
-| --- | --- | --- |
-| [产品摄影与电商](prompts/01-product.md) | 台灯广告、陶瓷杯白底图、护肤静物、磨豆机结构、运动鞋特写、礼盒 | 6 |
-| [广告与社交媒体](prompts/02-social.md) | 活动海报、视频封面、旅行轮播、午餐广告、播客封面、市集主视觉 | 6 |
-| [人物、时尚与宠物](prompts/03-people-pets.md) | 职业头像、宠物探险照、外套试穿、生活抓拍、双人插画、宠物水彩 | 6 |
-| [精准编辑](prompts/04-editing.md) | 局部换色、去杂物、光照调整、定点换字、草图添加物件、透明抠图 | 6 |
-| [信息图与教育](prompts/05-information.md) | 雨水花园、风味图、示例数据图、街区地图、植物生长、流程演示 | 6 |
-| [品牌与界面](prompts/06-brand-ui.md) | 字标、导视、移动应用、落地页、包装系列、创作者看板 | 6 |
-| [故事与游戏](prompts/07-stories-games.md) | 六格故事、角色转面、表情表、物品图标、等距屋顶、像素海港 | 6 |
-| [建筑与空间](prompts/08-spaces.md) | 阅读室、公寓翻新、精品客房、快闪店、庭院、小亭效果图 | 6 |
-| [出版与插画](prompts/09-publishing.md) | 书封、食谱跨页、年度回顾、编辑隐喻、水墨画、独立刊物 | 6 |
-| [系列与制作交付](prompts/10-production.md) | 四季系列、横转竖、本地化、三图合成、老照修复、分镜扩展 | 6 |
-| [12种语言配方](prompts/11-multilingual.md) | 中、英、日、韩、西、法、德、葡、阿拉伯、印地、泰、俄语 | 12 |
-| [官方发布场景原创实践](prompts/12-launch-examples.md) | 宠物换装、儿童肖像、被套花色、城市文字、立方体、行程卡、蜡烛计数 | 7 |
-| [可微调创作配方](prompts/13-customizable-studio.md) | 工坊人像、咖啡流程、收藏包装、灯塔微缩、纪念贺卡、陶艺拼贴 | 6 |
-| [从草图到故事：英文工作流](prompts/14-sketch-to-story.md) | 草图、密集排版、人像编辑、品牌周边、动作表、MV及剧情分镜 | 12 |
+<!-- BEGIN PACK TABLE -->
+| 场景包 | 数量 |
+| --- | --- |
+| [产品摄影与电商](prompts/01-product.md) | 6 |
+| [广告、社媒与创作者封面](prompts/02-social.md) | 6 |
+| [人像、时尚与宠物](prompts/03-people-pets.md) | 6 |
+| [精准修改与多轮工作流](prompts/04-editing.md) | 6 |
+| [信息图、教育与演示](prompts/05-information.md) | 6 |
+| [品牌识别与界面概念](prompts/06-brand-ui.md) | 6 |
+| [漫画、角色与游戏美术](prompts/07-stories-games.md) | 6 |
+| [建筑、室内与酒店空间](prompts/08-spaces.md) | 6 |
+| [出版、印刷与编辑插画](prompts/09-publishing.md) | 6 |
+| [系列、本地化与制作交付](prompts/10-production.md) | 6 |
+| [多语言配方](prompts/11-multilingual.md) | 12 |
+| [官方发布场景原创实践](prompts/12-launch-examples.md) | 7 |
+| [可微调创作配方](prompts/13-customizable-studio.md) | 6 |
+| [从草图到故事：英文工作流配方](prompts/14-sketch-to-story.md) | 12 |
+| [X 社区实用场景](prompts/15-x-community.md) | 6 |
+| [Flyne：新增 X 灵感图像配方](prompts/16-flyne-x-discoveries.md) | 3 |
+<!-- END PACK TABLE -->
 
 ## 收录的图像示例
 
 | 商品广告 | 日英双语烘焙海报 |
 | --- | --- |
-| ![台灯产品广告：深蓝金属与珊瑚展台](assets/images/tideline-lamp.png) | ![日英双语面包店海报：焼きたての朝](assets/images/komorebi-bakery.png) |
+| ![台灯产品广告：深蓝金属与珊瑚展台](assets/previews/tideline-lamp.jpg) | ![日英双语面包店海报：焼きたての朝](assets/previews/komorebi-bakery.jpg) |
 | [P001 提示词](prompts/01-product.md#p001) | [L003 提示词](prompts/11-multilingual.md#l003) |
 
 | 修补纸月亮故事 | 社区阅读室 |
 | --- | --- |
-| ![机器人修补纸月亮六格分镜](assets/images/paper-moon-story.png) | ![旧工坊改造社区阅读室概念图](assets/images/reading-room.png) |
+| ![机器人修补纸月亮六格分镜](assets/previews/paper-moon-story.jpg) | ![旧工坊改造社区阅读室概念图](assets/previews/reading-room.jpg) |
 | [P037 提示词](prompts/07-stories-games.md#p037) | [P043 提示词](prompts/08-spaces.md#p043) |
 
 示例来自 Codex 内置生图工具，工具未返回底层模型ID，因此**不作为 Flare / Sunburst 的指定型号实测或横向评测**。六格故事第三格提前出现缝线；阅读室增加了杯子和花瓶。这些可见偏差均在[生成记录](docs/generation-log.md)中说明。
@@ -109,7 +121,7 @@ README现提供 **16个语言／地区版本**，默认英文。各语言入口�
 
 | 原稿 | 第一轮：底座换绿 | 第二轮：只换标题 |
 | --- | --- | --- |
-| ![原始蓝色台灯](assets/images/tideline-lamp.png) | ![保留标题的绿色台灯](assets/images/tideline-lamp-jade.png) | ![保留绿色并更换标题](assets/images/tideline-lamp-copy.png) |
+| ![原始蓝色台灯](assets/previews/tideline-lamp.jpg) | ![保留标题的绿色台灯](assets/previews/tideline-lamp-jade.jpg) | ![保留绿色并更换标题](assets/previews/tideline-lamp-copy.jpg) |
 
 第二轮以第一轮绿色成图为输入，能直观看到确认稿如何继续修改。细微表面纹理仍有变化，灯杆也随底座变绿，不能理解为像素级不变。[查看完整过程与验收方法](docs/editing-case-study.md)。
 

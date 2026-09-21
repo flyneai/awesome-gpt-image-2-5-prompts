@@ -25,6 +25,10 @@ def anchors(path):
     return found
 
 def main():
+    from build_usability import outputs, check_assets
+    check_assets()
+    for path, content in outputs().items():
+        require((ROOT/path).read_text()==content, f'Stale generated content: {path}')
     catalog=read_json('data/catalog.json')
     locales=read_json('data/locales.json')
     exported=read_json('data/prompts.json')
@@ -32,15 +36,15 @@ def main():
     recipes=[r for p in catalog['packs'] for r in p['recipes']]
     ids=[r['id'] for r in recipes+locales]
     require(len(ids)==len(set(ids)), 'Duplicate recipe IDs')
-    require(len(recipes)==94 and len(locales)==12, 'Update documented recipe totals for this release')
-    require(sum(r.get('languages')==['en'] for r in recipes)==18, 'Expected 18 English-only workflow recipes')
-    require(len(catalog['packs'])==15, 'Expected 15 core packs')
-    require(len({r['language'] for r in locales})==12, 'Expected 12 language briefs')
+    require(bool(recipes) and bool(locales), 'Empty recipe collection')
+    require(bool(catalog['packs']), 'Missing packs')
+    require(len({p['slug'] for p in catalog['packs']})==len(catalog['packs']), 'Duplicate pack slug')
+    require(len({r['language'] for r in locales})==len(locales), 'Duplicate locale recipe language')
     require(len(exported['core'])==len(recipes), 'Exported core count mismatch')
     require(exported['localized']==locales, 'Stale localized export: rebuild catalog')
     byid={r['id']:r for r in exported['core']}
     sources=read_json('data/x-sources.json')['sources']
-    require(len(sources)==9, 'Expected nine X source records')
+    require(len({s['id'] for s in sources})==len(sources), 'Duplicate X source ID')
     source_recipes={r['id']:r for r in recipes if r.get('source_reference')}
     require(set(source_recipes)=={s['id'] for s in sources}, 'X source-to-recipe mismatch')
     for source in sources:
@@ -50,7 +54,7 @@ def main():
         require(urlsplit(source['image_url']).netloc=='pbs.twimg.com', 'Unexpected source image host')
         require(source['image_role']=='external-source-preview' and bool(source['rights']), 'Missing external image disclosure')
     videos=read_json('data/x-videos.json')['videos']
-    require(len(videos)==3, 'Expected three source-linked video records')
+    require(bool(videos), 'Missing video sources')
     require(len({v['url'] for v in videos})==len(videos), 'Duplicate video sources')
     for v in videos:
         require(re.fullmatch(r'https://x\.com/[A-Za-z0-9_]+/status/\d+',v['url']) is not None, 'Invalid video source URL')
@@ -72,7 +76,7 @@ def main():
             require(exported_r.get(field)==r[field],f'{r["id"]}: stale exported {field}')
         for lang in languages:
             require(r['brief'][lang] in exported_r.get('prompt',{}).get(lang,''),f'{r["id"]}: missing full prompt')
-    require(len(manifest)==142,'Expected 142 recorded images')
+    require(bool(manifest),'Missing original asset manifest')
     covered={a['recipe_id'] for a in manifest if a.get('role') not in ('input','draft')}
     require(set(ids).issubset(covered), 'Every recipe must have a generated result')
     require({a['path'] for a in manifest}=={str(p.relative_to(ROOT)) for p in (ROOT/'assets/images').glob('*.png')}, 'Unrecorded or missing PNG files')
@@ -111,7 +115,7 @@ def main():
                 require(unquote(parsed.fragment) in anchors(dest),f'Broken anchor in {path.relative_to(ROOT)}: {target}')
     if errors:
         raise SystemExit('\n'.join(errors))
-    print(f'PASS: {len(ids)} recipes, 12 languages, {len(manifest)} PNGs, {len(files)} Markdown files, {link_count} local links.')
+    print(f'PASS: {len(ids)} recipes, {len(locales)} languages, {len(manifest)} PNGs, {len(files)} Markdown files, {link_count} local links.')
 
 if __name__=='__main__':
     main()

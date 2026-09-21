@@ -23,7 +23,7 @@ Run this only after reviewing the first result / 首次结果审查后再单独�
 Follow-up: change only the bottom line to "START WITH ONE REPAIR"; preserve the illustration, color palette and headline.
 ```
 
-![English · Repair workshop flyer — original generated example](../assets/images/example-l001.png)
+[![English · Repair workshop flyer — original generated example](../assets/previews/example-l001.jpg)](../assets/images/example-l001.png)
 
 [Exact generation prompt / 实际生成提示词](../assets/generation/example-l001.txt)
 
@@ -46,7 +46,7 @@ Run this only after reviewing the first result / 首次结果审查后再单独�
 后续只把椅子布面改为铁锈色，文字、橄榄枝和光线保持不变。
 ```
 
-![简体中文 · 城市慢生活海报 — original generated example](../assets/images/example-l002.png)
+[![简体中文 · 城市慢生活海报 — original generated example](../assets/previews/example-l002.jpg)](../assets/images/example-l002.png)
 
 [Exact generation prompt / 实际生成提示词](../assets/generation/example-l002.txt)
 
@@ -69,7 +69,7 @@ Run this only after reviewing the first result / 首次结果审查后再单独�
 修正では皿の色だけを深緑に変更し、パンと文字は維持してください。
 ```
 
-![Japanese bakery poster with 焼きたての朝 above a croissant on a cobalt plate](../assets/images/komorebi-bakery.png)
+[![Japanese bakery poster with 焼きたての朝 above a croissant on a cobalt plate](../assets/previews/komorebi-bakery.jpg)](../assets/images/komorebi-bakery.png)
 
 [Exact generation prompt / 实际生成提示词](../assets/generation/komorebi-bakery.txt)
 
@@ -92,7 +92,7 @@ Run this only after reviewing the first result / 首次结果审查后再单独�
 다음 수정에서는 머그잔 색상만 올리브색으로 바꾸고 책과 글자는 유지하세요.
 ```
 
-![한국어 · 독립 서점 포스터 — original generated example](../assets/images/example-l004.png)
+[![한국어 · 독립 서점 포스터 — original generated example](../assets/previews/example-l004.jpg)](../assets/images/example-l004.png)
 
 [Exact generation prompt / 实际生成提示词](../assets/generation/example-l004.txt)
 
@@ -115,7 +115,7 @@ Run this only after reviewing the first result / 首次结果审查后再单独�
 En la siguiente edición, cambia únicamente el color de la taza a verde oliva y mantén el texto, las sombras y la composición.
 ```
 
-![Español · Cartel de café — original generated example](../assets/images/example-l005.png)
+[![Español · Cartel de café — original generated example](../assets/previews/example-l005.jpg)](../assets/images/example-l005.png)
 
 [Exact generation prompt / 实际生成提示词](../assets/generation/example-l005.txt)
 
@@ -138,7 +138,7 @@ Run this only after reviewing the first result / 首次结果审查后再单独�
 Pour la retouche, change seulement le sac bleu en terre cuite, en préservant tout le texte.
 ```
 
-![Français · Affiche de marché — original generated example](../assets/images/example-l006.png)
+[![Français · Affiche de marché — original generated example](../assets/previews/example-l006.jpg)](../assets/images/example-l006.png)
 
 [Exact generation prompt / 实际生成提示词](../assets/generation/example-l006.txt)
 
@@ -161,7 +161,7 @@ Run this only after reviewing the first result / 首次结果审查后再单独�
 Ändere anschließend nur die Garnfarbe zu Salbeigrün; behalte Schrift und Anordnung bei.
 ```
 
-![Deutsch · Werkstattplakat — original generated example](../assets/images/example-l007.png)
+[![Deutsch · Werkstattplakat — original generated example](../assets/previews/example-l007.jpg)](../assets/images/example-l007.png)
 
 [Exact generation prompt / 实际生成提示词](../assets/generation/example-l007.txt)
 
@@ -184,7 +184,7 @@ Run this only after reviewing the first result / 首次结果审查后再单独�
 Na revisão, altere apenas o pano para verde-oliva; mantenha o pão, a iluminação e todas as palavras.
 ```
 
-![Português · Cartaz de padaria — original generated example](../assets/images/example-l008.png)
+[![Português · Cartaz de padaria — original generated example](../assets/previews/example-l008.jpg)](../assets/images/example-l008.png)
 
 [Exact generation prompt / 实际生成提示词](../assets/generation/example-l008.txt)
 
@@ -207,7 +207,7 @@ Run this only after reviewing the first result / 首次结果审查后再单独�
 في التعديل التالي غيّر لون الفنجان فقط إلى الأخضر الزيتي، مع الحفاظ على النص والضوء وتكوين الصورة.
 ```
 
-![العربية · ملصق مقهى — original generated example](../assets/images/example-l009.png)
+[![العربية · ملصق مقهى — original generated example](../assets/previews/example-l009.jpg)](../assets/images/example-l009.png)
 
 [Exact generation prompt / 实际生成提示词](../assets/generation/example-l009.txt)
 
@@ -230,7 +230,7 @@ Run this only after reviewing the first result / 首次结果审查后再单独�
 अगले संपादन में केवल कप को मिट्टी के लाल रंग में बदलें; पाठ और प्रकाश यथावत रखें।
 ```
 
-![हिन्दी · पुस्तकालय पोस्टर — original generated example](../assets/images/example-l010-v2.png)
+[![हिन्दी · पुस्तकालय पोस्टर — original generated example](../assets/previews/example-l010-v2.jpg)](../assets/images/example-l010-v2.png)
 
 [Exact generation prompt / 实际生成提示词](../assets/generation/example-l010-v2.txt)
 
@@ -253,7 +253,7 @@ Run this only after reviewing the first result / 首次结果审查后再单独�
 ในการแก้ไขครั้งถัดไป เปลี่ยนเฉพาะสีถ้วยเป็นสีเขียวมะกอก โดยคงข้อความและแสงเดิมไว้
 ```
 
-![ไทย · โปสเตอร์ร้านชา — original generated example](../assets/images/example-l011.png)
+[![ไทย · โปสเตอร์ร้านชา — original generated example](../assets/previews/example-l011.jpg)](../assets/images/example-l011.png)
 
 [Exact generation prompt / 实际生成提示词](../assets/generation/example-l011.txt)
 
@@ -276,7 +276,7 @@ Run this only after reviewing the first result / 首次结果审查后再单独�
 В следующей правке измени только цвет нити на зелёный, сохранив текст и композицию.
 ```
 
-![Русский · Афиша мастерской — original generated example](../assets/images/example-l012.png)
+[![Русский · Афиша мастерской — original generated example](../assets/previews/example-l012.jpg)](../assets/images/example-l012.png)
 
 [Exact generation prompt / 实际生成提示词](../assets/generation/example-l012.txt)
 

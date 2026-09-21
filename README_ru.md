@@ -1,12 +1,19 @@
 # Промпты для ChatGPT Images 2.5 — Flyne AI
 
+<!-- BEGIN FLYNE ENTRY -->
+**[GPT Image 2.5 бесплатно · Без регистрации](https://flyne.ai/free-gpt-image-2-5/)**
+
+Одно референсное изображение; до 2 000 символов. Проверьте требования каждого рецепта. [→](docs/flyne-access.md)
+
+106 рецептов, 16 разделов и 142 исходных PNG, включая примеры из FLAQ. 76 рецептов на английском и китайском, 18 только на английском и 12 для отдельных языков. Эта страница — введение.
+<!-- END FLYNE ENTRY -->
+
 Открытая версия библиотеки FLAQ, которую поддерживает Flyne AI. Сохранены сведения об авторах и исходные записи генерации. [FLAQ → Flyne](docs/upstream.md)
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · **Русский** · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI — ChatGPT Images 2.5](assets/images/cover.png)
+![Flyne AI — ChatGPT Images 2.5](assets/previews/cover.jpg)
 
-В библиотеке 106 рецептов в 16 разделах и 142 новых изображений. 76 основных рецептов доступны на английском и упрощённом китайском; ещё 12 рецептов подготовлены для отдельных языков. README доступен в 16 языковых и региональных версиях. Эта страница — введение на русском, а не перевод всей библиотеки. Также добавлены 18 новых рецептов рабочих процессов только на английском языке.
 
 
 **[Галерея 106 рецептов с примерами](docs/gallery.md)**

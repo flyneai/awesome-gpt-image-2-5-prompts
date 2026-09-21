@@ -28,6 +28,8 @@ Scenario inspiration: [Chinese workflow article by 羊羊AI视频](https://mp.we
 
 **Mode:** edit · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Reference-led concept development, editorial design and storyboards.
@@ -42,7 +44,7 @@ Scenario inspiration: [Chinese workflow article by 羊羊AI视频](https://mp.we
 
 [Input 1 / 输入 1](../assets/images/curve-input.png)
 
-![One sketch, four concept directions — original generated example](../assets/images/example-p074.png)
+[![One sketch, four concept directions — original generated example](../assets/previews/example-p074.jpg)](../assets/images/example-p074.png)
 
 [One sketch, four concept directions — generated example: exact prompt / 实际提示词](../assets/generation/example-p074.txt)
 
@@ -77,6 +79,8 @@ Develop only the upper-left bench concept into one landscape image. Preserve the
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Reference-led concept development, editorial design and storyboards.
@@ -91,7 +95,7 @@ Develop only the upper-left bench concept into one landscape image. Preserve the
 
 [Input 1 / 输入 1](../assets/images/bedroom-plan.png)
 
-![Bedroom plan to interior concept — original generated example](../assets/images/example-p075.png)
+[![Bedroom plan to interior concept — original generated example](../assets/previews/example-p075.jpg)](../assets/images/example-p075.png)
 
 [Bedroom plan to interior concept — generated example: exact prompt / 实际提示词](../assets/generation/example-p075.txt)
 
@@ -126,6 +130,8 @@ Change only the wardrobe fronts from pale ash to matte ivory. Preserve all furni
 
 **Mode:** edit · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Reference-led concept development, editorial design and storyboards.
@@ -140,7 +146,7 @@ Change only the wardrobe fronts from pale ash to matte ivory. Preserve all furni
 
 [Input 1 / 输入 1](../assets/images/character-input.png)
 
-![Doodle character across four media — original generated example](../assets/images/example-p076.png)
+[![Doodle character across four media — original generated example](../assets/previews/example-p076.jpg)](../assets/images/example-p076.png)
 
 [Doodle character across four media — generated example: exact prompt / 实际提示词](../assets/generation/example-p076.txt)
 
@@ -175,6 +181,8 @@ Render only the ceramic interpretation as a single product photograph. Preserve 
 
 **Mode:** generate · **Target:** 3:4 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 Full English prompt exceeds 2,000 characters / 完整英文提示词超过 2,000 字符。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Reference-led concept development, editorial design and storyboards.
@@ -185,7 +193,7 @@ Render only the ceramic interpretation as a single product photograph. Preserve 
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![English tea collection editorial sheet — original generated example](../assets/images/example-p077.png)
+[![English tea collection editorial sheet — original generated example](../assets/previews/example-p077.jpg)](../assets/images/example-p077.png)
 
 [English tea collection editorial sheet — generated example: exact prompt / 实际提示词](../assets/generation/example-p077.txt)
 
@@ -234,6 +242,8 @@ Replace only the two-line title with “A LITTLE STILLNESS.” / “IN EVERY CUP
 
 **Mode:** edit · **Target:** 3:4 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Reference-led concept development, editorial design and storyboards.
@@ -248,7 +258,7 @@ Replace only the two-line title with “A LITTLE STILLNESS.” / “IN EVERY CUP
 
 [Input 1 / 输入 1](../assets/images/example-p077.png)
 
-![Headline replacement without layout drift — original generated example](../assets/images/example-p078.png)
+[![Headline replacement without layout drift — original generated example](../assets/previews/example-p078.jpg)](../assets/images/example-p078.png)
 
 [Headline replacement without layout drift — generated example: exact prompt / 实际提示词](../assets/generation/example-p078.txt)
 
@@ -283,6 +293,8 @@ After approval, change only the thin copper divider rules to forest green. Prese
 
 **Mode:** edit · **Target:** 2:3 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Reference-led concept development, editorial design and storyboards.
@@ -297,7 +309,7 @@ After approval, change only the thin copper divider rules to forest green. Prese
 
 [Input 1 / 输入 1](../assets/images/adult-input.png)
 
-![Four-region portrait correction brief — original generated example](../assets/images/example-p079.png)
+[![Four-region portrait correction brief — original generated example](../assets/previews/example-p079.jpg)](../assets/images/example-p079.png)
 
 [Four-region portrait correction brief — generated example: exact prompt / 实际提示词](../assets/generation/example-p079.txt)
 
@@ -332,6 +344,8 @@ Correct only any remaining earring fragments. Preserve hazel irises, cleared eye
 
 **Mode:** edit · **Target:** 2:3 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Reference-led concept development, editorial design and storyboards.
@@ -346,7 +360,7 @@ Correct only any remaining earring fragments. Preserve hazel irises, cleared eye
 
 [Input 1 / 输入 1](../assets/images/example-p079.png)
 
-![Portrait continuity through three revisions — original generated example](../assets/images/example-p080.png)
+[![Portrait continuity through three revisions — original generated example](../assets/previews/example-p080.jpg)](../assets/images/example-p080.png)
 
 [Portrait continuity through three revisions — generated example: exact prompt / 实际提示词](../assets/generation/example-p080.txt)
 
@@ -381,6 +395,8 @@ Revision 2, with approved revision 1 attached: change only the overall grading t
 
 **Mode:** edit · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Reference-led concept development, editorial design and storyboards.
@@ -395,7 +411,7 @@ Revision 2, with approved revision 1 attached: change only the overall grading t
 
 [Input 1 / 输入 1](../assets/images/logo-input.png)
 
-![Logo redesign with an explicit brand brief — original generated example](../assets/images/example-p081.png)
+[![Logo redesign with an explicit brand brief — original generated example](../assets/previews/example-p081.jpg)](../assets/images/example-p081.png)
 
 [Logo redesign with an explicit brand brief — generated example: exact prompt / 实际提示词](../assets/generation/example-p081.txt)
 
@@ -430,6 +446,8 @@ Separate the approved symbol and wordmark into a clean horizontal lockup. Preser
 
 **Mode:** edit · **Target:** 3:4 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 2 reference image(s) / 张参考图。Multiple references exceed the free entry limit / 多图输入超出免费入口限制。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Reference-led concept development, editorial design and storyboards.
@@ -446,7 +464,7 @@ Separate the approved symbol and wordmark into a clean horizontal lockup. Preser
 
 [Input 2 / 输入 2](../assets/images/example-p081.png)
 
-![Reference-led branded apparel presentation — original generated example](../assets/images/example-p082.png)
+[![Reference-led branded apparel presentation — original generated example](../assets/previews/example-p082.jpg)](../assets/images/example-p082.png)
 
 [Reference-led branded apparel presentation — generated example: exact prompt / 实际提示词](../assets/generation/example-p082.txt)
 
@@ -481,6 +499,8 @@ Change only the packaging box color from kraft to matte ivory. Preserve model, s
 
 **Mode:** edit · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 Transparent output needs verification / 透明输出需要另行核实。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Reference-led concept development, editorial design and storyboards.
@@ -495,7 +515,7 @@ Change only the packaging box color from kraft to matte ivory. Preserve model, s
 
 [Input 1 / 输入 1](../assets/images/character-input.png)
 
-![Sixteen-pose action reference sheet — original generated example](../assets/images/example-p083.png)
+[![Sixteen-pose action reference sheet — original generated example](../assets/previews/example-p083.jpg)](../assets/images/example-p083.png)
 
 [Sixteen-pose action reference sheet — generated example: exact prompt / 实际提示词](../assets/generation/example-p083.txt)
 
@@ -530,6 +550,8 @@ Regenerate only the left front-kick pose as one transparent image, matching the 
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Reference-led concept development, editorial design and storyboards.
@@ -544,7 +566,7 @@ Regenerate only the left front-kick pose as one transparent image, matching the 
 
 [Input 1 / 输入 1](../assets/images/singer-input.png)
 
-![Nine-shot music-video concept board — original generated example](../assets/images/example-p084.png)
+[![Nine-shot music-video concept board — original generated example](../assets/previews/example-p084.jpg)](../assets/images/example-p084.png)
 
 [Nine-shot music-video concept board — generated example: exact prompt / 实际提示词](../assets/generation/example-p084.txt)
 
@@ -579,6 +601,8 @@ Expand shot 4 into a standalone landscape keyframe. Preserve singer identity, wa
 
 **Mode:** edit · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 2 reference image(s) / 张参考图。Multiple references exceed the free entry limit / 多图输入超出免费入口限制。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Reference-led concept development, editorial design and storyboards.
@@ -595,7 +619,7 @@ Expand shot 4 into a standalone landscape keyframe. Preserve singer identity, wa
 
 [Input 2 / 输入 2](../assets/images/person-b-input.png)
 
-![Sixteen-shot two-character narrative board — original generated example](../assets/images/example-p085.png)
+[![Sixteen-shot two-character narrative board — original generated example](../assets/previews/example-p085.jpg)](../assets/images/example-p085.png)
 
 [Sixteen-shot two-character narrative board — generated example: exact prompt / 实际提示词](../assets/generation/example-p085.txt)
 

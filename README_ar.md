@@ -1,12 +1,19 @@
 # أوامر ChatGPT Images 2.5 — من فريق Flyne AI
 
+<!-- BEGIN FLYNE ENTRY -->
+**[جرّب GPT Image 2.5 مجاناً · دون تسجيل](https://flyne.ai/free-gpt-image-2-5/)**
+
+صورة مرجعية واحدة وحتى 2,000 حرف. راجع متطلبات كل وصفة. [→](docs/flyne-access.md)
+
+106 وصفة ضمن 16 مجموعة و142 صورة PNG أصلية، تشمل أمثلة موروثة من FLAQ. منها 76 بالإنجليزية والصينية، و18 بالإنجليزية فقط، و12 خاصة بلغات محددة. هذه الصفحة مقدمة.
+<!-- END FLYNE ENTRY -->
+
 نسخة مفتوحة المصدر تديرها Flyne AI، مقتبسة من مكتبة FLAQ مع الحفاظ على نسب الأعمال وسجلات التوليد الأصلية. [FLAQ → Flyne](docs/upstream.md)
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · **العربية** · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI — ChatGPT Images 2.5](assets/images/cover.png)
+![Flyne AI — ChatGPT Images 2.5](assets/previews/cover.jpg)
 
-تضم المكتبة 106 وصفة: 76 وصفة كاملة بالإنجليزية والصينية المبسطة، إضافة إلى 12 وصفة بلغات مختلفة. تتضمن 142 صورة مولّدة حديثاً. هذه الصفحة مدخل بالعربية وليست ترجمة كاملة للمكتبة. تتضمن المكتبة أيضاً 18 وصفة عمل جديدة باللغة الإنجليزية فقط.
 
 
 **[معرض الوصفات المصوّرة: 106 وصفات](docs/gallery.md)**

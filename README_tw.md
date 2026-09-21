@@ -1,12 +1,19 @@
 # ChatGPT Images 2.5 原創提示詞庫 — Flyne AI
 
+<!-- BEGIN FLYNE ENTRY -->
+**[免費使用 GPT Image 2.5 · 無需註冊](https://flyne.ai/free-gpt-image-2-5/)**
+
+最多一張參考圖、2,000 字元；使用前請核對配方的輸入要求。 [→](docs/flyne-access.md)
+
+106 條配方、16 個場景包、142 張原始 PNG；包含繼承的 FLAQ 圖片。76 條中英雙語、18 條英文、12 條語言專用配方。本頁為入門說明。
+<!-- END FLYNE ENTRY -->
+
 由 Flyne AI 團隊維護，基於 FLAQ 開源提示詞庫改編，保留原始署名與圖片生成記錄。 [FLAQ → Flyne](docs/upstream.md)
 
 [English](README.md) · [简体中文](README_zh.md) · **繁體中文** · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI — ChatGPT Images 2.5](assets/images/cover.png)
+![Flyne AI — ChatGPT Images 2.5](assets/previews/cover.jpg)
 
-全庫共有106條配方、16個場景包與142張新生成圖片：76條核心配方提供完整英文與簡體中文版本，另有12條語言專用配方。README提供16個語言／地區版本；本頁是繁體中文入門說明，不代表全庫提示詞均已翻譯。 另新增18條僅以英文提供的工作流配方。
 
 
 **[瀏覽全部106條圖文配方](docs/gallery.md)**

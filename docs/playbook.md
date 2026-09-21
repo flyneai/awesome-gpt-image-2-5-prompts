@@ -30,9 +30,9 @@
 
 **验收重点：** 标签、拉环、边缘、投影、产品比例。把“只改底座”具体到区域，不要让灯杆和背景也被重新解释。
 
-![商品母版示例](../assets/images/tideline-lamp.png)
+![商品母版示例](../assets/previews/tideline-lamp.jpg)
 
-![第二轮保留配色并替换标题](../assets/images/tideline-lamp-copy.png)
+![第二轮保留配色并替换标题](../assets/previews/tideline-lamp-copy.jpg)
 
 这两张是本库已有真实生成结果。[完整记录](editing-case-study.md)还展示了第一轮换色和局限。
 
@@ -44,7 +44,7 @@
 
 **验收重点：** 字符、品牌是否保留、文字框是否溢出、标点与阅读方向。允许文本框内重排，不允许擅自翻译品牌名或发明活动信息。
 
-![日英双语面包店海报示例](../assets/images/komorebi-bakery.png)
+![日英双语面包店海报示例](../assets/previews/komorebi-bakery.jpg)
 
 此图对应[L003](../prompts/11-multilingual.md#l003)，并不证明其他语言模板已实测。详见[语言审校表](localization-guide.md)。
 
@@ -66,7 +66,7 @@
 
 **验收重点：** 原窗角、门洞、地面接缝、家具尺度。看起来更宽敞可能是模型改变了空间；把原照和新图并排比较。无原照时可从[P043](../prompts/08-spaces.md#p043)做原创阅读室概念。
 
-![原创阅读室概念示例](../assets/images/reading-room.png)
+![原创阅读室概念示例](../assets/previews/reading-room.jpg)
 
 此图为原创生成，并非真实房间改造前后对照。建筑尺寸和可施工性未经验证。
 
@@ -82,7 +82,7 @@
 
 **验收重点：** 衣服和配饰、道具损坏状态、时间顺序、镜头间空间关系。故事里“尚未完成”的状态也要说清楚。
 
-![纸月亮故事示例，第三格需要连续性修正](../assets/images/paper-moon-story.png)
+![纸月亮故事示例，第三格需要连续性修正](../assets/previews/paper-moon-story.jpg)
 
 已有示例第三格提前出现缝线，是具体的验收反例。不要因为画面精致就忽略叙事错误；本页没有把建议的修正描述成已执行。
 

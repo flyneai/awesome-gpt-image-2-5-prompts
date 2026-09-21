@@ -1,12 +1,19 @@
 # Prompt ChatGPT Images 2.5 — Flyne AI
 
+<!-- BEGIN FLYNE ENTRY -->
+**[Gunakan GPT Image 2.5 gratis · Tanpa mendaftar](https://flyne.ai/free-gpt-image-2-5/)**
+
+Satu gambar referensi; maksimal 2.000 karakter. Periksa kebutuhan setiap resep. [→](docs/flyne-access.md)
+
+106 resep, 16 koleksi dan 142 PNG asli, termasuk contoh warisan FLAQ. 76 resep dwibahasa EN/ZH, 18 hanya bahasa Inggris dan 12 khusus bahasa. Halaman ini merupakan pengantar.
+<!-- END FLYNE ENTRY -->
+
 Edisi sumber terbuka yang dikelola Flyne AI, diadaptasi dari pustaka FLAQ. Kredit dan catatan pembuatan asli tetap dipertahankan. [FLAQ → Flyne](docs/upstream.md)
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · **Bahasa Indonesia** · [Tiếng Việt](README_vi.md)
 
-![Flyne AI — ChatGPT Images 2.5](assets/images/cover.png)
+![Flyne AI — ChatGPT Images 2.5](assets/previews/cover.jpg)
 
-Koleksi ini berisi 106 resep dalam 16 kategori serta 142 gambar baru. Sebanyak 76 resep utama tersedia dalam bahasa Inggris dan Mandarin sederhana, ditambah 12 resep khusus bahasa. README tersedia dalam 16 versi bahasa dan wilayah. Halaman ini merupakan pengantar bahasa Indonesia, bukan terjemahan seluruh prompt. Ada pula 18 resep alur kerja baru yang tersedia hanya dalam bahasa Inggris.
 
 
 **[Galeri 106 resep bergambar](docs/gallery.md)**

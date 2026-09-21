@@ -14,5 +14,6 @@ jobs:
           python3 scripts/build_catalog.py
           python3 scripts/build_gallery.py
           python3 scripts/build_videos.py
+          python3 scripts/build_usability.py
           python3 scripts/validate.py
           git diff --exit-code

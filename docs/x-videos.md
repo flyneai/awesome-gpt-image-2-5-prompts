@@ -8,6 +8,8 @@ These creator posts describe workflows that use GPT Image 2.5 for still images a
 
 Third-party previews and videos are linked remotely and are not included in the MIT license. No local video file is redistributed.
 
+[Step-by-step image-to-video template / 图转视频操作模板](image-to-video-workflow.md) — authored workflow; video output not tested / 编写模板，尚未实测视频输出。
+
 ## V001 · Cats at work · 猫咪清洁短片
 
 [![Cats at work · 猫咪清洁短片 — watch original video](https://pbs.twimg.com/amplify_video_thumb/2101961675931013120/img/n7vGLK9Y7KzMlNYi.jpg)](https://x.com/atlas_remake/status/2101963044092088810)

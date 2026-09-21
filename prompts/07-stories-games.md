@@ -20,6 +20,8 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Story pitching, character development and game concept art.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -28,7 +30,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Six-panel story of a cream repair robot stitching a paper moon in an attic](../assets/images/paper-moon-story.png)
+[![Six-panel story of a cream repair robot stitching a paper moon in an attic](../assets/previews/paper-moon-story.jpg)](../assets/images/paper-moon-story.png)
 
 [Wordless storyboard: exact prompt / 实际提示词](../assets/generation/paper-moon-story.txt)
 
@@ -72,6 +74,8 @@ Edit only panel three so the moon is still unstitched while the robot selects th
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Story pitching, character development and game concept art.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -80,7 +84,7 @@ Edit only panel three so the moon is still unstitched while the robot selects th
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Character turnaround sheet — original generated example](../assets/images/example-p038.png)
+[![Character turnaround sheet — original generated example](../assets/previews/example-p038.jpg)](../assets/images/example-p038.png)
 
 [Character turnaround sheet — generated example: exact prompt / 实际提示词](../assets/generation/example-p038.txt)
 
@@ -124,6 +128,8 @@ Change only satchel color to forest green consistently in all three views.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Story pitching, character development and game concept art.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -136,7 +142,7 @@ Change only satchel color to forest green consistently in all three views.
 
 [Input 1 / 输入 1](../assets/images/example-p039.png)
 
-![Four-expression mascot sheet — original generated example](../assets/images/example-p039-v2.png)
+[![Four-expression mascot sheet — original generated example](../assets/previews/example-p039-v2.jpg)](../assets/images/example-p039-v2.png)
 
 [Four-expression mascot sheet — refined result: exact prompt / 实际提示词](../assets/generation/example-p039-v2.txt)
 
@@ -180,6 +186,8 @@ Make only the sleepy expression’s eyelids lower.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Story pitching, character development and game concept art.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -192,7 +200,7 @@ Make only the sleepy expression’s eyelids lower.
 
 [Input 1 / 输入 1](../assets/images/example-p040.png)
 
-![Cozy game inventory icons — original generated example](../assets/images/example-p040-v2.png)
+[![Cozy game inventory icons — original generated example](../assets/previews/example-p040-v2.jpg)](../assets/images/example-p040-v2.png)
 
 [Cozy game inventory icons — refined result: exact prompt / 实际提示词](../assets/generation/example-p040-v2.txt)
 
@@ -236,6 +244,8 @@ Change only the lantern glow from yellow to pale blue.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Story pitching, character development and game concept art.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -244,7 +254,7 @@ Change only the lantern glow from yellow to pale blue.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Isometric rooftop garden — original generated example](../assets/images/example-p041.png)
+[![Isometric rooftop garden — original generated example](../assets/previews/example-p041.jpg)](../assets/images/example-p041.png)
 
 [Isometric rooftop garden — generated example: exact prompt / 实际提示词](../assets/generation/example-p041.txt)
 
@@ -288,6 +298,8 @@ Add only a folded orange watering hose beside the barrel.
 
 **Mode:** generate · **Target:** 16:9 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Story pitching, character development and game concept art.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -296,7 +308,7 @@ Add only a folded orange watering hose beside the barrel.
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Pixel-art harbor background — original generated example](../assets/images/example-p042.png)
+[![Pixel-art harbor background — original generated example](../assets/previews/example-p042.jpg)](../assets/images/example-p042.png)
 
 [Pixel-art harbor background — generated example: exact prompt / 实际提示词](../assets/generation/example-p042.txt)
 

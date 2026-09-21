@@ -22,6 +22,8 @@ Scenario inspiration: [Referenced prompt collection](https://github.com/PhiMaker
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Reusable product and storytelling design studies.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -30,7 +32,7 @@ Scenario inspiration: [Referenced prompt collection](https://github.com/PhiMaker
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Repair collective editorial portrait, original flaq.ai example](../assets/images/studio-workshop.png)
+[![Repair collective editorial portrait, original flaq.ai example](../assets/previews/studio-workshop.jpg)](../assets/images/studio-workshop.png)
 
 [Repair collective editorial portrait — original generation: exact prompt / 实际提示词](../assets/generation/studio-workshop.txt)
 
@@ -84,6 +86,8 @@ Change only the apron from mustard to muted plum. Preserve the person, pose, bac
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Reusable product and storytelling design studies.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -92,7 +96,7 @@ Change only the apron from mustard to muted plum. Preserve the person, pose, bac
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Four-step pour-over poster, original flaq.ai example](../assets/images/studio-brew.png)
+[![Four-step pour-over poster, original flaq.ai example](../assets/previews/studio-brew.jpg)](../assets/images/studio-brew.png)
 
 [Four-step pour-over poster — original generation: exact prompt / 实际提示词](../assets/generation/studio-brew.txt)
 
@@ -146,6 +150,8 @@ Change only the coral accent color to moss green; preserve all labels, step orde
 
 **Mode:** generate · **Target:** 2:3 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Reusable product and storytelling design studies.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -154,7 +160,7 @@ Change only the coral accent color to moss green; preserve all labels, step orde
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Pocket tram collectible packaging, original flaq.ai example](../assets/images/studio-tram.png)
+[![Pocket tram collectible packaging, original flaq.ai example](../assets/previews/studio-tram.jpg)](../assets/images/studio-tram.png)
 
 [Pocket tram collectible packaging — original generation: exact prompt / 实际提示词](../assets/generation/studio-tram.txt)
 
@@ -208,6 +214,8 @@ Change only the tram’s teal painted body panels to brick red. Preserve cream t
 
 **Mode:** generate · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Reusable product and storytelling design studies.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -216,7 +224,7 @@ Change only the tram’s teal painted body panels to brick red. Preserve cream t
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Handmade lighthouse island, original flaq.ai example](../assets/images/studio-lighthouse.png)
+[![Handmade lighthouse island, original flaq.ai example](../assets/previews/studio-lighthouse.jpg)](../assets/images/studio-lighthouse.png)
 
 [Handmade lighthouse island — original generation: exact prompt / 实际提示词](../assets/generation/studio-lighthouse.txt)
 
@@ -226,7 +234,7 @@ Change only the tram’s teal painted body panels to brick red. Preserve cream t
 
 [Input 1 / 输入 1](../assets/images/studio-lighthouse.png)
 
-![Handmade lighthouse island with sage lighthouse roof](../assets/images/studio-lighthouse-edit.png)
+[![Handmade lighthouse island with sage lighthouse roof](../assets/previews/studio-lighthouse-edit.jpg)](../assets/images/studio-lighthouse-edit.png)
 
 [Handmade lighthouse island — roof-color edit: exact prompt / 实际提示词](../assets/generation/studio-lighthouse-edit.txt)
 
@@ -280,6 +288,8 @@ Change only the lighthouse roof from terracotta to muted sage green. Preserve al
 
 **Mode:** generate · **Target:** 2:3 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Reusable product and storytelling design studies.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -288,7 +298,7 @@ Change only the lighthouse roof from terracotta to muted sage green. Preserve al
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Knitted keepsake greeting card, original flaq.ai example](../assets/images/studio-card.png)
+[![Knitted keepsake greeting card, original flaq.ai example](../assets/previews/studio-card.jpg)](../assets/images/studio-card.png)
 
 [Knitted keepsake greeting card — original generation: exact prompt / 实际提示词](../assets/generation/studio-card.txt)
 
@@ -342,6 +352,8 @@ Change only the bottom line to “THINKING OF YOU”. Preserve the top headline,
 
 **Mode:** generate · **Target:** 2:3 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Reusable product and storytelling design studies.
 
 **Inputs:** No reference upload is required for this default text-to-image prompt.
@@ -350,7 +362,7 @@ Change only the bottom line to “THINKING OF YOU”. Preserve the top headline,
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Ceramics studio editorial collage, original flaq.ai example](../assets/images/studio-collage.png)
+[![Ceramics studio editorial collage, original flaq.ai example](../assets/previews/studio-collage.jpg)](../assets/images/studio-collage.png)
 
 [Ceramics studio editorial collage — original generation: exact prompt / 实际提示词](../assets/generation/studio-collage.txt)
 

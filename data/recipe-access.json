@@ -1,0 +1,1158 @@
+{
+  "checked": "2026-09-21",
+  "basis": "Free page DOM: one reference, 2000-character textarea. Input fit is not a successful generation test.",
+  "recipes": [
+    {
+      "id": "P001",
+      "references": 0,
+      "prompt_characters": {
+        "en": 632,
+        "zh": 214
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P002",
+      "references": 1,
+      "prompt_characters": {
+        "en": 593,
+        "zh": 174
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P003",
+      "references": 0,
+      "prompt_characters": {
+        "en": 602,
+        "zh": 198
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P004",
+      "references": 0,
+      "prompt_characters": {
+        "en": 643,
+        "zh": 203
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P005",
+      "references": 1,
+      "prompt_characters": {
+        "en": 576,
+        "zh": 169
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P006",
+      "references": 0,
+      "prompt_characters": {
+        "en": 611,
+        "zh": 185
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P007",
+      "references": 0,
+      "prompt_characters": {
+        "en": 619,
+        "zh": 214
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P008",
+      "references": 0,
+      "prompt_characters": {
+        "en": 649,
+        "zh": 187
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P009",
+      "references": 0,
+      "prompt_characters": {
+        "en": 579,
+        "zh": 180
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P010",
+      "references": 0,
+      "prompt_characters": {
+        "en": 589,
+        "zh": 190
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P011",
+      "references": 0,
+      "prompt_characters": {
+        "en": 591,
+        "zh": 173
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P012",
+      "references": 0,
+      "prompt_characters": {
+        "en": 616,
+        "zh": 194
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P013",
+      "references": 1,
+      "prompt_characters": {
+        "en": 578,
+        "zh": 157
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P014",
+      "references": 1,
+      "prompt_characters": {
+        "en": 569,
+        "zh": 163
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P015",
+      "references": 2,
+      "prompt_characters": {
+        "en": 691,
+        "zh": 192
+      },
+      "checks": [
+        "Multiple references / 多图输入"
+      ],
+      "status": "needs-check",
+      "platform_tested": false
+    },
+    {
+      "id": "P016",
+      "references": 0,
+      "prompt_characters": {
+        "en": 573,
+        "zh": 167
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P017",
+      "references": 1,
+      "prompt_characters": {
+        "en": 601,
+        "zh": 166
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P018",
+      "references": 1,
+      "prompt_characters": {
+        "en": 577,
+        "zh": 159
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P019",
+      "references": 1,
+      "prompt_characters": {
+        "en": 565,
+        "zh": 158
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P020",
+      "references": 1,
+      "prompt_characters": {
+        "en": 550,
+        "zh": 142
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P021",
+      "references": 1,
+      "prompt_characters": {
+        "en": 561,
+        "zh": 147
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P022",
+      "references": 1,
+      "prompt_characters": {
+        "en": 542,
+        "zh": 168
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P023",
+      "references": 2,
+      "prompt_characters": {
+        "en": 568,
+        "zh": 152
+      },
+      "checks": [
+        "Multiple references / 多图输入"
+      ],
+      "status": "needs-check",
+      "platform_tested": false
+    },
+    {
+      "id": "P024",
+      "references": 1,
+      "prompt_characters": {
+        "en": 642,
+        "zh": 178
+      },
+      "checks": [
+        "Verify transparent output / 需核对透明输出"
+      ],
+      "status": "needs-check",
+      "platform_tested": false
+    },
+    {
+      "id": "P025",
+      "references": 0,
+      "prompt_characters": {
+        "en": 617,
+        "zh": 187
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P026",
+      "references": 0,
+      "prompt_characters": {
+        "en": 625,
+        "zh": 184
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P027",
+      "references": 0,
+      "prompt_characters": {
+        "en": 674,
+        "zh": 223
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P028",
+      "references": 0,
+      "prompt_characters": {
+        "en": 607,
+        "zh": 206
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P029",
+      "references": 0,
+      "prompt_characters": {
+        "en": 717,
+        "zh": 207
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P030",
+      "references": 0,
+      "prompt_characters": {
+        "en": 587,
+        "zh": 196
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P031",
+      "references": 0,
+      "prompt_characters": {
+        "en": 581,
+        "zh": 157
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P032",
+      "references": 0,
+      "prompt_characters": {
+        "en": 584,
+        "zh": 178
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P033",
+      "references": 0,
+      "prompt_characters": {
+        "en": 620,
+        "zh": 233
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P034",
+      "references": 0,
+      "prompt_characters": {
+        "en": 647,
+        "zh": 248
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P035",
+      "references": 0,
+      "prompt_characters": {
+        "en": 714,
+        "zh": 226
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P036",
+      "references": 0,
+      "prompt_characters": {
+        "en": 620,
+        "zh": 248
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P037",
+      "references": 0,
+      "prompt_characters": {
+        "en": 622,
+        "zh": 177
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P038",
+      "references": 0,
+      "prompt_characters": {
+        "en": 582,
+        "zh": 157
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P039",
+      "references": 0,
+      "prompt_characters": {
+        "en": 604,
+        "zh": 159
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P040",
+      "references": 0,
+      "prompt_characters": {
+        "en": 571,
+        "zh": 156
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P041",
+      "references": 0,
+      "prompt_characters": {
+        "en": 704,
+        "zh": 189
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P042",
+      "references": 0,
+      "prompt_characters": {
+        "en": 592,
+        "zh": 158
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P043",
+      "references": 0,
+      "prompt_characters": {
+        "en": 670,
+        "zh": 176
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P044",
+      "references": 1,
+      "prompt_characters": {
+        "en": 537,
+        "zh": 146
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P045",
+      "references": 0,
+      "prompt_characters": {
+        "en": 550,
+        "zh": 151
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P046",
+      "references": 0,
+      "prompt_characters": {
+        "en": 575,
+        "zh": 168
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P047",
+      "references": 0,
+      "prompt_characters": {
+        "en": 579,
+        "zh": 144
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P048",
+      "references": 1,
+      "prompt_characters": {
+        "en": 573,
+        "zh": 155
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P049",
+      "references": 0,
+      "prompt_characters": {
+        "en": 602,
+        "zh": 182
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P050",
+      "references": 0,
+      "prompt_characters": {
+        "en": 594,
+        "zh": 177
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P051",
+      "references": 0,
+      "prompt_characters": {
+        "en": 539,
+        "zh": 171
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P052",
+      "references": 0,
+      "prompt_characters": {
+        "en": 567,
+        "zh": 149
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P053",
+      "references": 0,
+      "prompt_characters": {
+        "en": 531,
+        "zh": 142
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P054",
+      "references": 0,
+      "prompt_characters": {
+        "en": 586,
+        "zh": 169
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P055",
+      "references": 1,
+      "prompt_characters": {
+        "en": 552,
+        "zh": 149
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P056",
+      "references": 1,
+      "prompt_characters": {
+        "en": 596,
+        "zh": 154
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P057",
+      "references": 1,
+      "prompt_characters": {
+        "en": 581,
+        "zh": 162
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P058",
+      "references": 3,
+      "prompt_characters": {
+        "en": 562,
+        "zh": 149
+      },
+      "checks": [
+        "Multiple references / 多图输入"
+      ],
+      "status": "needs-check",
+      "platform_tested": false
+    },
+    {
+      "id": "P059",
+      "references": 1,
+      "prompt_characters": {
+        "en": 591,
+        "zh": 151
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P060",
+      "references": 1,
+      "prompt_characters": {
+        "en": 600,
+        "zh": 161
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P061",
+      "references": 1,
+      "prompt_characters": {
+        "en": 820,
+        "zh": 221
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P062",
+      "references": 1,
+      "prompt_characters": {
+        "en": 847,
+        "zh": 235
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P063",
+      "references": 1,
+      "prompt_characters": {
+        "en": 775,
+        "zh": 226
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P064",
+      "references": 1,
+      "prompt_characters": {
+        "en": 807,
+        "zh": 291
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P065",
+      "references": 1,
+      "prompt_characters": {
+        "en": 912,
+        "zh": 267
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P066",
+      "references": 1,
+      "prompt_characters": {
+        "en": 926,
+        "zh": 317
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P067",
+      "references": 1,
+      "prompt_characters": {
+        "en": 851,
+        "zh": 234
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P068",
+      "references": 0,
+      "prompt_characters": {
+        "en": 1146,
+        "zh": 295
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P069",
+      "references": 0,
+      "prompt_characters": {
+        "en": 1258,
+        "zh": 363
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P070",
+      "references": 0,
+      "prompt_characters": {
+        "en": 1217,
+        "zh": 343
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P071",
+      "references": 0,
+      "prompt_characters": {
+        "en": 1135,
+        "zh": 298
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P072",
+      "references": 0,
+      "prompt_characters": {
+        "en": 1109,
+        "zh": 333
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P073",
+      "references": 0,
+      "prompt_characters": {
+        "en": 1294,
+        "zh": 345
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P074",
+      "references": 1,
+      "prompt_characters": {
+        "en": 1202
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P075",
+      "references": 1,
+      "prompt_characters": {
+        "en": 1327
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P076",
+      "references": 1,
+      "prompt_characters": {
+        "en": 1212
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P077",
+      "references": 0,
+      "prompt_characters": {
+        "en": 2979
+      },
+      "checks": [
+        "en: 2979 characters; exceeds 2000 / 超出字数限制"
+      ],
+      "status": "needs-check",
+      "platform_tested": false
+    },
+    {
+      "id": "P078",
+      "references": 1,
+      "prompt_characters": {
+        "en": 1159
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P079",
+      "references": 1,
+      "prompt_characters": {
+        "en": 1237
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P080",
+      "references": 1,
+      "prompt_characters": {
+        "en": 1110
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P081",
+      "references": 1,
+      "prompt_characters": {
+        "en": 1235
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P082",
+      "references": 2,
+      "prompt_characters": {
+        "en": 1270
+      },
+      "checks": [
+        "Multiple references / 多图输入"
+      ],
+      "status": "needs-check",
+      "platform_tested": false
+    },
+    {
+      "id": "P083",
+      "references": 1,
+      "prompt_characters": {
+        "en": 1459
+      },
+      "checks": [
+        "Verify transparent output / 需核对透明输出"
+      ],
+      "status": "needs-check",
+      "platform_tested": false
+    },
+    {
+      "id": "P084",
+      "references": 1,
+      "prompt_characters": {
+        "en": 1273
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P085",
+      "references": 2,
+      "prompt_characters": {
+        "en": 1762
+      },
+      "checks": [
+        "Multiple references / 多图输入"
+      ],
+      "status": "needs-check",
+      "platform_tested": false
+    },
+    {
+      "id": "P086",
+      "references": 0,
+      "prompt_characters": {
+        "en": 947
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P087",
+      "references": 0,
+      "prompt_characters": {
+        "en": 940
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P088",
+      "references": 0,
+      "prompt_characters": {
+        "en": 970
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P089",
+      "references": 0,
+      "prompt_characters": {
+        "en": 890
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P090",
+      "references": 0,
+      "prompt_characters": {
+        "en": 963
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P091",
+      "references": 0,
+      "prompt_characters": {
+        "en": 903
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P092",
+      "references": 0,
+      "prompt_characters": {
+        "en": 901,
+        "zh": 204
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P093",
+      "references": 0,
+      "prompt_characters": {
+        "en": 853,
+        "zh": 208
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "P094",
+      "references": 0,
+      "prompt_characters": {
+        "en": 813,
+        "zh": 206
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "L001",
+      "references": 0,
+      "prompt_characters": {
+        "en": 447
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "L002",
+      "references": 0,
+      "prompt_characters": {
+        "zh-Hans": 156
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "L003",
+      "references": 0,
+      "prompt_characters": {
+        "ja": 208
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "L004",
+      "references": 0,
+      "prompt_characters": {
+        "ko": 231
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "L005",
+      "references": 0,
+      "prompt_characters": {
+        "es": 417
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "L006",
+      "references": 0,
+      "prompt_characters": {
+        "fr": 483
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "L007",
+      "references": 0,
+      "prompt_characters": {
+        "de": 527
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "L008",
+      "references": 0,
+      "prompt_characters": {
+        "pt-BR": 416
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "L009",
+      "references": 0,
+      "prompt_characters": {
+        "ar": 330
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "L010",
+      "references": 0,
+      "prompt_characters": {
+        "hi": 422
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "L011",
+      "references": 0,
+      "prompt_characters": {
+        "th": 388
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    },
+    {
+      "id": "L012",
+      "references": 0,
+      "prompt_characters": {
+        "ru": 438
+      },
+      "checks": [],
+      "status": "within-declared-input-limits",
+      "platform_tested": false
+    }
+  ]
+}

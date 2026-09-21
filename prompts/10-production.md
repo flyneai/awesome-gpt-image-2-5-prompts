@@ -20,6 +20,8 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** edit · **Target:** 1:1 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Extending and localizing approved visual campaigns.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -32,7 +34,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 [Input 1 / 输入 1](../assets/images/tideline-lamp.png)
 
-![Seasonal product series — original generated example](../assets/images/example-p055.png)
+[![Seasonal product series — original generated example](../assets/previews/example-p055.jpg)](../assets/images/example-p055.png)
 
 [Seasonal product series — generated example: exact prompt / 实际提示词](../assets/generation/example-p055.txt)
 
@@ -76,6 +78,8 @@ For the winter sibling, replace only the autumn props with folded ivory knit; re
 
 **Mode:** edit · **Target:** 2:3 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Extending and localizing approved visual campaigns.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -88,7 +92,7 @@ For the winter sibling, replace only the autumn props with folded ivory knit; re
 
 [Input 1 / 输入 1](../assets/images/tideline-lamp.png)
 
-![Portrait ad reframe — original generated example](../assets/images/example-p056.png)
+[![Portrait ad reframe — original generated example](../assets/previews/example-p056.jpg)](../assets/images/example-p056.png)
 
 [Portrait ad reframe — generated example: exact prompt / 实际提示词](../assets/generation/example-p056.txt)
 
@@ -132,6 +136,8 @@ Move only the headline down slightly to increase top safe space.
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Extending and localizing approved visual campaigns.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -144,7 +150,7 @@ Move only the headline down slightly to increase top safe space.
 
 [Input 1 / 输入 1](../assets/images/tideline-lamp.png)
 
-![Localized campaign master — original generated example](../assets/images/example-p057.png)
+[![Localized campaign master — original generated example](../assets/previews/example-p057.jpg)](../assets/images/example-p057.png)
 
 [Localized campaign master — generated example: exact prompt / 实际提示词](../assets/generation/example-p057.txt)
 
@@ -188,6 +194,8 @@ Fix only any wrong Chinese character; preserve product and approved typesetting.
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 3 reference image(s) / 张参考图。Multiple references exceed the free entry limit / 多图输入超出免费入口限制。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Extending and localizing approved visual campaigns.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -204,7 +212,7 @@ Fix only any wrong Chinese character; preserve product and approved typesetting.
 
 [Input 3 / 输入 3](../assets/images/linen-input.png)
 
-![Three-reference product composite — original generated example](../assets/images/example-p058.png)
+[![Three-reference product composite — original generated example](../assets/previews/example-p058.jpg)](../assets/images/example-p058.png)
 
 [Three-reference product composite — generated example: exact prompt / 实际提示词](../assets/generation/example-p058.txt)
 
@@ -248,6 +256,8 @@ Reduce only lamp size by 10% while keeping its base contact on the sideboard.
 
 **Mode:** edit · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Extending and localizing approved visual campaigns.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -260,7 +270,7 @@ Reduce only lamp size by 10% while keeping its base contact on the sideboard.
 
 [Input 1 / 输入 1](../assets/images/vintage-input.png)
 
-![Vintage-photo gentle restoration — original generated example](../assets/images/example-p059.png)
+[![Vintage-photo gentle restoration — original generated example](../assets/previews/example-p059.jpg)](../assets/images/example-p059.png)
 
 [Vintage-photo gentle restoration — generated example: exact prompt / 实际提示词](../assets/generation/example-p059.txt)
 
@@ -304,6 +314,8 @@ Reduce only one remaining scratch; preserve all previously accepted repairs.
 
 **Mode:** edit · **Target:** 16:9 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 1 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Best for:** Extending and localizing approved visual campaigns.
 
 **Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
@@ -316,7 +328,7 @@ Reduce only one remaining scratch; preserve all previously accepted repairs.
 
 [Input 1 / 输入 1](../assets/images/paper-moon-story.png)
 
-![Approved storyboard shot expansion — original generated example](../assets/images/example-p060.png)
+[![Approved storyboard shot expansion — original generated example](../assets/previews/example-p060.jpg)](../assets/images/example-p060.png)
 
 [Approved storyboard shot expansion — generated example: exact prompt / 实际提示词](../assets/generation/example-p060.txt)
 

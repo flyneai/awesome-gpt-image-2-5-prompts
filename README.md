@@ -1,5 +1,13 @@
 # Awesome GPT Image 2.5 Prompts — Flyne AI
 
+<!-- BEGIN FLYNE ENTRY -->
+**[Try GPT Image 2.5 · 100% Free · No Signup Required](https://flyne.ai/free-gpt-image-2-5/)**
+
+One reference image; up to 2,000 characters. Check recipe input requirements before use. [→](docs/flyne-access.md)
+
+106 recipes · 16 packs · 142 original PNGs. 76 bilingual EN/ZH, 18 English-only and 12 language-specific recipes. Original assets include inherited FLAQ examples; see provenance.
+<!-- END FLYNE ENTRY -->
+
 **A practical, multilingual prompt library for image generation and editing — product photos, ads, portraits, typography, UI concepts, infographics and storyboards.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -8,7 +16,7 @@
 
 **English** · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
-![Flyne AI GPT Image 2.5 prompt library: product imagery, illustration and storyboards](assets/images/cover.png)
+![Flyne AI GPT Image 2.5 prompt library: product imagery, illustration and storyboards](assets/previews/cover.jpg)
 
 > Maintained by [Flyne AI](https://flyne.ai) for creators, designers and small brands. Adapted from our company’s [FLAQ open-source library](docs/upstream.md), with original credits preserved.
 
@@ -20,7 +28,7 @@
 
 | Bakery campaign | Paper travel cover | Spiral lagoon |
 | --- | --- | --- |
-| [![Bakery campaign](assets/images/flyne-p092.png)](prompts/16-flyne-x-discoveries.md#p092) | [![Paper town](assets/images/flyne-p093.png)](prompts/16-flyne-x-discoveries.md#p093) | [![Lagoon](assets/images/flyne-p094.png)](prompts/16-flyne-x-discoveries.md#p094) |
+| [![Bakery campaign](assets/previews/flyne-p092.jpg)](prompts/16-flyne-x-discoveries.md#p092) | [![Paper town](assets/previews/flyne-p093.jpg)](prompts/16-flyne-x-discoveries.md#p093) | [![Lagoon](assets/previews/flyne-p094.jpg)](prompts/16-flyne-x-discoveries.md#p094) |
 
 [Copy all three prompts](prompts/16-flyne-x-discoveries.md) · [Watch creator demos](docs/x-videos.md)
 
@@ -38,7 +46,7 @@ The library is for independent brands, online shops, designers, creators, educat
 
 | Product storytelling | Character design | Cinematic storyboard |
 | --- | --- | --- |
-| [![Bread typography campaign](assets/images/example-p086-v2.png)](prompts/15-x-community.md#p086) | [![Four courier character styles](assets/images/example-p076.png)](prompts/14-sketch-to-story.md#p076) | [![Nine cinematic greenhouse shots](assets/images/example-p084.png)](prompts/14-sketch-to-story.md#p084) |
+| [![Bread typography campaign](assets/previews/example-p086-v2.jpg)](prompts/15-x-community.md#p086) | [![Four courier character styles](assets/previews/example-p076.jpg)](prompts/14-sketch-to-story.md#p076) | [![Nine cinematic greenhouse shots](assets/previews/example-p084.jpg)](prompts/14-sketch-to-story.md#p084) |
 | Food typography with readable copy | One character across four materials | Identity and props across nine shots |
 
 [**Browse all 106 illustrated recipes →**](docs/gallery.md) · [See editing inputs and review notes](docs/generation-log.md)
@@ -78,35 +86,37 @@ The [full recipe](prompts/01-product.md#p001) and [exact executed prompt](assets
 
 ## Prompt library
 
-| Prompt pack | What you can make | Recipes |
-| --- | --- | --- |
-| [Product photography & e-commerce](prompts/01-product.md) | Lamp ad, cup catalog, skincare still life, grinder cutaway, sneaker detail, gift box | 6 |
-| [Ads, social & creator covers](prompts/02-social.md) | Repair flyer, video thumbnail, travel carousel, lunch ad, podcast cover, market campaign | 6 |
-| [Portraits, fashion & pets](prompts/03-people-pets.md) | Natural headshot, pet portrait, jacket try-on, lifestyle photo, couple illustration, watercolor keepsake | 6 |
-| [Precise image editing](prompts/04-editing.md) | Product recolor, removal, evening relight, text replacement, sketch-guided insertion, cutout | 6 |
-| [Infographics & education](prompts/05-information.md) | Rain garden, tasting diagram, demo chart, illustrated map, plant cycle, workshop slide | 6 |
-| [Brand identity & UI](prompts/06-brand-ui.md) | Wordmark, wayfinding, mobile app, landing-page concept, packaging family, dashboard | 6 |
-| [Comics, characters & games](prompts/07-stories-games.md) | Six-panel story, turnaround, expressions, icons, isometric rooftop, pixel harbor | 6 |
-| [Architecture & interiors](prompts/08-spaces.md) | Reading room, apartment refresh, guest room, pop-up store, courtyard, pavilion | 6 |
-| [Publishing & illustration](prompts/09-publishing.md) | Book cover, cookbook spread, annual review, editorial metaphor, ink print, zine | 6 |
-| [Series & production handoff](prompts/10-production.md) | Seasonal variants, aspect-ratio adaptation, localization, three-image composite, restoration, shot expansion | 6 |
-| [Multilingual briefs](prompts/11-multilingual.md) | Script-aware posters in English, Chinese, Japanese, Korean, Spanish, French, German, Portuguese, Arabic, Hindi, Thai and Russian | 12 |
-| [Launch-inspired editing examples](prompts/12-launch-examples.md) | Pet costume, child wardrobe, duvet pattern, souvenir text, cube rotation, itinerary revision, candle count | 7 |
-| [Customizable studio briefs](prompts/13-customizable-studio.md) | Workshop portrait, pour-over poster, toy packaging, lighthouse miniature, keepsake card, editorial collage | 6 |
-| [Sketch-to-story: English workflows](prompts/14-sketch-to-story.md) | Sketch interpretation, dense English layout, portrait revisions, branded apparel, action sheets, MV and narrative boards | 12 |
-| [X community: source-linked briefs](prompts/15-x-community.md) | Food lettering, product storyboards, mobility posters, travel cards, architecture, event invitations | 6 |
-| [Flyne: fresh X discoveries](prompts/16-flyne-x-discoveries.md) | Bakery hierarchy, paper travel cover, spiral lagoon | 3 |
+<!-- BEGIN PACK TABLE -->
+| Collection | Recipes |
+| --- | --- |
+| [Product photography & e-commerce](prompts/01-product.md) | 6 |
+| [Ads, social posts & creator covers](prompts/02-social.md) | 6 |
+| [Portraits, fashion & pets](prompts/03-people-pets.md) | 6 |
+| [Precise edits & multi-turn workflows](prompts/04-editing.md) | 6 |
+| [Infographics, education & presentations](prompts/05-information.md) | 6 |
+| [Brand identity & interface concepts](prompts/06-brand-ui.md) | 6 |
+| [Comics, characters & game art](prompts/07-stories-games.md) | 6 |
+| [Architecture, interiors & hospitality](prompts/08-spaces.md) | 6 |
+| [Publishing, print & editorial illustration](prompts/09-publishing.md) | 6 |
+| [Series, localization & production handoff](prompts/10-production.md) | 6 |
+| [Multilingual recipes](prompts/11-multilingual.md) | 12 |
+| [Launch-inspired editing examples](prompts/12-launch-examples.md) | 7 |
+| [Customizable studio briefs](prompts/13-customizable-studio.md) | 6 |
+| [Sketch-to-story: English workflow prompts](prompts/14-sketch-to-story.md) | 12 |
+| [X community: practical visual briefs](prompts/15-x-community.md) | 6 |
+| [Flyne: fresh X-inspired image briefs](prompts/16-flyne-x-discoveries.md) | 3 |
+<!-- END PACK TABLE -->
 
 ## Featured examples
 
 | Product campaign | Japanese bakery poster |
 | --- | --- |
-| ![Original portable lamp product campaign on coral and navy](assets/images/tideline-lamp.png) | ![Japanese and English bakery poster with a croissant and readable headline](assets/images/komorebi-bakery.png) |
+| ![Original portable lamp product campaign on coral and navy](assets/previews/tideline-lamp.jpg) | ![Japanese and English bakery poster with a croissant and readable headline](assets/previews/komorebi-bakery.jpg) |
 | [P001 · Product brief](prompts/01-product.md#p001) | [L003 · Japanese brief](prompts/11-multilingual.md#l003) |
 
 | Wordless story | Architectural concept |
 | --- | --- |
-| ![Six-panel illustrated story of a robot repairing a paper moon](assets/images/paper-moon-story.png) | ![Original reading-room interior with terracotta seating and steel windows](assets/images/reading-room.png) |
+| ![Six-panel illustrated story of a robot repairing a paper moon](assets/previews/paper-moon-story.jpg) | ![Original reading-room interior with terracotta seating and steel windows](assets/previews/reading-room.jpg) |
 | [P037 · Story brief](prompts/07-stories-games.md#p037) | [P043 · Interior brief](prompts/08-spaces.md#p043) |
 
 These images were generated for this repository using Codex’s built-in image tool. Its underlying model ID was not returned, so they are **not verified Flare or Sunburst benchmarks**. The story has a visible continuity issue in panel three; the room contains extra styling objects. Read the [honest review notes](docs/generation-log.md) before using an example as a production reference.
@@ -125,7 +135,7 @@ Six new bilingual recipes, **P068–P073**, each include three adjustable detail
 
 | Miniature island | Collectible packaging |
 | --- | --- |
-| ![Handmade lighthouse island with two ochre boats](assets/images/studio-lighthouse.png) | ![Original pocket tram collectible in clear packaging](assets/images/studio-tram.png) |
+| ![Handmade lighthouse island with two ochre boats](assets/previews/studio-lighthouse.jpg) | ![Original pocket tram collectible in clear packaging](assets/previews/studio-tram.jpg) |
 | [P071 · Edit one roof color](prompts/13-customizable-studio.md#p071) | [P070 · Customize colors and copy](prompts/13-customizable-studio.md#p070) |
 
 **[Browse the six customizable recipes](prompts/13-customizable-studio.md)** · [See the real roof-color edit and source notes](docs/customizable-studio.md)
@@ -136,7 +146,7 @@ Explore original adaptations of scenarios in [OpenAI’s Images 2.5 launch artic
 
 | Before: three candles | After: five candles |
 | --- | --- |
-| ![Ivory birthday cake with three unlit orange candles](assets/images/launch-cake-input.png) | ![The cake edited to show five unlit orange candles](assets/images/launch-cake-edit.png) |
+| ![Ivory birthday cake with three unlit orange candles](assets/previews/launch-cake-input.jpg) | ![The cake edited to show five unlit orange candles](assets/previews/launch-cake-edit.jpg) |
 
 Try pet styling, a synthetic child’s outfit change, a duvet pattern swap, city-name replacement, cube rotation or a single-column itinerary edit. Each pair includes exact prompts and an honest review. The cube result has a geometry defect; none of these outputs is a verified model benchmark.
 
@@ -146,7 +156,7 @@ Try pet styling, a synthetic child’s outfit change, a duvet pattern swap, city
 
 | 1 · Original | 2 · Change base color | 3 · Change headline |
 | --- | --- | --- |
-| ![Original navy lamp with LIGHT, UNPLUGGED headline](assets/images/tideline-lamp.png) | ![Jade lamp with original headline retained](assets/images/tideline-lamp-jade.png) | ![Jade lamp with revised YOUR EVENING, UPGRADED headline](assets/images/tideline-lamp-copy.png) |
+| ![Original navy lamp with LIGHT, UNPLUGGED headline](assets/previews/tideline-lamp.jpg) | ![Jade lamp with original headline retained](assets/previews/tideline-lamp-jade.jpg) | ![Jade lamp with revised YOUR EVENING, UPGRADED headline](assets/previews/tideline-lamp-copy.jpg) |
 
 The second edit uses the **green output** as its input. The earlier color decision carries forward while the headline changes. Fine texture still drifts, and the stem changes with the base: this is a useful creative sequence, not a promise of pixel-perfect preservation. [Follow the complete case study](docs/editing-case-study.md).
 

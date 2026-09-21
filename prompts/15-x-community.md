@@ -20,6 +20,8 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Source-attributed campaign and presentation concepts.
@@ -44,7 +46,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 [Input 1 / 输入 1](../assets/images/example-p086.png)
 
-![Ingredient-built bakery lettering — original generated example](../assets/images/example-p086-v2.png)
+[![Ingredient-built bakery lettering — original generated example](../assets/previews/example-p086-v2.jpg)](../assets/images/example-p086-v2.png)
 
 [Ingredient-built bakery lettering — refined result: exact prompt / 实际提示词](../assets/generation/example-p086-v2.txt)
 
@@ -79,6 +81,8 @@ Change the enamel surface to warm ivory while preserving the dough shapes, shado
 
 **Mode:** generate · **Target:** 3:2 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Source-attributed campaign and presentation concepts.
@@ -99,7 +103,7 @@ Change the enamel surface to warm ivory while preserving the dough shapes, shado
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Six-frame fragrance launch board — original generated example](../assets/images/example-p087.png)
+[![Six-frame fragrance launch board — original generated example](../assets/previews/example-p087.jpg)](../assets/images/example-p087.png)
 
 [Six-frame fragrance launch board — generated example: exact prompt / 实际提示词](../assets/generation/example-p087.txt)
 
@@ -134,6 +138,8 @@ Correct only panel 05 so the mist originates at the atomizer; preserve all other
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Source-attributed campaign and presentation concepts.
@@ -154,7 +160,7 @@ Correct only panel 05 so the mist originates at the atomizer; preserve all other
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Editorial mobility concept poster — original generated example](../assets/images/example-p088.png)
+[![Editorial mobility concept poster — original generated example](../assets/previews/example-p088.jpg)](../assets/images/example-p088.png)
 
 [Editorial mobility concept poster — generated example: exact prompt / 实际提示词](../assets/generation/example-p088.txt)
 
@@ -189,6 +195,8 @@ Change only the cargo box to muted orange; keep wheels, frame, camera and typogr
 
 **Mode:** generate · **Target:** 2:3 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Source-attributed campaign and presentation concepts.
@@ -209,7 +217,7 @@ Change only the cargo box to muted orange; keep wheels, frame, camera and typogr
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Paper-window weekend destination card — original generated example](../assets/images/example-p089.png)
+[![Paper-window weekend destination card — original generated example](../assets/previews/example-p089.jpg)](../assets/images/example-p089.png)
 
 [Paper-window weekend destination card — generated example: exact prompt / 实际提示词](../assets/generation/example-p089.txt)
 
@@ -244,6 +252,8 @@ Move the lighting from morning to overcast afternoon without changing the paper 
 
 **Mode:** generate · **Target:** 16:9 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Source-attributed campaign and presentation concepts.
@@ -264,7 +274,7 @@ Move the lighting from morning to overcast afternoon without changing the paper 
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Sketch-to-building concept reveal — original generated example](../assets/images/example-p090.png)
+[![Sketch-to-building concept reveal — original generated example](../assets/previews/example-p090.jpg)](../assets/images/example-p090.png)
 
 [Sketch-to-building concept reveal — generated example: exact prompt / 实际提示词](../assets/generation/example-p090.txt)
 
@@ -299,6 +309,8 @@ Make only the middle wireframe zone narrower, preserving the building footprint 
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
 **Best for:** Source-attributed campaign and presentation concepts.
@@ -319,7 +331,7 @@ Make only the middle wireframe zone narrower, preserving the building footprint 
 
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Community picnic announcement — original generated example](../assets/images/example-p091.png)
+[![Community picnic announcement — original generated example](../assets/previews/example-p091.jpg)](../assets/images/example-p091.png)
 
 [Community picnic announcement — generated example: exact prompt / 实际提示词](../assets/generation/example-p091.txt)
 
