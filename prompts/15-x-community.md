@@ -20,7 +20,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
-**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 Free selector has no 4:5; choose a compatible tool or adapt the ratio explicitly / 免费入口无此比例；需换用兼容工具或明确修改比例。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
 
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
@@ -138,7 +138,7 @@ Correct only panel 05 so the mist originates at the atomizer; preserve all other
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
-**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 Free selector has no 4:5; choose a compatible tool or adapt the ratio explicitly / 免费入口无此比例；需换用兼容工具或明确修改比例。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
 
 **Language:** English. Expanded adaptation; see the result status and source information below.
 
@@ -309,7 +309,7 @@ Make only the middle wireframe zone narrower, preserving the building footprint 
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
-**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 Free selector has no 4:5; choose a compatible tool or adapt the ratio explicitly / 免费入口无此比例；需换用兼容工具或明确修改比例。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
 
 **Language:** English. Expanded adaptation; see the result status and source information below.
 

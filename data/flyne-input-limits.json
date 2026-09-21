@@ -1,0 +1,18 @@
+{
+  "url": "https://flyne.ai/free-gpt-image-2-5/",
+  "checked": "2026-09-21",
+  "method": "CDP rendered form controls",
+  "max_references": 1,
+  "max_prompt_characters": 2000,
+  "ratios": [
+    "21:9",
+    "16:9",
+    "4:3",
+    "3:2",
+    "1:1",
+    "2:3",
+    "3:4",
+    "9:16",
+    "9:21"
+  ]
+}

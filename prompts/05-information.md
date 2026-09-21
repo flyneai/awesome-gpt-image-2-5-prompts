@@ -240,7 +240,7 @@ Change only the route color to dark blue without moving its path.
 
 **Mode:** generate · **Target:** 4:5 · **Author:** FLAQ team (original); Flyne AI edition
 
-**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
+**Flyne input guide / 输入说明:** 0 reference image(s) / 张参考图。Check prompt length and output requirements / 核对提示词长度与输出要求。 Free selector has no 4:5; choose a compatible tool or adapt the ratio explicitly / 免费入口无此比例；需换用兼容工具或明确修改比例。 [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。
 
 **Best for:** Teaching cards, explanatory slides and fictional-data presentations.
 

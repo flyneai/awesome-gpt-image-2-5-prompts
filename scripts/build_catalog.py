@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Render bilingual Markdown and machine-readable full prompts from authored data."""
 import json
-from recipe_inputs import reference_count, TRANSPARENT_OUTPUT_IDS
+from recipe_inputs import reference_count, TRANSPARENT_OUTPUT_IDS, LIMITS
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 def preview(path):
@@ -39,6 +39,7 @@ def build():
                       f'**Mode:** {r["mode"]} · **Target:** {r["ratio"]} · **Author:** {r.get("author", "FLAQ team (original); Flyne AI edition")}', '']
             refs=reference_count(r)
             caution = 'Multiple references exceed the free entry limit / 多图输入超出免费入口限制。' if refs>1 else 'Check prompt length and output requirements / 核对提示词长度与输出要求。'
+            if r['ratio'] not in LIMITS['ratios']: caution += f' Free selector has no {r["ratio"]}; choose a compatible tool or adapt the ratio explicitly / 免费入口无此比例；需换用兼容工具或明确修改比例。'
             if r['id']=='P077': caution += ' Full English prompt exceeds 2,000 characters / 完整英文提示词超过 2,000 字符。'
             if r['id'] in TRANSPARENT_OUTPUT_IDS: caution += ' Transparent output needs verification / 透明输出需要另行核实。'
             lines += [f'**Flyne input guide / 输入说明:** {refs} reference image(s) / 张参考图。{caution} [Details / 详情](../docs/recipe-access.md). Input fit is not a platform test / 符合输入限制不代表已实测。', '']

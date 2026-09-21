@@ -13,7 +13,7 @@ The access claims above are published page descriptions. The attempt below has n
 
 ## Input requirements
 
-[Check all recipes / 逐条核对输入要求](recipe-access.md). P015, P023, P058, P082 and P085 need multiple references. P077’s full English prompt exceeds 2,000 characters. P024 and P083 require transparent output, which needs separate verification. Input compatibility is not a quality guarantee.
+[Check all recipes / 逐条核对输入要求](recipe-access.md). P015, P023, P058, P082 and P085 need multiple references. P077’s full English prompt exceeds 2,000 characters. P024 and P083 require transparent output, which needs separate verification. Fourteen recipes request 4:5, which is absent from the free selector. Input compatibility is not a quality guarantee.
 
 ## Browser generation attempt · 浏览器生成尝试
 
@@ -22,3 +22,9 @@ On 2026-09-21, a maintainer submitted a 342-character, shortened P001 lamp brief
 本次使用已登录的品牌浏览器提交简版台灯提示词，比例为 3:2。页面持续显示“Generating...”，检查时尚无结果。不能据此声称已出图成功、无需登录已实测或服务已经故障；未重复提交。
 
 Exact submitted text and observation are recorded in [platform-tests.json](../data/platform-tests.json). This attempt does not validate the complete P001 template or change the original example’s provenance.
+
+## When your recipe needs 4:5
+
+The observed selector offers 21:9, 16:9, 4:3, 3:2, 1:1, 2:3, 3:4, 9:16 and 9:21. A 4:5 request written in the prompt does not add that option to the tool. To preserve the recipe exactly, choose a tool that supports 4:5. Alternatively, replace the ratio in the prompt with 3:4, select 3:4, leave safe space at top and bottom, then crop the approved output to 4:5 in an image editor. Review text and framing after cropping. This is an adaptation, not a test of the original ratio.
+
+需要 4:5 时，先选择支持该比例的工具。如果改用免费入口的 3:4，应同时替换提示词里的比例，并要求上下留安全边距；生成后用图片编辑器裁成 4:5，重新检查文字和构图。仅在提示词中写 4:5 不代表页面支持这个比例。
