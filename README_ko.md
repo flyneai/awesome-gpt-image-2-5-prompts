@@ -68,3 +68,7 @@ OpenAI와 제휴하거나 OpenAI의 보증을 받은 프로젝트가 아닙니�
 [X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)
 
 [Flyne 추가 프롬프트와 영상](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)
+
+## 제휴 마케팅 파트너 모집
+
+Flyne AI는 제휴 마케팅 파트너를 환영합니다. [프로그램 안내 및 신청](https://flyne.ai/affiliate-program/)에서 자세한 내용을 확인하세요.

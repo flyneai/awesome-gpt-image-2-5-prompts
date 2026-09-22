@@ -65,3 +65,7 @@
 
 
 [أوامر وفيديوهات Flyne الجديدة](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)
+
+## شراكات التسويق بالعمولة
+
+ترحّب Flyne AI بشركاء التسويق بالعمولة. [تعرّف على البرنامج وكيفية الانضمام](https://flyne.ai/affiliate-program/).

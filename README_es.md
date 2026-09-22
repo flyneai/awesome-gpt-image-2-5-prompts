@@ -65,3 +65,7 @@ Edición de código abierto mantenida por Flyne AI y adaptada de la biblioteca F
 
 
 [Nuevos prompts y vídeos de Flyne](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)
+
+## Colaboraciones de afiliación
+
+Flyne AI da la bienvenida a socios afiliados. [Consulta el programa y solicita participar](https://flyne.ai/affiliate-program/).

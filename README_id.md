@@ -68,3 +68,7 @@ Proyek ini tidak berafiliasi dengan OpenAI dan tidak mendapat dukungan resmi dar
 [X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)
 
 [Prompt dan video baru Flyne](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)
+
+## Kemitraan afiliasi
+
+Flyne AI menyambut mitra afiliasi. [Pelajari program dan cara bergabung](https://flyne.ai/affiliate-program/).

@@ -65,3 +65,7 @@ Flyne AI が維持するオープンソース版です。FLAQ のライブラリ
 
 
 [Flyne の追加プロンプトと動画](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)
+
+## アフィリエイトパートナー募集
+
+Flyne AI はアフィリエイトパートナーを募集しています。[プログラムの詳細と申し込みはこちら](https://flyne.ai/affiliate-program/)。

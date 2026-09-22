@@ -68,3 +68,7 @@
 [X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)
 
 [Flyne 新增配方與影片](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)
+
+## 聯盟推廣合作
+
+Flyne AI 支援聯盟推廣合作，歡迎成為我們的推廣夥伴。合作規則與申請方式請見 [Flyne AI 聯盟推廣計畫](https://flyne.ai/affiliate-program/)。

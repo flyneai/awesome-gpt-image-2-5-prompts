@@ -348,3 +348,7 @@ README现提供 **16个语言／地区版本**，默认英文。各语言入口�
 [MIT](LICENSE) © 2026 Flaq AI 与 Flyne AI。
 
 [默认英文首页](README.md) · [完整索引](prompts/README.md) · [机器可读数据](data/prompts.json) · [更新日志](CHANGELOG.md) · [SEO 发布文案](docs/seo.md)
+
+## 联盟推广合作
+
+Flyne AI 支持联盟推广合作，欢迎成为我们的推广伙伴。合作规则与申请方式请见 [Flyne AI 联盟推广计划](https://flyne.ai/affiliate-program/)。

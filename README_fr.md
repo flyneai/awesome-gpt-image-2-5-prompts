@@ -65,3 +65,7 @@ Ce projet n’est pas affilié à OpenAI. Le contenu original est proposé sous 
 
 
 [Nouveaux prompts et vidéos Flyne](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)
+
+## Partenariats d’affiliation
+
+Flyne AI accueille les partenaires affiliés. [Découvrez le programme et proposez votre candidature](https://flyne.ai/affiliate-program/).

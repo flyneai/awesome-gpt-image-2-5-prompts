@@ -68,3 +68,7 @@
 [X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)
 
 [พรอมป์ต์และวิดีโอใหม่จาก Flyne](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)
+
+## ร่วมเป็นพันธมิตรแนะนำบริการ
+
+Flyne AI ยินดีต้อนรับพันธมิตรแนะนำบริการเพื่อรับค่าคอมมิชชัน [ดูรายละเอียดโครงการและวิธีสมัคร](https://flyne.ai/affiliate-program/)

@@ -68,3 +68,7 @@ Flyne AI द्वारा संचालित यह ओपन-सोर्�
 [X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)
 
 [Flyne के नए प्रॉम्प्ट और वीडियो](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)
+
+## एफ़िलिएट साझेदारी
+
+Flyne AI अपने एफ़िलिएट कार्यक्रम में साझेदारों का स्वागत करता है। [कार्यक्रम की जानकारी और आवेदन का तरीका देखें](https://flyne.ai/affiliate-program/)।

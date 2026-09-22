@@ -393,3 +393,7 @@ The Flyne edition maintains the prompt catalog, visual examples, source credits 
 [MIT](LICENSE) © 2026 Flaq AI and Flyne AI.
 
 [Full index](prompts/README.md) · [Machine-readable prompts](data/prompts.json) · [Changelog](CHANGELOG.md) · [SEO publishing kit](docs/seo.md)
+
+## Affiliate partnerships
+
+Flyne AI welcomes affiliate partners. [Explore the program and apply](https://flyne.ai/affiliate-program/).

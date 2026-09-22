@@ -68,3 +68,7 @@ Dieses Projekt ist weder mit OpenAI verbunden noch von OpenAI empfohlen. [MIT Li
 [X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)
 
 [Neue Flyne-Prompts und Videos](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)
+
+## Affiliate-Partnerschaften
+
+Flyne AI begrüßt Affiliate-Partner. [Mehr zum Programm und zur Anmeldung](https://flyne.ai/affiliate-program/).

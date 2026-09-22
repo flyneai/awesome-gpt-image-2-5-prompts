@@ -68,3 +68,7 @@
 [X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)
 
 [Новые промпты и видео Flyne](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)
+
+## Партнёрская программа
+
+Flyne AI приглашает к сотрудничеству партнёров по продвижению. [Условия программы и подача заявки](https://flyne.ai/affiliate-program/).

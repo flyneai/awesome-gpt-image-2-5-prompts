@@ -68,3 +68,7 @@ Dự án không liên kết với OpenAI và không được OpenAI bảo trợ.
 [X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)
 
 [Prompt và video mới của Flyne](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)
+
+## Hợp tác tiếp thị liên kết
+
+Flyne AI chào đón các đối tác tiếp thị liên kết. [Tìm hiểu chương trình và cách đăng ký](https://flyne.ai/affiliate-program/).

@@ -68,3 +68,7 @@ Questo progetto non è affiliato a OpenAI né approvato da OpenAI. [MIT License]
 [X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)
 
 [Nuovi prompt e video Flyne](prompts/16-flyne-x-discoveries.md) · [▶](docs/x-videos.md)
+
+## Collaborazioni di affiliazione
+
+Flyne AI accoglie partner affiliati. [Scopri il programma e come candidarti](https://flyne.ai/affiliate-program/).
